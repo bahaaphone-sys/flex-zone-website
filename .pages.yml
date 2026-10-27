@@ -1,0 +1,32 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: products
+    label: FLEX ZONE Products
+    type: file
+    path: products.json
+    format: json
+    list: true
+    fields:
+      - name: name
+        label: Product Name
+        type: string
+        required: true
+      - name: price
+        label: Price USD
+        type: number
+        required: true
+      - name: colors
+        label: Colors
+        type: string
+      - name: description
+        label: Description
+        type: text
+      - name: image
+        label: Product Photo
+        type: image
+      - name: available
+        label: Available
+        type: boolean
