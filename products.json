@@ -38,5 +38,13 @@
     "description": "Real Madrid white football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "image": "/media/IMG_9088.jpeg",
     "available": true
+  },
+  {
+    "name": "REAL MADRID GREEN JERSEY",
+    "price": 25,
+    "colors": "Dark Green",
+    "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
+    "image": "/media/IMG_8822.jpeg",
+    "available": true
   }
 ]
