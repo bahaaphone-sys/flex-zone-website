@@ -22,5 +22,13 @@
     "description": "Waterproof and windproof sports jacket, breathable, lightweight, with adjustable cuffs and hood. Delivery all over Lebanon.",
     "image": "/media/97E4CDC2-20FC-402E-9E44-D28AD052D619-1.png",
     "available": true
+  },
+  {
+    "name": "WINTER PUFFER JACKET",
+    "price": 45,
+    "colors": "Black, Olive",
+    "description": "Warm winter puffer jacket with lightweight insulation, wind protection and comfortable fit. Delivery all over Lebanon.",
+    "image": "/media/620F2223-B271-44A4-A78B-2C8533EE6C26.png",
+    "available": true
   }
 ]
