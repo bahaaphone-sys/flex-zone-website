@@ -30,5 +30,13 @@
     "description": "Warm winter puffer jacket with lightweight insulation, wind protection and comfortable fit. Delivery all over Lebanon.",
     "image": "/media/D2B66492-EF4D-409C-A06C-3918F7281064.png",
     "available": true
+  },
+  {
+    "name": "REAL MADRID HOME JERSEY",
+    "price": 25,
+    "colors": "White",
+    "description": "Real Madrid white football jersey with club crest and Adidas design. Delivery all over Lebanon.",
+    "image": "/media/IMG_9088.jpeg",
+    "available": true
   }
 ]
