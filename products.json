@@ -14,5 +14,12 @@
     "description": "Waterproof and windproof jacket, breathable, lightweight, with adjustable cuffs and hood. Delivery all over Lebanon.",
     "image": "/media/FC01561B-BBF2-4749-8A0B-C7137B98F674.png",
     "available": true
+  },
+  {
+    "name": "SPORTS WATERPROOF JACKET",
+    "price": 50,
+    "colors": "Black, Light Grey",
+    "description": "Waterproof and windproof sports jacket, breathable, lightweight, with adjustable cuffs and hood. Delivery all over Lebanon.",
+    "available": true
   }
 ]
