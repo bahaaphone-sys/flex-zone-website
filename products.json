@@ -94,5 +94,13 @@
     "description": "Adidas black tracksuit set with zip-up jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/AEA18D60-A0F4-47B7-8DCC-D181AC6601AD.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS BEIGE COTTON TRACKSUIT SET",
+    "price": 45,
+    "colors": "Beige",
+    "description": "Adidas beige tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
+    "image": "/media/2790EC77-B8F1-44F0-8E07-20845DAFB0FB.png",
+    "available": true
   }
 ]
