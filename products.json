@@ -166,5 +166,13 @@
     "description": "ON CLOUD running shoes in black with white Cloudtec-style sole. Delivery all over Lebanon.",
     "image": "/media/8975A9C2-FA44-4CE9-9630-798CFE9FFA75.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD BLACK RUNNING SHOES",
+    "price": 45,
+    "colors": "All Black",
+    "description": "ON CLOUD running shoes in all-black design with a cushioned sole. Delivery all over Lebanon.",
+    "image": "/media/64427B52-E8AC-4BA9-A848-36F130F6AC2C.png",
+    "available": true
   }
 ]
