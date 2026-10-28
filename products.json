@@ -62,5 +62,13 @@
     "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
     "image": "/media/48AAAE57-EB53-4BA5-B885-1C70436C27BB.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS PREMIUM PUFFER JACKET",
+    "price": 45,
+    "colors": "Light Blue, White",
+    "description": "Warm padded puffer jacket with hood, sporty three-stripe design and comfortable fit. Available in light blue and white. Delivery all over Lebanon.",
+    "image": "/media/53A16435-3D85-49C3-A7F5-D7586D40EA2C.png",
+    "available": true
   }
 ]
