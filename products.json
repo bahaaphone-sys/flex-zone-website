@@ -382,5 +382,13 @@
     "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/C4B8D5D5-825B-4B10-8646-0CA3ABC09D18.png",
     "available": true
+  },
+  {
+    "name": "THE NORTH FACE CLASSIC HOODIES",
+    "price": 30,
+    "colors": "Red / Black",
+    "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
+    "image": "/media/DCF20F49-93E4-4507-B38E-E01F28867228.png",
+    "available": true
   }
 ]
