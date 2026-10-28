@@ -406,5 +406,13 @@
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
     "image": "/media/5E464EC7-1AE9-4175-B674-A9BBDD2CAC6A.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS SPORT PANTS",
+    "price": 30,
+    "colors": "White / Black",
+    "description": "Adidas sports pants in white and black with elastic waistband, comfortable fit and sporty design. Delivery all over Lebanon.",
+    "image": "/media/6D707114-D599-4579-9124-F3E35D4CD605.png",
+    "available": true
   }
 ]
