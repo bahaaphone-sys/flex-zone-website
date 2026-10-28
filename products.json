@@ -438,5 +438,13 @@
     "description": "The North Face outdoor pants in black and grey with zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/3B843DCF-A2EE-43B4-8688-B49E569E1E06-1.png",
     "available": true
+  },
+  {
+    "name": "NIKE HOODED SPORTS TRACKSUIT",
+    "price": 45,
+    "colors": "All Black / Petrol Blue & Black",
+    "description": "Nike hooded sports tracksuit with zip-up jacket, matching black pants, zippered pockets and comfortable lightweight design. Available in all black or petrol blue and black. Delivery all over Lebanon.",
+    "image": "/media/CBBF8038-80F1-42B8-8959-A646E9E9B0D3.png",
+    "available": true
   }
 ]
