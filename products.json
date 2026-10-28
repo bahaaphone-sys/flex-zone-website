@@ -174,5 +174,13 @@
     "description": "ON CLOUD running shoes in all-black design with a cushioned sole. Delivery all over Lebanon.",
     "image": "/media/64427B52-E8AC-4BA9-A848-36F130F6AC2C.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD WHITE NEON RUNNING SHOES",
+    "price": 45,
+    "colors": "White / Light Grey / Neon Yellow",
+    "description": "ON CLOUD running shoes in white and light grey with a neon yellow cushioned sole and orange accents. Delivery all over Lebanon.",
+    "image": "/media/3390AD55-2843-42B1-B9C8-3F528700BAA2.png",
+    "available": true
   }
 ]
