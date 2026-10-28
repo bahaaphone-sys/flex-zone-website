@@ -150,5 +150,13 @@
     "description": "Borussia Dortmund football jersey in classic yellow and black design. Delivery all over Lebanon.",
     "image": "/media/IMG_9098.jpeg",
     "available": true
+  },
+  {
+    "name": "MANCHESTER CITY FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Sky Blue",
+    "description": "Manchester City football jersey in sky blue with white details. Delivery all over Lebanon.",
+    "image": "/media/IMG_9101.jpeg",
+    "available": true
   }
 ]
