@@ -110,5 +110,13 @@
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/645c2cf8-09b7-4cd7-b68a-ccdf4749c44f.jpeg",
     "available": true
+  },
+  {
+    "name": "ADIDAS RUNNING SHOES - GREY GREEN",
+    "price": 65,
+    "colors": "Grey, Light Green",
+    "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
+    "image": "/media/e41f2a21-aaf3-4888-bd74-fbc322ed2241.jpeg",
+    "available": true
   }
 ]
