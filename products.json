@@ -334,5 +334,13 @@
     "description": "Paris Saint-Germain football jersey in white with red and navy blue vertical stripes. Delivery all over Lebanon.",
     "image": "/media/E17FF644-4074-4EF6-A63F-93D95E6CA3DA.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS PREMIUM HOODIES",
+    "price": 30,
+    "colors": "Black / White",
+    "description": "Adidas hoodies in black and white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
+    "image": "/media/579390DB-8B9F-4274-81AD-CDE6066C52F3.png",
+    "available": true
   }
 ]
