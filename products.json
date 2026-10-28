@@ -118,5 +118,13 @@
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
     "image": "/media/e41f2a21-aaf3-4888-bd74-fbc322ed2241.jpeg",
     "available": true
+  },
+  {
+    "name": "ADIDAS DURAMO RC RUNNING SHOES",
+    "price": 65,
+    "colors": "Grey, Coral Pink",
+    "description": "Adidas Duramo RC running shoes with breathable mesh upper, lightweight cushioned sole and grey design with coral pink stripes. Delivery all over Lebanon.",
+    "image": "/media/c96b7f64-0701-4702-9e05-73d06c655a8a.jpeg",
+    "available": true
   }
 ]
