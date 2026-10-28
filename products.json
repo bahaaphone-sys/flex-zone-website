@@ -318,5 +318,13 @@
     "description": "Bayern Munich football jersey in red with white and gold details. Delivery all over Lebanon.",
     "image": "/media/49930C91-A809-46BC-B02C-4E09576A2738.png",
     "available": true
+  },
+  {
+    "name": "PARIS SAINT-GERMAIN FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Blue / Red / White",
+    "description": "Paris Saint-Germain football jersey in blue with a red center stripe and white details. Delivery all over Lebanon.",
+    "image": "/media/DEE86B82-912E-447D-9791-28C5AD7C361B.png",
+    "available": true
   }
 ]
