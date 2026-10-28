@@ -422,5 +422,13 @@
     "description": "Adidas sports pants in black, olive green and grey, featuring zippered pockets, elastic waistband and comfortable athletic design. Delivery all over Lebanon.",
     "image": "/media/0A93BF7F-1014-4A83-BEA0-3C6C9628DFA9.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD OUTDOOR PANTS",
+    "price": 35,
+    "colors": "Black / Grey / White",
+    "description": "ON CLOUD outdoor pants in black, grey and white, featuring zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
+    "image": "/media/65C24FF1-1777-4D30-B1E4-DA4EBF56F02C.png",
+    "available": true
   }
 ]
