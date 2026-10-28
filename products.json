@@ -158,5 +158,13 @@
     "description": "Manchester City football jersey in sky blue with white details. Delivery all over Lebanon.",
     "image": "/media/IMG_9101.jpeg",
     "available": true
+  },
+  {
+    "name": "ON CLOUD RUNNING SHOES",
+    "price": 45,
+    "colors": "Black / White",
+    "description": "ON CLOUD running shoes in black with white Cloudtec-style sole. Delivery all over Lebanon.",
+    "image": "/media/8975A9C2-FA44-4CE9-9630-798CFE9FFA75.png",
+    "available": true
   }
 ]
