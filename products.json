@@ -134,5 +134,13 @@
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/3c6e362e-a0d7-49e5-afe9-2469e5c50184.jpeg",
     "available": true
+  },
+  {
+    "name": "ADIDAS CLOUDFOAM RUNNING SHOES",
+    "price": 65,
+    "colors": "Black, Navy Blue, White",
+    "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
+    "image": "/media/602278dc-41a2-4fdb-864b-b71aeeaad511.jpeg",
+    "available": true
   }
 ]
