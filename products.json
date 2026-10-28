@@ -286,5 +286,13 @@
     "description": "Arsenal football jersey in navy blue with yellow and red details. Delivery all over Lebanon.",
     "image": "/media/E1D79B9C-87CA-4DFC-A418-5FC7AEAAC992.png",
     "available": true
+  },
+  {
+    "name": "JUVENTUS FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "JUVENTUS FOOTBALL JERSEY",
+    "description": "Juventus football jersey with classic black and white stripes and gold details. Delivery all over Lebanon.",
+    "image": "/media/541A67D9-CC3C-4456-8D57-7E00D0A99D10.jpeg",
+    "available": true
   }
 ]
