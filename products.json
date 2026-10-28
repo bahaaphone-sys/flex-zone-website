@@ -366,5 +366,13 @@
     "description": "Nike hoodies in black and light grey with a classic sporty design, drawstring hood, front pocket and small chest logo. Delivery all over Lebanon.",
     "image": "/media/BB06452C-87FC-4215-B67D-AF7321377A94.png",
     "available": true
+  },
+  {
+    "name": "JORDAN FLIGHT HOODIES",
+    "price": 30,
+    "colors": "Navy Blue / Black",
+    "description": "Jordan Flight hoodies in navy blue and black with Jumpman graphics, drawstring hood and front pocket. Delivery all over Lebanon.",
+    "image": "/media/5503F7F8-AC8C-4ADA-BCF6-7CE5AB1B50F9.png",
+    "available": true
   }
 ]
