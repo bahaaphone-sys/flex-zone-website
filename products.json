@@ -46,5 +46,13 @@
     "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "image": "/media/IMG_8822.jpeg",
     "available": true
+  },
+  {
+    "name": "FC BARCELONA HOME JERSEY",
+    "price": 25,
+    "colors": "Blue, Red",
+    "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
+    "image": "/media/AAEF7EA6-DFB8-4363-8DFF-AD902256746B.png",
+    "available": true
   }
 ]
