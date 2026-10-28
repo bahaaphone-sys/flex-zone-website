@@ -310,5 +310,13 @@
     "description": "Bayern Munich football jersey in white with navy blue and red details. Delivery all over Lebanon.",
     "image": "/media/765BF343-A666-4217-AEC1-A2C073FE7E72.jpeg",
     "available": true
+  },
+  {
+    "name": "BAYERN MUNICH RED FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Red / White / Gold",
+    "description": "Bayern Munich football jersey in red with white and gold details. Delivery all over Lebanon.",
+    "image": "/media/49930C91-A809-46BC-B02C-4E09576A2738.png",
+    "available": true
   }
 ]
