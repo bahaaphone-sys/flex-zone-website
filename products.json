@@ -358,5 +358,13 @@
     "description": "Adidas basketball hoodie in black with orange front and back graphics, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/63CD4761-5FF7-4848-96F2-BF59AA69BA64.png",
     "available": true
+  },
+  {
+    "name": "NIKE CLASSIC HOODIES",
+    "price": 30,
+    "colors": "Black / Light Grey",
+    "description": "Nike hoodies in black and light grey with a classic sporty design, drawstring hood, front pocket and small chest logo. Delivery all over Lebanon.",
+    "image": "/media/BB06452C-87FC-4215-B67D-AF7321377A94.png",
+    "available": true
   }
 ]
