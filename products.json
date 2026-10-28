@@ -278,5 +278,13 @@
     "description": "Arsenal football jersey in light yellow with navy blue details. Delivery all over Lebanon.",
     "image": "/media/D5986275-18E5-4833-A41D-F6C82C709348.png",
     "available": true
+  },
+  {
+    "name": "ARSENAL NAVY FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Navy Blue / Yellow / Red",
+    "description": "Arsenal football jersey in navy blue with yellow and red details. Delivery all over Lebanon.",
+    "image": "/media/E1D79B9C-87CA-4DFC-A418-5FC7AEAAC992.png",
+    "available": true
   }
 ]
