@@ -54,5 +54,13 @@
     "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
     "image": "/media/AAEF7EA6-DFB8-4363-8DFF-AD902256746B.png",
     "available": true
+  },
+  {
+    "name": "FC BARCELONA BLACK PURPLE JERSEY",
+    "price": 25,
+    "colors": "Black, Purple",
+    "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
+    "image": "/media/48AAAE57-EB53-4BA5-B885-1C70436C27BB.png",
+    "available": true
   }
 ]
