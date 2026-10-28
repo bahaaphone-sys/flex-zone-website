@@ -326,5 +326,13 @@
     "description": "Paris Saint-Germain football jersey in blue with a red center stripe and white details. Delivery all over Lebanon.",
     "image": "/media/DEE86B82-912E-447D-9791-28C5AD7C361B.png",
     "available": true
+  },
+  {
+    "name": "PSG WHITE FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "White / Red / Navy Blue",
+    "description": "Paris Saint-Germain football jersey in white with red and navy blue vertical stripes. Delivery all over Lebanon.",
+    "image": "/media/E17FF644-4074-4EF6-A63F-93D95E6CA3DA.png",
+    "available": true
   }
 ]
