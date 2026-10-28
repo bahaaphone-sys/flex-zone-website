@@ -70,5 +70,13 @@
     "description": "Warm padded puffer jacket with hood, sporty three-stripe design and comfortable fit. Available in light blue and white. Delivery all over Lebanon.",
     "image": "/media/53A16435-3D85-49C3-A7F5-D7586D40EA2C.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS COTTON TRACKSUIT SET",
+    "price": 45,
+    "colors": "Olive Green",
+    "description": "Adidas olive green tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
+    "image": "/media/DDC436B9-2FB8-462D-95B0-B04C7B6351BA.png",
+    "available": true
   }
 ]
