@@ -214,5 +214,21 @@
     "description": "ON CLOUD running shoes in white with orange accents, black laces and an orange cushioned sole. Delivery all over Lebanon.",
     "image": "/media/A08C4DC4-E3B8-42F3-A8B6-287AEE86C026.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD ALL WHITE RUNNING SHOES",
+    "price": 45,
+    "colors": "All White",
+    "description": "ON CLOUD running shoes in all-white design with a breathable mesh upper and white cushioned sole. Delivery all over Lebanon.",
+    "image": "/media/E73522ED-44DE-4109-82E3-F686B64B3D42.png",
+    "available": true
+  },
+  {
+    "name": "ON CLOUD GREY BLUE RUNNING SHOES",
+    "price": 45,
+    "colors": "45",
+    "description": "ON CLOUD running shoes in grey and light blue with navy details and a white cushioned sole. Delivery all over Lebanon.",
+    "image": "/media/C3C38AB9-2EED-4DFC-9B3A-4E4BC34F938B.png",
+    "available": true
   }
 ]
