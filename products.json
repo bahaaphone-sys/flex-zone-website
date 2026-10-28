@@ -254,5 +254,13 @@
     "description": "Manchester United football jersey in classic red with white and black details. Delivery all over Lebanon.",
     "image": "/media/A9A52E20-3FD8-432F-BF92-44333B037FD2.png",
     "available": true
+  },
+  {
+    "name": "MANCHESTER UNITED BLUE FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Blue / Red / White",
+    "description": "Manchester United football jersey in blue with red and white details. Delivery all over Lebanon.",
+    "image": "/media/07EB118B-F0D2-4BC8-8F01-0CF981F80881.jpeg",
+    "available": true
   }
 ]
