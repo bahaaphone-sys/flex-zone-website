@@ -246,5 +246,13 @@
     "description": "ON CLOUD running shoes in full black with dark grey details, breathable mesh upper and cushioned sole. Delivery all over Lebanon.",
     "image": "/media/5BBC27EE-087B-4CB9-84A3-E1E79F2A96C7.png",
     "available": true
+  },
+  {
+    "name": "MANCHESTER UNITED FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Red / White / Black",
+    "description": "Manchester United football jersey in classic red with white and black details. Delivery all over Lebanon.",
+    "image": "/media/A9A52E20-3FD8-432F-BF92-44333B037FD2.png",
+    "available": true
   }
 ]
