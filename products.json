@@ -430,5 +430,13 @@
     "description": "ON CLOUD outdoor pants in black, grey and white, featuring zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/65C24FF1-1777-4D30-B1E4-DA4EBF56F02C.png",
     "available": true
+  },
+  {
+    "name": "THE NORTH FACE OUTDOOR PANTS",
+    "price": 35,
+    "colors": "Black / Grey",
+    "description": "The North Face outdoor pants in black and grey with zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
+    "image": "/media/3B843DCF-A2EE-43B4-8688-B49E569E1E06-1.png",
+    "available": true
   }
 ]
