@@ -414,5 +414,13 @@
     "description": "Adidas sports pants in white and black with elastic waistband, comfortable fit and sporty design. Delivery all over Lebanon.",
     "image": "/media/6D707114-D599-4579-9124-F3E35D4CD605.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS PREMIUM SPORTS PANTS",
+    "price": 35,
+    "colors": "Black / Olive Green / Grey",
+    "description": "Adidas sports pants in black, olive green and grey, featuring zippered pockets, elastic waistband and comfortable athletic design. Delivery all over Lebanon.",
+    "image": "/media/0A93BF7F-1014-4A83-BEA0-3C6C9628DFA9.png",
+    "available": true
   }
 ]
