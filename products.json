@@ -230,5 +230,13 @@
     "description": "ON CLOUD running shoes in grey and light blue with navy details and a white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/C3C38AB9-2EED-4DFC-9B3A-4E4BC34F938B.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD BLACK RED RUNNING SHOES",
+    "price": 45,
+    "colors": "Black / Red / White",
+    "description": "Black / Red / White",
+    "image": "/media/A96C6D3A-0416-40C1-8D8F-034951E1E601.png",
+    "available": true
   }
 ]
