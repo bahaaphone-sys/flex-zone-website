@@ -206,5 +206,13 @@
     "description": "ON CLOUD sports shoes in light olive green and brown with a yellow cushioned sole. Delivery all over Lebanon.",
     "image": "/media/E78EC508-7B45-4215-9B8E-84E45183731D.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD WHITE ORANGE RUNNING SHOES",
+    "price": 45,
+    "colors": "White / Orange / Black",
+    "description": "ON CLOUD running shoes in white with orange accents, black laces and an orange cushioned sole. Delivery all over Lebanon.",
+    "image": "/media/A08C4DC4-E3B8-42F3-A8B6-287AEE86C026.png",
+    "available": true
   }
 ]
