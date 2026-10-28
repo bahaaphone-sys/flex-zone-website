@@ -350,5 +350,13 @@
     "description": "Adidas hoodies in green and black with a classic sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/56FDDB68-3F44-4B1C-9F2E-D37E56D57B30.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS BASKETBALL BLACK HOODIE",
+    "price": 30,
+    "colors": "Black / Orange Print",
+    "description": "Adidas basketball hoodie in black with orange front and back graphics, adjustable hood and front pocket. Delivery all over Lebanon.",
+    "image": "/media/63CD4761-5FF7-4848-96F2-BF59AA69BA64.png",
+    "available": true
   }
 ]
