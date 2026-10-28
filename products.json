@@ -374,5 +374,13 @@
     "description": "Jordan Flight hoodies in navy blue and black with Jumpman graphics, drawstring hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/5503F7F8-AC8C-4ADA-BCF6-7CE5AB1B50F9.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS RED PRINT HOODIES",
+    "price": 30,
+    "colors": "Light Grey / Black",
+    "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
+    "image": "/media/C4B8D5D5-825B-4B10-8646-0CA3ABC09D18.png",
+    "available": true
   }
 ]
