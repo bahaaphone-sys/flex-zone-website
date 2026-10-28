@@ -270,5 +270,13 @@
     "description": "Arsenal football jersey in classic red with white sleeves. Delivery all over Lebanon.",
     "image": "/media/79C0CFBD-5710-47B7-BE08-C19E4BD4021B.jpeg",
     "available": true
+  },
+  {
+    "name": "ARSENAL YELLOW FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Light Yellow / Navy Blue",
+    "description": "Arsenal football jersey in light yellow with navy blue details. Delivery all over Lebanon.",
+    "image": "/media/D5986275-18E5-4833-A41D-F6C82C709348.png",
+    "available": true
   }
 ]
