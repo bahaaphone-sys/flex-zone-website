@@ -102,5 +102,13 @@
     "description": "Adidas beige tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/2790EC77-B8F1-44F0-8E07-20845DAFB0FB.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS RUNNING SHOES",
+    "price": 65,
+    "colors": "White, Blue, Black",
+    "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
+    "image": "/media/645c2cf8-09b7-4cd7-b68a-ccdf4749c44f.jpeg",
+    "available": true
   }
 ]
