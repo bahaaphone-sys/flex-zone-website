@@ -302,5 +302,13 @@
     "description": "Juventus football jersey in light pink with black details. Delivery all over Lebanon.",
     "image": "/media/13BD4C8B-9D8F-4891-A78E-F6342D2B7800.jpeg",
     "available": true
+  },
+  {
+    "name": "BAYERN MUNICH WHITE FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "White / Navy Blue / Red",
+    "description": "Bayern Munich football jersey in white with navy blue and red details. Delivery all over Lebanon.",
+    "image": "/media/765BF343-A666-4217-AEC1-A2C073FE7E72.jpeg",
+    "available": true
   }
 ]
