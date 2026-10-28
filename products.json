@@ -342,5 +342,13 @@
     "description": "Adidas hoodies in black and white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/579390DB-8B9F-4274-81AD-CDE6066C52F3.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS CLASSIC HOODIES",
+    "price": 30,
+    "colors": "Green / Black",
+    "description": "Adidas hoodies in green and black with a classic sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
+    "image": "/media/56FDDB68-3F44-4B1C-9F2E-D37E56D57B30.png",
+    "available": true
   }
 ]
