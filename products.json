@@ -390,5 +390,13 @@
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/DCF20F49-93E4-4507-B38E-E01F28867228.png",
     "available": true
+  },
+  {
+    "name": "NIKE BLACK TRACKSUIT",
+    "price": 45,
+    "colors": "Black / White",
+    "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon.",
+    "image": "/media/F199E885-32B3-4D66-9D52-77434232671D.png",
+    "available": true
   }
 ]
