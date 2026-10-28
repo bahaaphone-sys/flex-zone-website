@@ -142,5 +142,13 @@
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
     "image": "/media/602278dc-41a2-4fdb-864b-b71aeeaad511.jpeg",
     "available": true
+  },
+  {
+    "name": "BORUSSIA DORTMUND FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Yellow, Black",
+    "description": "Borussia Dortmund football jersey in classic yellow and black design. Delivery all over Lebanon.",
+    "image": "/media/IMG_9098.jpeg",
+    "available": true
   }
 ]
