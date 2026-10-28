@@ -78,5 +78,13 @@
     "description": "Adidas olive green tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/DDC436B9-2FB8-462D-95B0-B04C7B6351BA.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS COTTON TRACKSUIT SET - PETROL BLUE",
+    "price": 45,
+    "colors": "Petrol Blue",
+    "description": "Adidas petrol blue tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
+    "image": "/media/E1687C88-F16F-4964-B63C-E835A1815EB5.png",
+    "available": true
   }
 ]
