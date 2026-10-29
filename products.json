@@ -710,5 +710,13 @@
     "description": "Adidas two-piece tracksuit featuring a black hooded zip-up jacket with silver-grey shoulder stripes, Adidas chest logo, zippered chest and side pockets, and elastic cuffs. Matching black pants with three silver-grey vertical stripes, zippered pocket, Adidas logo and elastic waistband. Comfortable sporty design for outdoor activities and everyday wear. Available in Black / Silver Grey. Delivery all over Lebanon.",
     "image": "/media/AE600725-C28C-4ECD-9DD7-45496AD837F3.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS TWO-TONE HOODED JACKET",
+    "price": 40,
+    "colors": "Black / Light Olive Grey",
+    "description": "Adidas two-tone hooded jacket featuring a black upper section and sleeves with a light olive-grey lower body. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Comfortable sporty style for cool weather and everyday wear. Available in Black / Light Olive Grey. Delivery all over Lebanon.",
+    "image": "/media/A36FE405-DD8C-4AF3-8B7F-A970FD72FF43.png",
+    "available": true
   }
 ]
