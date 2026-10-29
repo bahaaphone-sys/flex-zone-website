@@ -638,5 +638,12 @@
     "description": "Nike crewneck sweatshirt featuring a bold front graphic, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Red. Sweatshirt sold separately from pants. Delivery all over Lebanon.",
     "image": "/media/F1C6C925-F8B9-4710-877A-9F3555ACB083.png",
     "available": true
+  },
+  {
+    "name": "NIKE FLEECE JOGGER PANTS",
+    "price": 25,
+    "colors": "Black / Light Grey",
+    "description": "Nike jogger pants featuring an elastic waistband with adjustable drawstring, side pockets, ribbed ankle cuffs and Nike logo detailing. Comfortable sporty fit for everyday wear. Available in Black and Light Grey. Pants sold separately from sweatshirts. Delivery all over Lebanon.",
+    "available": true
   }
 ]
