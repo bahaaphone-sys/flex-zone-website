@@ -686,5 +686,13 @@
     "description": "Adidas Liverpool FC away football jersey featuring a white base with burgundy shoulder stripes and trim, Liverpool club crest, Adidas Trefoil logo, Standard Chartered sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy. Delivery all over Lebanon.",
     "image": "/media/8D455B25-06C6-4E8E-BA16-FA7A7E0387A8.jpeg",
     "available": true
+  },
+  {
+    "name": "NIKE CHELSEA FC BLUE FOOTBALL JERSEY",
+    "price": 25,
+    "colors": "Royal Blue / Gold",
+    "description": "Nike Chelsea FC football jersey featuring a royal blue base with gold accents, Chelsea lion crest, Nike Swoosh logo, subtle oversized club graphic across the front, polo collar and short sleeves. Stylish football-inspired design for match days and casual wear. Available in Royal Blue / Gold. Delivery all over Lebanon.",
+    "image": "/media/979DE0E7-7A24-4127-9F95-9BA41EA4C957.jpeg",
+    "available": true
   }
 ]
