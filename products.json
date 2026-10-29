@@ -750,5 +750,13 @@
     "description": "The North Face lightweight waterproof and windproof hooded jacket. Thin and comfortable design that provides protection against wind and rain without the bulk of a heavy winter jacket. Features a full front zipper, adjustable hood, zippered side pockets and elastic cuffs. Perfect for everyday wear and changing weather. Available in Olive Green and Black. Delivery all over Lebanon.",
     "image": "/media/4583D547-66C0-44EE-BCBD-F2E72EBE301B.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS BASKETBALL BLACK HOODIE",
+    "price": 35,
+    "colors": "ADIDAS BASKETBALL BLACK HOODIE",
+    "description": "Adidas Basketball pullover hoodie in Black, featuring a white ADIDAS BASKETBALL graphic across the chest, adjustable drawstring hood, front kangaroo pocket and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black. Delivery all over Lebanon.",
+    "image": "/media/4583D547-66C0-44EE-BCBD-F2E72EBE301B-1.png",
+    "available": true
   }
 ]
