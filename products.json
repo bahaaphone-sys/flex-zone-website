@@ -678,5 +678,13 @@
     "description": "Adidas Liverpool FC home football jersey featuring a red base with white geometric graphics, Liverpool club crest, Adidas logo, Standard Chartered sponsor print, white shoulder stripes and short sleeves. Sporty design for football fans, match days and casual wear. Available in Red / White. Delivery all over Lebanon.",
     "image": "/media/96E7639B-F2DA-42B2-8DD7-FC1AE5A43F85.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS LIVERPOOL FC AWAY JERSEY",
+    "price": 25,
+    "colors": "White / Burgundy",
+    "description": "Adidas Liverpool FC away football jersey featuring a white base with burgundy shoulder stripes and trim, Liverpool club crest, Adidas Trefoil logo, Standard Chartered sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy. Delivery all over Lebanon.",
+    "image": "/media/8D455B25-06C6-4E8E-BA16-FA7A7E0387A8.jpeg",
+    "available": true
   }
 ]
