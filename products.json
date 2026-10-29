@@ -502,5 +502,13 @@
     "description": "Adidas crewneck sweatshirt with a classic round neckline, long sleeves, ribbed cuffs and a minimal logo design. Available in Off White and Charcoal. Perfect for casual and everyday wear. Delivery all over Lebanon.",
     "image": "/media/563F3F49-0123-458D-BBE5-470E0AC8DFEF.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS CLASSIC STRIPE CREWNECK",
+    "price": 20,
+    "colors": "Black / Light Grey",
+    "description": "Adidas classic crewneck sweatshirt with a round neckline, long sleeves, contrasting shoulder stripes, ribbed cuffs and Adidas logo on the chest. Available in Black and Light Grey. Delivery all over Lebanon.",
+    "image": "/media/D241D748-EC4E-48AA-AC7B-3BA978027634.png",
+    "available": true
   }
 ]
