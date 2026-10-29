@@ -606,5 +606,12 @@
     "description": "The North Face reversible hooded jacket featuring a black side and a grey side. Lightweight design with adjustable hood, full front zipper, zippered pockets and comfortable elastic cuffs. Ideal for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/F428DB3A-E796-4509-83EC-DEB1B1B6E802.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS REVERSIBLE HOODED JACKET",
+    "price": 35,
+    "colors": "Black & Grey (Reversible)",
+    "description": "Adidas reversible hooded jacket with two wearable sides: black and grey. Lightweight design featuring an adjustable hood, full front zipper, zippered side pockets and comfortable elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
+    "available": true
   }
 ]
