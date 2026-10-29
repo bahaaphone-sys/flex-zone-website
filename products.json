@@ -526,5 +526,13 @@
     "description": "Adidas basketball graphic crewneck sweatshirt featuring a bold Dribble Till They Tremble front print, basketball-inspired design, long sleeves and ribbed cuffs. Available in Black and Off White. Delivery all over Lebanon.",
     "image": "/media/C95BEB7F-9D6E-4AB5-AB44-1E2955E8634C.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS ADVENTURE CREWNECK",
+    "price": 25,
+    "colors": "Off White / Black",
+    "description": "Adidas Adventure crewneck sweatshirt featuring a mountain-inspired front graphic, classic round neckline, long sleeves and ribbed cuffs. Available in Off White with purple details and Black with white and red details. Delivery all over Lebanon.",
+    "image": "/media/E85B2553-BFCB-4E59-B603-D0D5D1539B22.png",
+    "available": true
   }
 ]
