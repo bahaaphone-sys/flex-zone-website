@@ -718,5 +718,13 @@
     "description": "Adidas two-tone hooded jacket featuring a black upper section and sleeves with a light olive-grey lower body. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Comfortable sporty style for cool weather and everyday wear. Available in Black / Light Olive Grey. Delivery all over Lebanon.",
     "image": "/media/A36FE405-DD8C-4AF3-8B7F-A970FD72FF43.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS TWO-TONE HOODED JACKET GREY WHITE",
+    "price": 40,
+    "colors": "Grey / White",
+    "description": "Adidas two-tone hooded jacket featuring a grey upper section and sleeves with a white lower body and inner sleeve panels. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Sporty and comfortable style for cool weather and everyday wear. Available in Grey / White. Delivery all over Lebanon.",
+    "image": "/media/14BB45B7-D1B2-4E2E-8CAA-E60B2F1529F9.png",
+    "available": true
   }
 ]
