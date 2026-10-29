@@ -574,5 +574,13 @@
     "description": "Adidas waterproof sports tracksuit featuring an olive grey and dark navy hooded zip-up jacket, matching dark navy pants, adjustable hood, zippered chest pocket and elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/75535A07-D682-499B-9D4A-D28964B369DC.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS BLACK HOODED TRACKSUIT",
+    "price": 60,
+    "colors": "Black",
+    "description": "Adidas black hooded sports tracksuit with zip-up jacket, vertical zippered chest pocket, elastic cuffs and matching black pants with ankle zipper. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/51B31DF8-9723-4A9B-80D6-3485D4D82979.png",
+    "available": true
   }
 ]
