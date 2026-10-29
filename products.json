@@ -622,5 +622,13 @@
     "description": "ON CLOUD reversible hooded jacket with two wearable sides in black and grey. Lightweight design featuring an adjustable hood, full front zipper, side pockets and elastic cuffs. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/2415903D-160E-43BC-8B7D-FA816D9132A4.png",
     "available": true
+  },
+  {
+    "name": "NIKE BEIGE & WHITE PUFFER JACKET",
+    "price": 45,
+    "colors": "Beige & White",
+    "description": "Nike beige and white hooded puffer jacket featuring a two-tone padded design, full front zipper, zippered side pockets and elastic cuffs. Stylish and comfortable for cooler weather and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/C3E75D0A-7785-4407-9864-3B912F1D54CF.png",
+    "available": true
   }
 ]
