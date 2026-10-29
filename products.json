@@ -742,5 +742,13 @@
     "description": "The North Face lightweight waterproof and windproof jacket. Designed with a thin, comfortable outer layer that protects against wind and rain without the bulk of a heavy winter jacket. Features an adjustable hood, full front zipper, zippered side pockets and elastic cuffs. Ideal for everyday wear and changing weather. Available in Olive Green. Delivery all over Lebanon.",
     "image": "/media/50C7845C-2FB7-45E5-8ECD-7FDB8A610471.png",
     "available": true
+  },
+  {
+    "name": "THE NORTH FACE LIGHTWEIGHT WATERPROOF JACKET",
+    "price": 35,
+    "colors": " Black",
+    "description": "The North Face lightweight waterproof and windproof hooded jacket. Thin and comfortable design that provides protection against wind and rain without the bulk of a heavy winter jacket. Features a full front zipper, adjustable hood, zippered side pockets and elastic cuffs. Perfect for everyday wear and changing weather. Available in Olive Green and Black. Delivery all over Lebanon.",
+    "image": "/media/4583D547-66C0-44EE-BCBD-F2E72EBE301B.png",
+    "available": true
   }
 ]
