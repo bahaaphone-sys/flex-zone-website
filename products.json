@@ -598,5 +598,13 @@
     "description": "Adidas black cotton hooded tracksuit featuring a full-zip jacket, three-stripe sleeve detailing, zippered side pockets and matching jogger pants with three-stripe design. Soft, breathable fabric and a comfortable fit for everyday wear. Delivery all over Lebanon.",
     "image": "/media/D1E69943-6293-483B-A574-70334A8896C9.png",
     "available": true
+  },
+  {
+    "name": "THE NORTH FACE REVERSIBLE JACKET",
+    "price": 35,
+    "colors": "Black / Grey",
+    "description": "The North Face reversible hooded jacket featuring a black side and a grey side. Lightweight design with adjustable hood, full front zipper, zippered pockets and comfortable elastic cuffs. Ideal for sports and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/F428DB3A-E796-4509-83EC-DEB1B1B6E802.png",
+    "available": true
   }
 ]
