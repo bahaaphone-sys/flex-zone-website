@@ -550,5 +550,13 @@
     "description": "On Cloud sports tracksuit featuring a hooded zip-up jacket with dark patterned detailing, matching black pants, elastic cuffs and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/3E07FB11-1EDC-4364-8EA3-AA4C51901990.png",
     "available": true
+  },
+  {
+    "name": "NIKE BLACK WATERPROOF TRACKSUIT",
+    "price": 60,
+    "colors": "Black",
+    "description": "Nike black waterproof sports tracksuit featuring a full-zip hooded jacket, matching black pants, zippered pockets, adjustable hood and elastic cuffs. Designed for sports and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/8204AE26-D9AB-4E95-8235-21AB7C6E3560.png",
+    "available": true
   }
 ]
