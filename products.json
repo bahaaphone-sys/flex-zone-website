@@ -646,5 +646,13 @@
     "description": "Nike jogger pants featuring an elastic waistband with adjustable drawstring, side pockets, ribbed ankle cuffs and Nike logo detailing. Comfortable sporty fit for everyday wear. Available in Black and Light Grey. Pants sold separately from sweatshirts. Delivery all over Lebanon.",
     "image": "/media/87476E09-AD8A-4CDB-924A-BF435294FB16.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS CAMO LOGO CREWNECK SWEATSHIRT",
+    "price": 25,
+    "colors": "Black / Olive Green",
+    "description": "Adidas crewneck sweatshirt featuring a camouflage-style square logo graphic on the chest, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Olive Green. Delivery all over Lebanon.",
+    "image": "/media/328AAF5C-DDC9-488A-BC3D-839432AF930D.png",
+    "available": true
   }
 ]
