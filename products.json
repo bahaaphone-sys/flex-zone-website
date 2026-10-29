@@ -510,5 +510,13 @@
     "description": "Adidas classic crewneck sweatshirt with a round neckline, long sleeves, contrasting shoulder stripes, ribbed cuffs and Adidas logo on the chest. Available in Black and Light Grey. Delivery all over Lebanon.",
     "image": "/media/D241D748-EC4E-48AA-AC7B-3BA978027634.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS TENNIS CLUB CREWNECK",
+    "price": 25,
+    "colors": "Off White / Black",
+    "description": "Adidas Tennis Club crewneck sweatshirt with long sleeves, ribbed neckline and cuffs, and bold Adidas Tennis Club chest print. Available in Off White and Black. Delivery all over Lebanon.",
+    "image": "/media/CF334253-F0D4-44F5-B190-21EE02BB44C8.png",
+    "available": true
   }
 ]
