@@ -662,5 +662,13 @@
     "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
     "image": "/media/BD17997C-3263-4662-BA6E-11362A071169.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS AS ROMA AWAY JERSEY",
+    "price": 25,
+    "colors": "White / Burgundy / Gold",
+    "description": "Adidas AS Roma away football jersey featuring a white base with burgundy and gold chest stripes, AS Roma club crest, Adidas Trefoil logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy / Gold. Delivery all over Lebanon.",
+    "image": "/media/A55DF3E5-9888-486A-9311-AEA1C356A4E5.png",
+    "available": true
   }
 ]
