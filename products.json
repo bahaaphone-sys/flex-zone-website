@@ -694,5 +694,13 @@
     "description": "Nike Chelsea FC football jersey featuring a royal blue base with gold accents, Chelsea lion crest, Nike Swoosh logo, subtle oversized club graphic across the front, polo collar and short sleeves. Stylish football-inspired design for match days and casual wear. Available in Royal Blue / Gold. Delivery all over Lebanon.",
     "image": "/media/979DE0E7-7A24-4127-9F95-9BA41EA4C957.jpeg",
     "available": true
+  },
+  {
+    "name": "ADIDAS TERREX HOODED TRACKSUIT SET",
+    "price": 60,
+    "colors": "Black",
+    "description": "Adidas Terrex two-piece tracksuit set featuring a black hooded zip-up jacket and matching pants. The jacket includes a full front closure, zippered pockets, elastic cuffs, subtle shoulder detailing and Adidas Terrex branding. Matching pants feature an elastic waistband, side pockets and Adidas logo. Sporty and practical design for outdoor activities and everyday wear. Available in Black. Delivery all over Lebanon.",
+    "image": "/media/F86F9A1C-75EA-4E45-952D-549608DAA55B.png",
+    "available": true
   }
 ]
