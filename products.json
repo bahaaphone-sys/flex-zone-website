@@ -654,5 +654,13 @@
     "description": "Adidas crewneck sweatshirt featuring a camouflage-style square logo graphic on the chest, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Olive Green. Delivery all over Lebanon.",
     "image": "/media/328AAF5C-DDC9-488A-BC3D-839432AF930D.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS AS ROMA HOME JERSEY",
+    "price": 25,
+    "colors": "Burgundy / Gold",
+    "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
+    "image": "/media/BD17997C-3263-4662-BA6E-11362A071169.png",
+    "available": true
   }
 ]
