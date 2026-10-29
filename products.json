@@ -518,5 +518,13 @@
     "description": "Adidas Tennis Club crewneck sweatshirt with long sleeves, ribbed neckline and cuffs, and bold Adidas Tennis Club chest print. Available in Off White and Black. Delivery all over Lebanon.",
     "image": "/media/CF334253-F0D4-44F5-B190-21EE02BB44C8.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS BASKETBALL GRAPHIC CREWNECK",
+    "price": 25,
+    "colors": "Black / Off White",
+    "description": "Adidas basketball graphic crewneck sweatshirt featuring a bold Dribble Till They Tremble front print, basketball-inspired design, long sleeves and ribbed cuffs. Available in Black and Off White. Delivery all over Lebanon.",
+    "image": "/media/C95BEB7F-9D6E-4AB5-AB44-1E2955E8634C.png",
+    "available": true
   }
 ]
