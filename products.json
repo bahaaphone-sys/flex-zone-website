@@ -494,5 +494,13 @@
     "description": "Adidas sage green and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/9AC1D994-7A2B-475E-8BB3-0D3FEF947D9E-1.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS CREWNECK SWEATSHIRT",
+    "price": 25,
+    "colors": "Off White / Charcoal",
+    "description": "Adidas crewneck sweatshirt with a classic round neckline, long sleeves, ribbed cuffs and a minimal logo design. Available in Off White and Charcoal. Perfect for casual and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/563F3F49-0123-458D-BBE5-470E0AC8DFEF.png",
+    "available": true
   }
 ]
