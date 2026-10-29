@@ -558,5 +558,13 @@
     "description": "Nike black waterproof sports tracksuit featuring a full-zip hooded jacket, matching black pants, zippered pockets, adjustable hood and elastic cuffs. Designed for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/8204AE26-D9AB-4E95-8235-21AB7C6E3560.png",
     "available": true
+  },
+  {
+    "name": "NIKE WATERPROOF HOODED TRACKSUIT",
+    "price": 60,
+    "colors": "Black / Dark Grey / Grey Blue",
+    "description": "Nike waterproof hooded tracksuit featuring a full-zip jacket, matching dark sports pants, adjustable hood and zippered pockets. Available in Black, Dark Grey and Grey Blue. Delivery all over Lebanon.",
+    "image": "/media/47770865-43CC-47D5-A734-14A0081D3E21.png",
+    "available": true
   }
 ]
