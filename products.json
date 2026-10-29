@@ -702,5 +702,13 @@
     "description": "Adidas Terrex two-piece tracksuit set featuring a black hooded zip-up jacket and matching pants. The jacket includes a full front closure, zippered pockets, elastic cuffs, subtle shoulder detailing and Adidas Terrex branding. Matching pants feature an elastic waistband, side pockets and Adidas logo. Sporty and practical design for outdoor activities and everyday wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/F86F9A1C-75EA-4E45-952D-549608DAA55B.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS HOODED STRIPED TRACKSUIT SET",
+    "price": 60,
+    "colors": "Black / Silver Grey",
+    "description": "Adidas two-piece tracksuit featuring a black hooded zip-up jacket with silver-grey shoulder stripes, Adidas chest logo, zippered chest and side pockets, and elastic cuffs. Matching black pants with three silver-grey vertical stripes, zippered pocket, Adidas logo and elastic waistband. Comfortable sporty design for outdoor activities and everyday wear. Available in Black / Silver Grey. Delivery all over Lebanon.",
+    "image": "/media/AE600725-C28C-4ECD-9DD7-45496AD837F3.png",
+    "available": true
   }
 ]
