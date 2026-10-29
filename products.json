@@ -542,5 +542,13 @@
     "description": "Adidas zip-up hoodie with adjustable hood, full front zipper, front pockets, classic sleeve stripes and Trefoil logo on the chest. Available in Royal Blue, Navy Blue and Light Grey. Delivery all over Lebanon.",
     "image": "/media/9516B052-24B4-4BA8-BA9E-3DFEDB83D5D4.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD DOUBLE FACE TRACKSUIT",
+    "price": 70,
+    "colors": "Black / Dark Grey & Black",
+    "description": "On Cloud sports tracksuit featuring a hooded zip-up jacket with dark patterned detailing, matching black pants, elastic cuffs and zippered pockets. Delivery all over Lebanon.",
+    "image": "/media/3E07FB11-1EDC-4364-8EA3-AA4C51901990.png",
+    "available": true
   }
 ]
