@@ -566,5 +566,12 @@
     "description": "Nike waterproof hooded tracksuit featuring a full-zip jacket, matching dark sports pants, adjustable hood and zippered pockets. Available in Black, Dark Grey and Grey Blue. Delivery all over Lebanon.",
     "image": "/media/47770865-43CC-47D5-A734-14A0081D3E21.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS OLIVE GREY WATERPROOF TRACKSUIT",
+    "price": 60,
+    "colors": "Dark Grey",
+    "description": "Adidas waterproof sports tracksuit featuring an olive grey and dark navy hooded zip-up jacket, matching dark navy pants, adjustable hood, zippered chest pocket and elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
+    "available": true
   }
 ]
