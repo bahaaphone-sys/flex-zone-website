@@ -534,5 +534,13 @@
     "description": "Adidas Adventure crewneck sweatshirt featuring a mountain-inspired front graphic, classic round neckline, long sleeves and ribbed cuffs. Available in Off White with purple details and Black with white and red details. Delivery all over Lebanon.",
     "image": "/media/E85B2553-BFCB-4E59-B603-D0D5D1539B22.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS CLASSIC ZIP-UP HOODIE",
+    "price": 30,
+    "colors": "Royal Blue / Navy Blue / Light Grey",
+    "description": "Adidas zip-up hoodie with adjustable hood, full front zipper, front pockets, classic sleeve stripes and Trefoil logo on the chest. Available in Royal Blue, Navy Blue and Light Grey. Delivery all over Lebanon.",
+    "image": "/media/9516B052-24B4-4BA8-BA9E-3DFEDB83D5D4.png",
+    "available": true
   }
 ]
