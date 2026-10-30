@@ -766,5 +766,13 @@
     "description": "Adidas lightweight waterproof track pants in Black, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Delivery all over Lebanon.",
     "image": "/media/28B1AA41-82A2-4BAB-A2D6-693E39FBDC9F.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS WATERPROOF TRACK PANTS",
+    "price": 30,
+    "colors": "Black / Olive Green",
+    "description": "Adidas lightweight waterproof track pants, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Available in Black and Olive Green. Delivery all over Lebanon.",
+    "image": "/media/CEFEDE33-07D0-4CB5-9B7F-82D04C58A610.png",
+    "available": true
   }
 ]
