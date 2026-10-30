@@ -782,5 +782,13 @@
     "description": "Adidas cotton jogger pants featuring a black-on-black graphic print, contrasting white drawstrings, elastic waistband, side pockets, and ribbed ankle cuffs. Comfortable sporty fit for everyday casual wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/6E1C5F1E-349A-4661-BED5-8203765BF53C.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS ORIGINALS COTTON JOGGER PANTS",
+    "price": 25,
+    "colors": "Light Grey",
+    "description": "Adidas Originals cotton jogger pants in light grey, featuring the white Trefoil logo, elastic waistband with adjustable drawstring, side pockets, and ribbed ankle cuffs. Comfortable sporty fit, perfect for casual and everyday wear. Available in Light Grey. Delivery all over Lebanon.",
+    "image": "/media/1D33EE04-E31A-47BF-8A2E-46EC4211078E.png",
+    "available": true
   }
 ]
