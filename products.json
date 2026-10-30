@@ -822,5 +822,13 @@
     "description": "AC Milan tracksuit featuring a red hooded zip-up jacket and black matching pants with AC Milan and Puma logos. Comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/AC5EA4F5-118D-47EF-9D29-1D154A368AE1.png",
     "available": true
+  },
+  {
+    "name": "BORUSSIA DORTMUND YELLOW & BLACK TRACKSUIT",
+    "price": 70,
+    "colors": "Yellow, Black",
+    "description": "Borussia Dortmund tracksuit featuring a yellow half-zip training top with black sleeve panels and matching black pants. BVB and Puma logos with a modern sporty design. Delivery all over Lebanon.",
+    "image": "/media/CDE763FF-6918-45AD-A6C9-73E9931D9212.png",
+    "available": true
   }
 ]
