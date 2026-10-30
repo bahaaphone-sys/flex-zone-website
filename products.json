@@ -814,5 +814,13 @@
     "description": "Real Madrid tracksuit featuring a full-zip white jacket with dark green sleeves, pink Adidas stripes and club crest, paired with matching dark green pants with white panels. Sporty design with elastic cuffs and zippered pant hems. Delivery all over Lebanon.",
     "image": "/media/20E32507-6E41-465C-890E-CD10952BC719.png",
     "available": true
+  },
+  {
+    "name": "AC MILAN RED & BLACK TRACKSUIT",
+    "price": 70,
+    "colors": "Red, Black",
+    "description": "AC Milan tracksuit featuring a red hooded zip-up jacket and black matching pants with AC Milan and Puma logos. Comfortable sporty design. Delivery all over Lebanon.",
+    "image": "/media/AC5EA4F5-118D-47EF-9D29-1D154A368AE1.png",
+    "available": true
   }
 ]
