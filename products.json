@@ -830,5 +830,13 @@
     "description": "Borussia Dortmund tracksuit featuring a yellow half-zip training top with black sleeve panels and matching black pants. BVB and Puma logos with a modern sporty design. Delivery all over Lebanon.",
     "image": "/media/CDE763FF-6918-45AD-A6C9-73E9931D9212.png",
     "available": true
+  },
+  {
+    "name": "REAL MADRID PINK TRACKSUIT",
+    "price": 70,
+    "colors": "Pink, White",
+    "description": "Real Madrid pink tracksuit featuring a full-zip jacket with white Adidas stripes and club crest, paired with matching pink pants. Stylish sporty design with comfortable fit. Delivery all over Lebanon.",
+    "image": "/media/9FD9B59A-373E-47C5-A545-C779646F3547.png",
+    "available": true
   }
 ]
