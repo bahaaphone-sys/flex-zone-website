@@ -798,5 +798,13 @@
     "description": "Adidas black cotton jogger pants featuring two white side stripes on each leg, an elastic waistband with adjustable drawstrings, side pockets, Adidas logo detail, and ribbed ankle cuffs. Comfortable sporty fit for everyday wear. Delivery all over Lebanon.",
     "image": "/media/EAD1C504-3B9A-42A8-956C-F424FCF87C4B.png",
     "available": true
+  },
+  {
+    "name": "THE NORTH FACE COTTON JOGGER PANTS",
+    "price": 25,
+    "colors": "Black",
+    "description": "The North Face black cotton jogger pants featuring a white logo detail, elastic waistband with adjustable drawstrings, two zippered side pockets, and ribbed ankle cuffs. Comfortable sporty fit for casual and everyday wear. Delivery all over Lebanon.",
+    "image": "/media/3C6A1E6C-A0D9-4FA1-B27F-D4F1F84DF86D.png",
+    "available": true
   }
 ]
