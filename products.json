@@ -774,5 +774,13 @@
     "description": "Adidas lightweight waterproof track pants, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Available in Black and Olive Green. Delivery all over Lebanon.",
     "image": "/media/CEFEDE33-07D0-4CB5-9B7F-82D04C58A610.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS GRAPHIC COTTON JOGGER PANTS",
+    "price": 25,
+    "colors": "Black",
+    "description": "Adidas cotton jogger pants featuring a black-on-black graphic print, contrasting white drawstrings, elastic waistband, side pockets, and ribbed ankle cuffs. Comfortable sporty fit for everyday casual wear. Available in Black. Delivery all over Lebanon.",
+    "image": "/media/6E1C5F1E-349A-4661-BED5-8203765BF53C.png",
+    "available": true
   }
 ]
