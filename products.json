@@ -758,5 +758,13 @@
     "description": "Adidas Basketball pullover hoodie in Black, featuring a white ADIDAS BASKETBALL graphic across the chest, adjustable drawstring hood, front kangaroo pocket and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/DCB19ED0-71F2-4970-93D3-C76A29E477FF.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS WATERPROOF TRACK PANTS – BLACK",
+    "price": 30,
+    "colors": "Black",
+    "description": "Adidas lightweight waterproof track pants in Black, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Delivery all over Lebanon.",
+    "image": "/media/28B1AA41-82A2-4BAB-A2D6-693E39FBDC9F.png",
+    "available": true
   }
 ]
