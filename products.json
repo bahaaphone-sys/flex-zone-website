@@ -908,5 +908,13 @@
     "description": "Manchester United cotton tracksuit featuring a red full-zip hooded jacket with front pockets and black sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Manchester United crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/9B3C83C3-AE37-4512-83CF-971E66477975.png",
     "available": true
+  },
+  {
+    "name": "ARSENAL RED & BLACK HOODED TRACKSUIT",
+    "price": 90,
+    "colors": "Red, White, Black",
+    "description": "Arsenal cotton tracksuit featuring a red full-zip hooded jacket with white sleeves, front pockets, and red sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and red lower-leg detailing. White Arsenal crests and Adidas logos on both pieces complete the coordinated sporty look.",
+    "image": "/media/339D35BA-2102-4CD8-9BA8-189C8E3E918E.png",
+    "available": true
   }
 ]
