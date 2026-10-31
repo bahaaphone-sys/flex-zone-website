@@ -845,5 +845,13 @@
     "colors": "White, Blue, Gold",
     "description": "Juventus tracksuit featuring a white full-zip jacket with blue panels, Adidas stripes, and gold club crest, paired with blue pants with white lower-leg panels and side stripes. A coordinated sporty look with a stand-up collar and elastic waistband.",
     "available": true
+  },
+  {
+    "name": "REAL MADRID NAVY & GOLD TRACKSUIT",
+    "price": 70,
+    "colors": "Navy Blue, Gold, White",
+    "description": "Real Madrid navy blue tracksuit featuring a full-zip jacket with a stand-up collar, front pockets, and gold and white stripes along the sleeves. Paired with matching pants with an elastic waistband and coordinating side stripes. Both pieces feature the Real Madrid crest and white Adidas Trefoil logo for a classic sporty look.",
+    "image": "/media/80E1F02A-F7EA-4E31-B4B8-85D83A08B17E-1.png",
+    "available": true
   }
 ]
