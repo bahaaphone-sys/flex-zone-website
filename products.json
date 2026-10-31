@@ -892,5 +892,13 @@
     "description": "Bayern Munich tracksuit featuring a white full-zip jacket with navy panels, red sleeve stripes, a stand-up collar, and front pockets. Paired with navy pants featuring an elastic waistband, red side stripes, and contrasting blue lower-leg panels. Gold Bayern Munich crests and Adidas logos complete the coordinated sporty look.",
     "image": "/media/12BF0C02-CE9D-42E1-BF25-F99AD21D5D4A.png",
     "available": true
+  },
+  {
+    "name": "LIVERPOOL RED & BLACK HOODED TRACKSUIT",
+    "price": 90,
+    "colors": "Red, Black, White",
+    "description": "Liverpool cotton tracksuit featuring a red full-zip hooded jacket with front pockets and white sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. White Liverpool crests and Adidas logos on both pieces complete the coordinated sporty look.",
+    "image": "/media/0F318633-19D4-4E35-A1B9-F1ED0B0C56A8.png",
+    "available": true
   }
 ]
