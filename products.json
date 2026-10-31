@@ -941,5 +941,13 @@
     "colors": "Blac",
     "description": "Winter two-piece set with a hooded zip-up jacket and pants. Both jacket and pants are lined inside for extra warmth. Delivery all over Lebanon.",
     "available": true
+  },
+  {
+    "name": "ON CLOUD WINTER SET – ORANGE / DARK NAVY",
+    "price": 45,
+    "colors": "Orange / Dark Navy",
+    "description": "Winter two-piece set featuring an orange hooded zip-up jacket and dark navy pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
+    "image": "/media/44B8AC6B-41A6-43BB-9820-3AA3D48E5E12.png",
+    "available": true
   }
 ]
