@@ -876,5 +876,12 @@
     "description": "Liverpool training tracksuit featuring a white quarter-zip top with black panels, striped sleeves, and red AXA lettering. Paired with black pants featuring an elastic waistband, white side stripes, and textured lower-leg panels. Red Liverpool crests and Adidas logos complete the coordinated sporty look.",
     "image": "/media/2D25B32D-3A21-45B6-A227-880641374BED.png",
     "available": true
+  },
+  {
+    "name": "REAL MADRID WHITE & PURPLE TRACKSUIT",
+    "price": 70,
+    "colors": "White, Purple, Gold",
+    "description": "Real Madrid tracksuit featuring a white full-zip jacket with a purple chest band, fine gold trim, and purple sleeve stripes. The jacket includes a stand-up collar, front pockets, and purple Real Madrid crest and Adidas Trefoil logo. Paired with purple pants featuring an elastic waistband, white side stripes, and matching white logos for a coordinated sporty look.",
+    "available": true
   }
 ]
