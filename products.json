@@ -949,5 +949,12 @@
     "description": "Winter two-piece set featuring an orange hooded zip-up jacket and dark navy pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
     "image": "/media/44B8AC6B-41A6-43BB-9820-3AA3D48E5E12.png",
     "available": true
+  },
+  {
+    "name": "NIKE / ADIDAS / JORDAN SOCKS",
+    "price": 0,
+    "colors": "White, Black, Grey",
+    "description": "Nike, Adidas and Jordan socks in ankle and crew styles. Available in different designs and color combinations. Select your preferred brand and style when ordering. Delivery all over Lebanon.",
+    "available": true
   }
 ]
