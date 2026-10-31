@@ -900,5 +900,13 @@
     "description": "Liverpool cotton tracksuit featuring a red full-zip hooded jacket with front pockets and white sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. White Liverpool crests and Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/0F318633-19D4-4E35-A1B9-F1ED0B0C56A8.png",
     "available": true
+  },
+  {
+    "name": "MANCHESTER UNITED RED & BLACK HOODED TRACKSUIT",
+    "price": 90,
+    "colors": "Red, Black, White, Gold",
+    "description": "Manchester United cotton tracksuit featuring a red full-zip hooded jacket with front pockets and black sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Manchester United crests and white Adidas logos on both pieces complete the coordinated sporty look.",
+    "image": "/media/9B3C83C3-AE37-4512-83CF-971E66477975.png",
+    "available": true
   }
 ]
