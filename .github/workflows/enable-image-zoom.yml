@@ -1,0 +1,95 @@
+name: Enable original image zoom
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/enable-image-zoom.yml
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Link product images to originals
+        shell: python
+        run: |
+          import hashlib, json
+          from pathlib import Path
+
+          root = Path.cwd()
+          originals = {}
+
+          for file in root.rglob('*'):
+              relative = file.relative_to(root)
+              if '.git' in relative.parts or 'optimized' in relative.parts:
+                  continue
+              if not file.is_file() or file.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+                  continue
+              original = '/' + relative.as_posix()
+              key = hashlib.sha256(original.encode()).hexdigest()[:20]
+              originals['/media/optimized/' + key + '.webp'] = original
+
+          catalog = root / 'products.json'
+          products = json.loads(catalog.read_text())
+
+          for product in products:
+              path = product.get('image')
+              if not path:
+                  continue
+              if path.startswith('/media/optimized/'):
+                  if path not in originals:
+                      raise RuntimeError('Original not found: ' + path)
+                  product['originalImage'] = originals[path]
+
+          shop = root / 'shop.html'
+          text = shop.read_text()
+          old = '    img.src = "." + p.image;\n    card.append(img);'
+          new = '''    if (p.image) {
+                img.src = "." + p.image;
+                const imageLink = document.createElement("a");
+                imageLink.href = "." + (p.originalImage || p.image);
+                imageLink.target = "_blank";
+                imageLink.rel = "noopener";
+                imageLink.setAttribute("aria-label", "تكبير صورة " + p.name);
+                imageLink.style.display = "block";
+                imageLink.style.cursor = "zoom-in";
+                imageLink.append(img);
+                card.append(imageLink);
+              } else {
+                card.append(img);
+              }'''
+
+          if old not in text and 'const imageLink =' not in text:
+              raise RuntimeError('Shop code changed; no files were saved')
+
+          if old in text:
+              text = text.replace(old, new, 1)
+
+          catalog.write_text(
+              json.dumps(products, ensure_ascii=False, indent=2) + '\n'
+          )
+          shop.write_text(text)
+          print('Original image links are ready')
+
+      - name: Save changes
+        run: |
+          git add products.json shop.html
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Open original product images when tapped"
+            git push origin HEAD:main
+          fi
+
+      - name: Rebuild store
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
