@@ -44,8 +44,20 @@ fetch("./products.json", {cache:"no-store"})
     img.loading = index < 2 ? "eager" : "lazy";
     img.decoding = "async";
     if (index === 0) img.fetchPriority = "high";
-    img.src = "." + p.image;
-    card.append(img);
+    if (p.image) {
+      img.src = "." + p.image;
+      const imageLink = document.createElement("a");
+      imageLink.href = "." + (p.originalImage || p.image);
+      imageLink.target = "_blank";
+      imageLink.rel = "noopener";
+      imageLink.setAttribute("aria-label", "تكبير صورة " + p.name);
+      imageLink.style.display = "block";
+      imageLink.style.cursor = "zoom-in";
+      imageLink.append(img);
+      card.append(imageLink);
+    } else {
+      card.append(img);
+    }
 
     const c = document.createElement("div");
     c.className = "content";
