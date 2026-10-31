@@ -926,5 +926,13 @@
     "description": "Real Madrid cotton tracksuit featuring a blue full-zip hooded jacket with front pockets and white sleeve accents. Paired with matching blue pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Real Madrid crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/F5EAE547-2F96-43B0-96C7-EE5173C061C6.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD WINTER SET",
+    "price": 45,
+    "colors": "Neon Yellow / Dark Navy, Orange / Dark Navy, Dark Grey",
+    "description": "Winter set with a hooded zip-up jacket and matching pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
+    "image": "/media/CF192D92-806A-4A84-8F88-D24D7452A654.png",
+    "available": true
   }
 ]
