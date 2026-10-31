@@ -1,0 +1,98 @@
+name: Optimize shop images
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/optimize-images.yml
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: optimize-shop-images
+  cancel-in-progress: false
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: python -m pip install Pillow==11.3.0
+
+      - name: Create smaller images
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          from PIL import Image, ImageOps
+
+          root = Path.cwd().resolve()
+          catalog = root / 'products.json'
+          products = json.loads(catalog.read_text())
+          output = root / 'media' / 'optimized'
+          output.mkdir(parents=True, exist_ok=True)
+          mapping = {}
+          before = after = 0
+
+          for product in products:
+              path = product.get('image')
+              if not path or path.startswith('/media/optimized/'):
+                  continue
+
+              if path not in mapping:
+                  source = (root / path.lstrip('/')).resolve()
+                  if root not in source.parents or not source.is_file():
+                      raise RuntimeError('Missing or invalid image: ' + path)
+
+                  name = hashlib.sha256(path.encode()).hexdigest()[:20] + '.webp'
+                  destination = output / name
+
+                  with Image.open(source) as image:
+                      image = ImageOps.exif_transpose(image)
+                      image.thumbnail((800, 800), Image.Resampling.LANCZOS)
+                      mode = 'RGBA' if 'A' in image.getbands() else 'RGB'
+                      image.convert(mode).save(
+                          destination, 'WEBP', quality=83, method=6
+                      )
+
+                  with Image.open(destination) as check:
+                      check.load()
+
+                  before += source.stat().st_size
+                  after += destination.stat().st_size
+                  mapping[path] = '/media/optimized/' + name
+
+              product['image'] = mapping[path]
+
+          if mapping:
+              catalog.write_text(
+                  json.dumps(products, ensure_ascii=False, indent=2) + '\n'
+              )
+
+          print(f'Optimized {len(mapping)} images: {before} -> {after} bytes')
+          PY
+
+      - name: Save optimized images
+        run: |
+          git add products.json media/optimized
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Optimize catalog images for faster loading"
+          git push origin HEAD:main
+
+      - name: Rebuild GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
