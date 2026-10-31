@@ -838,5 +838,12 @@
     "description": "Real Madrid pink tracksuit featuring a full-zip jacket with white Adidas stripes and club crest, paired with matching pink pants. Stylish sporty design with comfortable fit. Delivery all over Lebanon.",
     "image": "/media/9FD9B59A-373E-47C5-A545-C779646F3547.png",
     "available": true
+  },
+  {
+    "name": "JUVENTUS WHITE & BLUE TRACKSUIT",
+    "price": 70,
+    "colors": "White, Blue, Gold",
+    "description": "Juventus tracksuit featuring a white full-zip jacket with blue panels, Adidas stripes, and gold club crest, paired with blue pants with white lower-leg panels and side stripes. A coordinated sporty look with a stand-up collar and elastic waistband.",
+    "available": true
   }
 ]
