@@ -868,5 +868,13 @@
     "description": "FC Barcelona training tracksuit featuring a light blue quarter-zip top with neon yellow shoulder panels, club crest, Nike Swoosh, and Spotify logo. Paired with dark blue pants featuring an elastic waistband, neon yellow detailing, and matching club crest and Nike Swoosh. A bold, coordinated sporty look.",
     "image": "/media/2DDF4294-711B-4647-88CE-84DAB050835E.png",
     "available": true
+  },
+  {
+    "name": "LIVERPOOL WHITE & BLACK TRAINING TRACKSUIT",
+    "price": 70,
+    "colors": "White, Black, Red",
+    "description": "Liverpool training tracksuit featuring a white quarter-zip top with black panels, striped sleeves, and red AXA lettering. Paired with black pants featuring an elastic waistband, white side stripes, and textured lower-leg panels. Red Liverpool crests and Adidas logos complete the coordinated sporty look.",
+    "image": "/media/2D25B32D-3A21-45B6-A227-880641374BED.png",
+    "available": true
   }
 ]
