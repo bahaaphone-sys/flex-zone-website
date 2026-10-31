@@ -934,5 +934,12 @@
     "description": "Winter set with a hooded zip-up jacket and matching pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
     "image": "/media/CF192D92-806A-4A84-8F88-D24D7452A654.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD WINTER SET – DARK GREY",
+    "price": 45,
+    "colors": "Blac",
+    "description": "Winter two-piece set with a hooded zip-up jacket and pants. Both jacket and pants are lined inside for extra warmth. Delivery all over Lebanon.",
+    "available": false
   }
 ]
