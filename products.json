@@ -860,5 +860,13 @@
     "colors": "White, Grey, Black",
     "description": "Paris Saint-Germain training tracksuit featuring a white quarter-zip top with grey sleeves, black shoulder panels, and Qatar Airways lettering. Paired with grey pants featuring an elastic waistband and black PARIS lettering on the lower leg. PSG crests and Nike Swoosh logos complete the sporty look.",
     "available": true
+  },
+  {
+    "name": "FC BARCELONA BLUE & NEON YELLOW TRAINING TRACKSUIT",
+    "price": 70,
+    "colors": "Light Blue, Dark Blue, Neon Yellow",
+    "description": "FC Barcelona training tracksuit featuring a light blue quarter-zip top with neon yellow shoulder panels, club crest, Nike Swoosh, and Spotify logo. Paired with dark blue pants featuring an elastic waistband, neon yellow detailing, and matching club crest and Nike Swoosh. A bold, coordinated sporty look.",
+    "image": "/media/2DDF4294-711B-4647-88CE-84DAB050835E.png",
+    "available": true
   }
 ]
