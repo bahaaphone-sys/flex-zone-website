@@ -973,5 +973,13 @@
     "description": "Borussia Dortmund tracksuit featuring a black full-zip hooded jacket with elastic cuffs, paired with matching black pants with an elastic waistband and tapered legs. Yellow BVB crests with two stars and Puma logos on both pieces complete the coordinated sporty look.",
     "image": "/media/C45F4F94-382C-49B4-9D53-9095CEC2041F.png",
     "available": true
+  },
+  {
+    "name": "FC BARCELONA PURPLE & BLACK TRAINING TRACKSUIT",
+    "price": 70,
+    "colors": "Purple, Black, Gold",
+    "description": "FC Barcelona training tracksuit featuring a purple quarter-zip top with a stand-up collar, black shoulder panels, and fine gold trim. Gold Barcelona crest, Kobe emblem, and Spotify logo complete the top. Paired with black tapered pants featuring an elastic waistband, purple and gold side detailing, and matching Barcelona crest and Kobe emblem.",
+    "image": "/media/827A1454-D3E6-47A2-BEC6-1A4324BC48A1-1.png",
+    "available": true
   }
 ]
