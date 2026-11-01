@@ -981,5 +981,12 @@
     "description": "FC Barcelona training tracksuit featuring a purple quarter-zip top with a stand-up collar, black shoulder panels, and fine gold trim. Gold Barcelona crest, Kobe emblem, and Spotify logo complete the top. Paired with black tapered pants featuring an elastic waistband, purple and gold side detailing, and matching Barcelona crest and Kobe emblem.",
     "image": "/media/827A1454-D3E6-47A2-BEC6-1A4324BC48A1-1.png",
     "available": true
+  },
+  {
+    "name": "REAL MADRID LIGHT GREEN & BLACK HOODED TRACKSUIT",
+    "price": 90,
+    "colors": "Light Green, Black",
+    "description": "Real Madrid tracksuit featuring a light green full-zip hooded jacket with black sleeves, front pockets, and light green sleeve accents. Paired with black tapered pants featuring an elastic waistband, ribbed ankle cuffs, and matching light green lower-leg detailing. Contrasting Real Madrid crests and Adidas logos complete the coordinated sporty look.",
+    "available": true
   }
 ]
