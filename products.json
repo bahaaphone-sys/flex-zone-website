@@ -5,8 +5,7 @@
     "colors": "Black, Olive, Grey",
     "description": "Premium winter jacket — delivery all over Lebanon",
     "image": "/media/optimized/977907b7268516da2f92.webp",
-    "available": true,
-    "originalImage": "/on-cloud-jackets.jpeg"
+    "available": true
   },
   {
     "name": "FLEX ZONE WATERPROOF JACKET",
@@ -14,8 +13,7 @@
     "colors": "Black, Olive",
     "description": "Waterproof and windproof jacket, breathable, lightweight, with adjustable cuffs and hood. Delivery all over Lebanon.",
     "image": "/media/optimized/99825e8619c0c5bdaa6b.webp",
-    "available": true,
-    "originalImage": "/media/FC01561B-BBF2-4749-8A0B-C7137B98F674.png"
+    "available": true
   },
   {
     "name": "SPORTS WATERPROOF JACKET",
@@ -23,8 +21,7 @@
     "colors": "Black, Light Grey",
     "description": "Waterproof and windproof sports jacket, breathable, lightweight, with adjustable cuffs and hood. Delivery all over Lebanon.",
     "image": "/media/optimized/85619689895e9d802787.webp",
-    "available": true,
-    "originalImage": "/media/97E4CDC2-20FC-402E-9E44-D28AD052D619-1.png"
+    "available": true
   },
   {
     "name": "WINTER PUFFER JACKET",
@@ -32,8 +29,7 @@
     "colors": "Black, Olive",
     "description": "Warm winter puffer jacket with lightweight insulation, wind protection and comfortable fit. Delivery all over Lebanon.",
     "image": "/media/optimized/f50fe3405fd6d618fb73.webp",
-    "available": true,
-    "originalImage": "/media/D2B66492-EF4D-409C-A06C-3918F7281064.png"
+    "available": true
   },
   {
     "name": "REAL MADRID HOME JERSEY",
@@ -41,8 +37,7 @@
     "colors": "White",
     "description": "Real Madrid white football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "image": "/media/optimized/7eedd98e997b6f4bb908.webp",
-    "available": true,
-    "originalImage": "/media/IMG_9088.jpeg"
+    "available": true
   },
   {
     "name": "REAL MADRID GREEN JERSEY",
@@ -50,8 +45,7 @@
     "colors": "Dark Green",
     "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "image": "/media/optimized/b7f130c889ba554f6375.webp",
-    "available": true,
-    "originalImage": "/media/IMG_8822.jpeg"
+    "available": true
   },
   {
     "name": "FC BARCELONA HOME JERSEY",
@@ -59,8 +53,7 @@
     "colors": "Blue, Red",
     "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/f55f02d1b018b42a7679.webp",
-    "available": true,
-    "originalImage": "/media/AAEF7EA6-DFB8-4363-8DFF-AD902256746B.png"
+    "available": true
   },
   {
     "name": "FC BARCELONA BLACK PURPLE JERSEY",
@@ -68,8 +61,7 @@
     "colors": "Black, Purple",
     "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/1e57d4ff0faca14600ea.webp",
-    "available": true,
-    "originalImage": "/media/48AAAE57-EB53-4BA5-B885-1C70436C27BB.png"
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM PUFFER JACKET",
@@ -77,8 +69,7 @@
     "colors": "Light Blue, White",
     "description": "Warm padded puffer jacket with hood, sporty three-stripe design and comfortable fit. Available in light blue and white. Delivery all over Lebanon.",
     "image": "/media/optimized/d3c06e1b7c5042929066.webp",
-    "available": true,
-    "originalImage": "/media/53A16435-3D85-49C3-A7F5-D7586D40EA2C.png"
+    "available": true
   },
   {
     "name": "ADIDAS COTTON TRACKSUIT SET",
@@ -86,8 +77,7 @@
     "colors": "Olive Green",
     "description": "Adidas olive green tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/483d11e16ffba64790fb.webp",
-    "available": true,
-    "originalImage": "/media/DDC436B9-2FB8-462D-95B0-B04C7B6351BA.png"
+    "available": true
   },
   {
     "name": "ADIDAS COTTON TRACKSUIT SET - PETROL BLUE",
@@ -95,8 +85,7 @@
     "colors": "Petrol Blue",
     "description": "Adidas petrol blue tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/0d325db081e15d706860.webp",
-    "available": true,
-    "originalImage": "/media/E1687C88-F16F-4964-B63C-E835A1815EB5.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK COTTON TRACKSUIT SET",
@@ -104,8 +93,7 @@
     "colors": "Black",
     "description": "Adidas black tracksuit set with zip-up jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/e6a4b52eb634d1d39f23.webp",
-    "available": true,
-    "originalImage": "/media/AEA18D60-A0F4-47B7-8DCC-D181AC6601AD.png"
+    "available": true
   },
   {
     "name": "ADIDAS BEIGE COTTON TRACKSUIT SET",
@@ -113,8 +101,7 @@
     "colors": "Beige",
     "description": "Adidas beige tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/2ed8568ed5acc3b057b0.webp",
-    "available": true,
-    "originalImage": "/media/2790EC77-B8F1-44F0-8E07-20845DAFB0FB.png"
+    "available": true
   },
   {
     "name": "ADIDAS RUNNING SHOES",
@@ -122,8 +109,7 @@
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
-    "available": true,
-    "originalImage": "/media/645c2cf8-09b7-4cd7-b68a-ccdf4749c44f.jpeg"
+    "available": true
   },
   {
     "name": "ADIDAS RUNNING SHOES - GREY GREEN",
@@ -131,8 +117,7 @@
     "colors": "Grey, Light Green",
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
     "image": "/media/optimized/0d9b7b145e16b9791e63.webp",
-    "available": true,
-    "originalImage": "/media/e41f2a21-aaf3-4888-bd74-fbc322ed2241.jpeg"
+    "available": true
   },
   {
     "name": "ADIDAS DURAMO RC RUNNING SHOES",
@@ -140,8 +125,7 @@
     "colors": "Grey, Coral Pink",
     "description": "Adidas Duramo RC running shoes with breathable mesh upper, lightweight cushioned sole and grey design with coral pink stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/aaab7d12657f1202c775.webp",
-    "available": true,
-    "originalImage": "/media/c96b7f64-0701-4702-9e05-73d06c655a8a.jpeg"
+    "available": true
   },
   {
     "name": "ADIDAS NAVY BLUE RUNNING SHOES",
@@ -149,8 +133,7 @@
     "colors": "Navy Blue, Silver",
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/5478d3c5abef9c66783c.webp",
-    "available": true,
-    "originalImage": "/media/3c6e362e-a0d7-49e5-afe9-2469e5c50184.jpeg"
+    "available": true
   },
   {
     "name": "ADIDAS CLOUDFOAM RUNNING SHOES",
@@ -158,8 +141,7 @@
     "colors": "Black, Navy Blue, White",
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/194efe19e6784d7ccd1e.webp",
-    "available": true,
-    "originalImage": "/media/602278dc-41a2-4fdb-864b-b71aeeaad511.jpeg"
+    "available": true
   },
   {
     "name": "BORUSSIA DORTMUND FOOTBALL JERSEY",
@@ -167,8 +149,7 @@
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund football jersey in classic yellow and black design. Delivery all over Lebanon.",
     "image": "/media/optimized/d0c5e55c35ae463aa6b3.webp",
-    "available": true,
-    "originalImage": "/media/IMG_9098.jpeg"
+    "available": true
   },
   {
     "name": "MANCHESTER CITY FOOTBALL JERSEY",
@@ -176,8 +157,7 @@
     "colors": "Sky Blue",
     "description": "Manchester City football jersey in sky blue with white details. Delivery all over Lebanon.",
     "image": "/media/optimized/fa2aa5dfb6296c250abd.webp",
-    "available": true,
-    "originalImage": "/media/IMG_9101.jpeg"
+    "available": true
   },
   {
     "name": "ON CLOUD RUNNING SHOES",
@@ -185,8 +165,7 @@
     "colors": "Black / White",
     "description": "ON CLOUD running shoes in black with white Cloudtec-style sole. Delivery all over Lebanon.",
     "image": "/media/optimized/2737c7a9cb57546d5d74.webp",
-    "available": true,
-    "originalImage": "/media/8975A9C2-FA44-4CE9-9630-798CFE9FFA75.png"
+    "available": true
   },
   {
     "name": "ON CLOUD BLACK RUNNING SHOES",
@@ -194,8 +173,7 @@
     "colors": "All Black",
     "description": "ON CLOUD running shoes in all-black design with a cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/555d491604caeef92dcd.webp",
-    "available": true,
-    "originalImage": "/media/64427B52-E8AC-4BA9-A848-36F130F6AC2C.png"
+    "available": true
   },
   {
     "name": "ON CLOUD WHITE NEON RUNNING SHOES",
@@ -203,8 +181,7 @@
     "colors": "White / Light Grey / Neon Yellow",
     "description": "ON CLOUD running shoes in white and light grey with a neon yellow cushioned sole and orange accents. Delivery all over Lebanon.",
     "image": "/media/optimized/4bde499478cc841e6c4b.webp",
-    "available": true,
-    "originalImage": "/media/3390AD55-2843-42B1-B9C8-3F528700BAA2.png"
+    "available": true
   },
   {
     "name": "ON CLOUD BLUE RUNNING SHOES",
@@ -212,8 +189,7 @@
     "colors": "Blue / Black / White",
     "description": "ON CLOUD running shoes in blue and black with a white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/9ca8ab5c9c9b2a20402c.webp",
-    "available": true,
-    "originalImage": "/media/84F0B954-217D-4C33-9839-6824B806CC73.png"
+    "available": true
   },
   {
     "name": "ON CLOUD OLIVE RUNNING SHOES",
@@ -221,8 +197,7 @@
     "colors": "Olive Green / Black / Yellow",
     "description": "ON CLOUD sports shoes in olive green, black and yellow with a cream cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/aeaf579f07342348d974.webp",
-    "available": true,
-    "originalImage": "/media/0104C47D-6911-41E4-B92C-0BE1A6332C4F.png"
+    "available": true
   },
   {
     "name": "ON CLOUD LIGHT OLIVE RUNNING SHOES",
@@ -230,8 +205,7 @@
     "colors": "Light Olive / Brown / Yellow",
     "description": "ON CLOUD sports shoes in light olive green and brown with a yellow cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/888f2a5665b7d0f402d6.webp",
-    "available": true,
-    "originalImage": "/media/E78EC508-7B45-4215-9B8E-84E45183731D.png"
+    "available": true
   },
   {
     "name": "ON CLOUD WHITE ORANGE RUNNING SHOES",
@@ -239,8 +213,7 @@
     "colors": "White / Orange / Black",
     "description": "ON CLOUD running shoes in white with orange accents, black laces and an orange cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/7d4aeaeb9f6e6f51d70d.webp",
-    "available": true,
-    "originalImage": "/media/A08C4DC4-E3B8-42F3-A8B6-287AEE86C026.png"
+    "available": true
   },
   {
     "name": "ON CLOUD ALL WHITE RUNNING SHOES",
@@ -248,8 +221,7 @@
     "colors": "All White",
     "description": "ON CLOUD running shoes in all-white design with a breathable mesh upper and white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/8ef4f6eb18a9aa3584df.webp",
-    "available": true,
-    "originalImage": "/media/E73522ED-44DE-4109-82E3-F686B64B3D42.png"
+    "available": true
   },
   {
     "name": "ON CLOUD GREY BLUE RUNNING SHOES",
@@ -257,8 +229,7 @@
     "colors": "45",
     "description": "ON CLOUD running shoes in grey and light blue with navy details and a white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/533e5ec8d2b9b8d10a53.webp",
-    "available": true,
-    "originalImage": "/media/C3C38AB9-2EED-4DFC-9B3A-4E4BC34F938B.png"
+    "available": true
   },
   {
     "name": "ON CLOUD BLACK RED RUNNING SHOES",
@@ -266,8 +237,7 @@
     "colors": "Black / Red / White",
     "description": "Black / Red / White",
     "image": "/media/optimized/9a312b1feb9037f5e481.webp",
-    "available": true,
-    "originalImage": "/media/A96C6D3A-0416-40C1-8D8F-034951E1E601.png"
+    "available": true
   },
   {
     "name": "ON CLOUD FULL BLACK RUNNING SHOES",
@@ -275,8 +245,7 @@
     "colors": "Black / Dark Grey",
     "description": "ON CLOUD running shoes in full black with dark grey details, breathable mesh upper and cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/4c87fd0c128dc4326609.webp",
-    "available": true,
-    "originalImage": "/media/5BBC27EE-087B-4CB9-84A3-E1E79F2A96C7.png"
+    "available": true
   },
   {
     "name": "MANCHESTER UNITED FOOTBALL JERSEY",
@@ -284,8 +253,7 @@
     "colors": "Red / White / Black",
     "description": "Manchester United football jersey in classic red with white and black details. Delivery all over Lebanon.",
     "image": "/media/optimized/5c1ba9dbeb6e2d19ea8b.webp",
-    "available": true,
-    "originalImage": "/media/A9A52E20-3FD8-432F-BF92-44333B037FD2.jpeg"
+    "available": true
   },
   {
     "name": "MANCHESTER UNITED BLUE FOOTBALL JERSEY",
@@ -293,8 +261,7 @@
     "colors": "Blue / Red / White",
     "description": "Manchester United football jersey in blue with red and white details. Delivery all over Lebanon.",
     "image": "/media/optimized/15633f1378bca2ffac86.webp",
-    "available": true,
-    "originalImage": "/media/07EB118B-F0D2-4BC8-8F01-0CF981F80881.jpeg"
+    "available": true
   },
   {
     "name": "ARSENAL FOOTBALL JERSEY",
@@ -302,8 +269,7 @@
     "colors": "Red / White",
     "description": "Arsenal football jersey in classic red with white sleeves. Delivery all over Lebanon.",
     "image": "/media/optimized/6f882eed91670f260a68.webp",
-    "available": true,
-    "originalImage": "/media/79C0CFBD-5710-47B7-BE08-C19E4BD4021B.jpeg"
+    "available": true
   },
   {
     "name": "ARSENAL YELLOW FOOTBALL JERSEY",
@@ -311,8 +277,7 @@
     "colors": "Light Yellow / Navy Blue",
     "description": "Arsenal football jersey in light yellow with navy blue details. Delivery all over Lebanon.",
     "image": "/media/optimized/a7e1120156734a331093.webp",
-    "available": true,
-    "originalImage": "/media/D5986275-18E5-4833-A41D-F6C82C709348.png"
+    "available": true
   },
   {
     "name": "ARSENAL NAVY FOOTBALL JERSEY",
@@ -320,8 +285,7 @@
     "colors": "Navy Blue / Yellow / Red",
     "description": "Arsenal football jersey in navy blue with yellow and red details. Delivery all over Lebanon.",
     "image": "/media/optimized/40715e2121c3f8b3ce66.webp",
-    "available": true,
-    "originalImage": "/media/E1D79B9C-87CA-4DFC-A418-5FC7AEAAC992.png"
+    "available": true
   },
   {
     "name": "JUVENTUS FOOTBALL JERSEY",
@@ -329,8 +293,7 @@
     "colors": "JUVENTUS FOOTBALL JERSEY",
     "description": "Juventus football jersey with classic black and white stripes and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/064167e6f691050a3f36.webp",
-    "available": true,
-    "originalImage": "/media/541A67D9-CC3C-4456-8D57-7E00D0A99D10.jpeg"
+    "available": true
   },
   {
     "name": "JUVENTUS PINK FOOTBALL JERSEY",
@@ -338,8 +301,7 @@
     "colors": "Pink / Black",
     "description": "Juventus football jersey in light pink with black details. Delivery all over Lebanon.",
     "image": "/media/optimized/28db6f7cd8c98eff55c1.webp",
-    "available": true,
-    "originalImage": "/media/13BD4C8B-9D8F-4891-A78E-F6342D2B7800.jpeg"
+    "available": true
   },
   {
     "name": "BAYERN MUNICH WHITE FOOTBALL JERSEY",
@@ -347,8 +309,7 @@
     "colors": "White / Navy Blue / Red",
     "description": "Bayern Munich football jersey in white with navy blue and red details. Delivery all over Lebanon.",
     "image": "/media/optimized/4e63be4d6fe2add3bacc.webp",
-    "available": true,
-    "originalImage": "/media/765BF343-A666-4217-AEC1-A2C073FE7E72.jpeg"
+    "available": true
   },
   {
     "name": "BAYERN MUNICH RED FOOTBALL JERSEY",
@@ -356,8 +317,7 @@
     "colors": "Red / White / Gold",
     "description": "Bayern Munich football jersey in red with white and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/461102c73b96efda70d9.webp",
-    "available": true,
-    "originalImage": "/media/49930C91-A809-46BC-B02C-4E09576A2738.png"
+    "available": true
   },
   {
     "name": "PARIS SAINT-GERMAIN FOOTBALL JERSEY",
@@ -365,8 +325,7 @@
     "colors": "Blue / Red / White",
     "description": "Paris Saint-Germain football jersey in blue with a red center stripe and white details. Delivery all over Lebanon.",
     "image": "/media/optimized/a8ee674121316acca669.webp",
-    "available": true,
-    "originalImage": "/media/DEE86B82-912E-447D-9791-28C5AD7C361B.png"
+    "available": true
   },
   {
     "name": "PSG WHITE FOOTBALL JERSEY",
@@ -374,8 +333,7 @@
     "colors": "White / Red / Navy Blue",
     "description": "Paris Saint-Germain football jersey in white with red and navy blue vertical stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/fb59a8769fd5de18fde0.webp",
-    "available": true,
-    "originalImage": "/media/E17FF644-4074-4EF6-A63F-93D95E6CA3DA.png"
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM HOODIES",
@@ -383,8 +341,7 @@
     "colors": "Black / White",
     "description": "Adidas hoodies in black and white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/670f681298acf443e752.webp",
-    "available": true,
-    "originalImage": "/media/579390DB-8B9F-4274-81AD-CDE6066C52F3.png"
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC HOODIES",
@@ -392,8 +349,7 @@
     "colors": "Green / Black",
     "description": "Adidas hoodies in green and black with a classic sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/48aa8b271f046d6ef655.webp",
-    "available": true,
-    "originalImage": "/media/56FDDB68-3F44-4B1C-9F2E-D37E56D57B30.png"
+    "available": true
   },
   {
     "name": "ADIDAS BASKETBALL BLACK HOODIE",
@@ -401,8 +357,7 @@
     "colors": "Black / Orange Print",
     "description": "Adidas basketball hoodie in black with orange front and back graphics, adjustable hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/b456cb6dd67e09e77359.webp",
-    "available": true,
-    "originalImage": "/media/63CD4761-5FF7-4848-96F2-BF59AA69BA64.png"
+    "available": true
   },
   {
     "name": "NIKE CLASSIC HOODIES",
@@ -410,8 +365,7 @@
     "colors": "Black / Light Grey",
     "description": "Nike hoodies in black and light grey with a classic sporty design, drawstring hood, front pocket and small chest logo. Delivery all over Lebanon.",
     "image": "/media/optimized/165ad05fb81dfdacd27e.webp",
-    "available": true,
-    "originalImage": "/media/BB06452C-87FC-4215-B67D-AF7321377A94.png"
+    "available": true
   },
   {
     "name": "JORDAN FLIGHT HOODIES",
@@ -419,8 +373,7 @@
     "colors": "Navy Blue / Black",
     "description": "Jordan Flight hoodies in navy blue and black with Jumpman graphics, drawstring hood and front pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/022eef05e5ab22503cee.webp",
-    "available": true,
-    "originalImage": "/media/5503F7F8-AC8C-4ADA-BCF6-7CE5AB1B50F9.png"
+    "available": true
   },
   {
     "name": "ADIDAS RED PRINT HOODIES",
@@ -428,8 +381,7 @@
     "colors": "Light Grey / Black",
     "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/e88b5f71abf679805371.webp",
-    "available": true,
-    "originalImage": "/media/C4B8D5D5-825B-4B10-8646-0CA3ABC09D18.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE CLASSIC HOODIES",
@@ -437,8 +389,7 @@
     "colors": "Red / Black",
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/optimized/e8be6f0281c98f599b00.webp",
-    "available": true,
-    "originalImage": "/media/DCF20F49-93E4-4507-B38E-E01F28867228.png"
+    "available": true
   },
   {
     "name": "NIKE BLACK TRACKSUIT",
@@ -446,8 +397,7 @@
     "colors": "Black / White",
     "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon.",
     "image": "/media/optimized/f7ec4bd4dc7a9c1e1902.webp",
-    "available": true,
-    "originalImage": "/media/F199E885-32B3-4D66-9D52-77434232671D.png"
+    "available": true
   },
   {
     "name": "NIKE WHITE TRACKSUIT",
@@ -455,8 +405,7 @@
     "colors": "White / Black Details",
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
     "image": "/media/optimized/9b010747e3674bc08011.webp",
-    "available": true,
-    "originalImage": "/media/5E464EC7-1AE9-4175-B674-A9BBDD2CAC6A.png"
+    "available": true
   },
   {
     "name": "ADIDAS SPORT PANTS",
@@ -464,8 +413,7 @@
     "colors": "White / Black",
     "description": "Adidas sports pants in white and black with elastic waistband, comfortable fit and sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/2f0d14a2756edcc91678.webp",
-    "available": true,
-    "originalImage": "/media/6D707114-D599-4579-9124-F3E35D4CD605.png"
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM SPORTS PANTS",
@@ -473,8 +421,7 @@
     "colors": "Black / Olive Green / Grey",
     "description": "Adidas sports pants in black, olive green and grey, featuring zippered pockets, elastic waistband and comfortable athletic design. Delivery all over Lebanon.",
     "image": "/media/optimized/688a24bc09ea5d84954c.webp",
-    "available": true,
-    "originalImage": "/media/0A93BF7F-1014-4A83-BEA0-3C6C9628DFA9.png"
+    "available": true
   },
   {
     "name": "ON CLOUD OUTDOOR PANTS",
@@ -482,8 +429,7 @@
     "colors": "Black / Grey / White",
     "description": "ON CLOUD outdoor pants in black, grey and white, featuring zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/b64289b906367ef3d788.webp",
-    "available": true,
-    "originalImage": "/media/65C24FF1-1777-4D30-B1E4-DA4EBF56F02C.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE OUTDOOR PANTS",
@@ -491,8 +437,7 @@
     "colors": "Black / Grey",
     "description": "The North Face outdoor pants in black and grey with zippered pockets, elastic waistband and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/a4ba8789f29033c0eefc.webp",
-    "available": true,
-    "originalImage": "/media/3B843DCF-A2EE-43B4-8688-B49E569E1E06-1.png"
+    "available": true
   },
   {
     "name": "NIKE HOODED SPORTS TRACKSUIT",
@@ -500,8 +445,7 @@
     "colors": "All Black / Petrol Blue & Black",
     "description": "Nike hooded sports tracksuit with zip-up jacket, matching black pants, zippered pockets and comfortable lightweight design. Available in all black or petrol blue and black. Delivery all over Lebanon.",
     "image": "/media/optimized/60244a5780d3f23a7ef7.webp",
-    "available": true,
-    "originalImage": "/media/CBBF8038-80F1-42B8-8959-A646E9E9B0D3.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLUE GREY TRACKSUIT",
@@ -509,8 +453,7 @@
     "colors": "Blue Grey / White Details",
     "description": "Adidas sports tracksuit in blue grey with white stripes, zip-up jacket, matching pants and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/42028d55a42681fdd2ab.webp",
-    "available": true,
-    "originalImage": "/media/EDB4B0EE-C553-4A3C-8B57-7C2EC1B42E52.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK COTTON TRACKSUIT",
@@ -518,8 +461,7 @@
     "colors": "Black / Grey Stripes",
     "description": "Black / Grey Stripes",
     "image": "/media/optimized/6547b3a6d54bf9bbf938.webp",
-    "available": true,
-    "originalImage": "/media/ADB5FE8B-94B9-4A82-B886-8866F47AB111.png"
+    "available": true
   },
   {
     "name": "ADIDAS PETROL BLUE TRACKSUIT",
@@ -527,8 +469,7 @@
     "colors": "ADIDAS PETROL BLUE TRACKSUIT",
     "description": "Adidas tracksuit with petrol blue zip-up jacket, black pants, white stripes and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/5daa3ed9715e6e37fd02.webp",
-    "available": true,
-    "originalImage": "/media/EF50E753-9F0B-4EE2-8488-E2EA0FF52226.png"
+    "available": true
   },
   {
     "name": "ADIDAS COLORBLOCK TRACKSUITS",
@@ -536,8 +477,7 @@
     "colors": "Dark Grey & Black",
     "description": "Adidas dark grey and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/12c93b6411a387f4a30a.webp",
-    "available": true,
-    "originalImage": "/media/1B5B6FC7-E348-4278-8C3E-0A3670D87862.png"
+    "available": true
   },
   {
     "name": "ADIDAS SAGE GREEN TRACKSUIT",
@@ -545,8 +485,7 @@
     "colors": "Sage Green & Black",
     "description": "Adidas sage green and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/4dc31234bb6ce53c0e8d.webp",
-    "available": true,
-    "originalImage": "/media/9AC1D994-7A2B-475E-8BB3-0D3FEF947D9E.png"
+    "available": true
   },
   {
     "name": "ADIDAS SAGE GREEN TRACKSUIT",
@@ -554,8 +493,7 @@
     "colors": "Petrol Blue & Black",
     "description": "Adidas sage green and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/9ac0fe646daf51c9f7e5.webp",
-    "available": true,
-    "originalImage": "/media/32A86BCD-322B-4146-B251-C84871F3BBDA-2.png"
+    "available": true
   },
   {
     "name": "ADIDAS CREWNECK SWEATSHIRT",
@@ -563,8 +501,7 @@
     "colors": "Off White / Charcoal",
     "description": "Adidas crewneck sweatshirt with a classic round neckline, long sleeves, ribbed cuffs and a minimal logo design. Available in Off White and Charcoal. Perfect for casual and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/f7bf698ec249d92ce077.webp",
-    "available": true,
-    "originalImage": "/media/563F3F49-0123-458D-BBE5-470E0AC8DFEF.png"
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC STRIPE CREWNECK",
@@ -572,8 +509,7 @@
     "colors": "Black / Light Grey",
     "description": "Adidas classic crewneck sweatshirt with a round neckline, long sleeves, contrasting shoulder stripes, ribbed cuffs and Adidas logo on the chest. Available in Black and Light Grey. Delivery all over Lebanon.",
     "image": "/media/optimized/a51126d0777e2ce31f85.webp",
-    "available": true,
-    "originalImage": "/media/D241D748-EC4E-48AA-AC7B-3BA978027634.png"
+    "available": true
   },
   {
     "name": "ADIDAS TENNIS CLUB CREWNECK",
@@ -581,8 +517,7 @@
     "colors": "Off White / Black",
     "description": "Adidas Tennis Club crewneck sweatshirt with long sleeves, ribbed neckline and cuffs, and bold Adidas Tennis Club chest print. Available in Off White and Black. Delivery all over Lebanon.",
     "image": "/media/optimized/07cd06cd0a473be802be.webp",
-    "available": true,
-    "originalImage": "/media/CF334253-F0D4-44F5-B190-21EE02BB44C8.png"
+    "available": true
   },
   {
     "name": "ADIDAS BASKETBALL GRAPHIC CREWNECK",
@@ -590,8 +525,7 @@
     "colors": "Black / Off White",
     "description": "Adidas basketball graphic crewneck sweatshirt featuring a bold Dribble Till They Tremble front print, basketball-inspired design, long sleeves and ribbed cuffs. Available in Black and Off White. Delivery all over Lebanon.",
     "image": "/media/optimized/e1571f355addc93cc71d.webp",
-    "available": true,
-    "originalImage": "/media/C95BEB7F-9D6E-4AB5-AB44-1E2955E8634C.png"
+    "available": true
   },
   {
     "name": "ADIDAS ADVENTURE CREWNECK",
@@ -599,8 +533,7 @@
     "colors": "Off White / Black",
     "description": "Adidas Adventure crewneck sweatshirt featuring a mountain-inspired front graphic, classic round neckline, long sleeves and ribbed cuffs. Available in Off White with purple details and Black with white and red details. Delivery all over Lebanon.",
     "image": "/media/optimized/5c10f527a28caf09eddb.webp",
-    "available": true,
-    "originalImage": "/media/E85B2553-BFCB-4E59-B603-D0D5D1539B22.png"
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC ZIP-UP HOODIE",
@@ -608,8 +541,7 @@
     "colors": "Royal Blue / Navy Blue / Light Grey",
     "description": "Adidas zip-up hoodie with adjustable hood, full front zipper, front pockets, classic sleeve stripes and Trefoil logo on the chest. Available in Royal Blue, Navy Blue and Light Grey. Delivery all over Lebanon.",
     "image": "/media/optimized/4ac3992ecce2cfb05c18.webp",
-    "available": true,
-    "originalImage": "/media/9516B052-24B4-4BA8-BA9E-3DFEDB83D5D4.png"
+    "available": true
   },
   {
     "name": "ON CLOUD DOUBLE FACE TRACKSUIT",
@@ -617,8 +549,7 @@
     "colors": "Black / Dark Grey & Black",
     "description": "On Cloud sports tracksuit featuring a hooded zip-up jacket with dark patterned detailing, matching black pants, elastic cuffs and zippered pockets. Delivery all over Lebanon.",
     "image": "/media/optimized/af61944e8c9092b5b28c.webp",
-    "available": true,
-    "originalImage": "/media/3E07FB11-1EDC-4364-8EA3-AA4C51901990.png"
+    "available": true
   },
   {
     "name": "NIKE BLACK WATERPROOF TRACKSUIT",
@@ -626,8 +557,7 @@
     "colors": "Black",
     "description": "Nike black waterproof sports tracksuit featuring a full-zip hooded jacket, matching black pants, zippered pockets, adjustable hood and elastic cuffs. Designed for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/91cf0f910de3127fdafb.webp",
-    "available": true,
-    "originalImage": "/media/8204AE26-D9AB-4E95-8235-21AB7C6E3560.png"
+    "available": true
   },
   {
     "name": "NIKE WATERPROOF HOODED TRACKSUIT",
@@ -635,8 +565,7 @@
     "colors": "Black / Dark Grey / Grey Blue",
     "description": "Nike waterproof hooded tracksuit featuring a full-zip jacket, matching dark sports pants, adjustable hood and zippered pockets. Available in Black, Dark Grey and Grey Blue. Delivery all over Lebanon.",
     "image": "/media/optimized/9cea4432340bc9ee5ee0.webp",
-    "available": true,
-    "originalImage": "/media/47770865-43CC-47D5-A734-14A0081D3E21.png"
+    "available": true
   },
   {
     "name": "ADIDAS OLIVE GREY WATERPROOF TRACKSUIT",
@@ -644,8 +573,7 @@
     "colors": "Dark Grey",
     "description": "Adidas waterproof sports tracksuit featuring an olive grey and dark navy hooded zip-up jacket, matching dark navy pants, adjustable hood, zippered chest pocket and elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/885cc26da8b370066519.webp",
-    "available": true,
-    "originalImage": "/media/75535A07-D682-499B-9D4A-D28964B369DC.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK HOODED TRACKSUIT",
@@ -653,8 +581,7 @@
     "colors": "Black",
     "description": "Adidas black hooded sports tracksuit with zip-up jacket, vertical zippered chest pocket, elastic cuffs and matching black pants with ankle zipper. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/69d246a5de4419a402d7.webp",
-    "available": true,
-    "originalImage": "/media/51B31DF8-9723-4A9B-80D6-3485D4D82979.png"
+    "available": true
   },
   {
     "name": "ADIDAS OLIVE GREY TRACKSUIT",
@@ -662,8 +589,7 @@
     "colors": "Olive Grey & Dark Navy",
     "description": "Adidas hooded sports tracksuit featuring an olive grey and dark navy full-zip jacket, vertical zippered chest pocket, elastic cuffs and matching dark navy pants with ankle zipper detail. Delivery all over Lebanon.",
     "image": "/media/optimized/4b237c4fbbe6021171d6.webp",
-    "available": true,
-    "originalImage": "/media/EE8FD814-0380-4080-8753-63666DF898BA.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK COTTON TRACKSUIT",
@@ -671,8 +597,7 @@
     "colors": "Black",
     "description": "Adidas black cotton hooded tracksuit featuring a full-zip jacket, three-stripe sleeve detailing, zippered side pockets and matching jogger pants with three-stripe design. Soft, breathable fabric and a comfortable fit for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/b5447ca93ca9f1646960.webp",
-    "available": true,
-    "originalImage": "/media/D1E69943-6293-483B-A574-70334A8896C9.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE REVERSIBLE JACKET",
@@ -680,8 +605,7 @@
     "colors": "Black / Grey",
     "description": "The North Face reversible hooded jacket featuring a black side and a grey side. Lightweight design with adjustable hood, full front zipper, zippered pockets and comfortable elastic cuffs. Ideal for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/5319461dc75bf4270c86.webp",
-    "available": true,
-    "originalImage": "/media/F428DB3A-E796-4509-83EC-DEB1B1B6E802.png"
+    "available": true
   },
   {
     "name": "ADIDAS REVERSIBLE HOODED JACKET",
@@ -689,8 +613,7 @@
     "colors": "Black & Grey (Reversible)",
     "description": "Adidas reversible hooded jacket with two wearable sides: black and grey. Lightweight design featuring an adjustable hood, full front zipper, zippered side pockets and comfortable elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/12787265ee0ecc8fea54.webp",
-    "available": true,
-    "originalImage": "/media/91E54ABB-FAEE-4B1B-8DF4-88B569CDCCA6.png"
+    "available": true
   },
   {
     "name": "ON CLOUD REVERSIBLE HOODED JACKET",
@@ -698,8 +621,7 @@
     "colors": "Black & Grey (Reversible)",
     "description": "ON CLOUD reversible hooded jacket with two wearable sides in black and grey. Lightweight design featuring an adjustable hood, full front zipper, side pockets and elastic cuffs. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/5337fa0b96de156c94d2.webp",
-    "available": true,
-    "originalImage": "/media/2415903D-160E-43BC-8B7D-FA816D9132A4.png"
+    "available": true
   },
   {
     "name": "NIKE BEIGE & WHITE PUFFER JACKET",
@@ -707,8 +629,7 @@
     "colors": "Beige & White",
     "description": "Nike beige and white hooded puffer jacket featuring a two-tone padded design, full front zipper, zippered side pockets and elastic cuffs. Stylish and comfortable for cooler weather and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/949342cb27ba488eecbf.webp",
-    "available": true,
-    "originalImage": "/media/C3E75D0A-7785-4407-9864-3B912F1D54CF.png"
+    "available": true
   },
   {
     "name": "NIKE CREWNECK SWEATSHIRT",
@@ -716,8 +637,7 @@
     "colors": "Black / Red",
     "description": "Nike crewneck sweatshirt featuring a bold front graphic, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Red. Sweatshirt sold separately from pants. Delivery all over Lebanon.",
     "image": "/media/optimized/c27fc435b908f6adb3e3.webp",
-    "available": true,
-    "originalImage": "/media/F1C6C925-F8B9-4710-877A-9F3555ACB083.png"
+    "available": true
   },
   {
     "name": "NIKE FLEECE JOGGER PANTS",
@@ -725,8 +645,7 @@
     "colors": "Black / Light Grey",
     "description": "Nike jogger pants featuring an elastic waistband with adjustable drawstring, side pockets, ribbed ankle cuffs and Nike logo detailing. Comfortable sporty fit for everyday wear. Available in Black and Light Grey. Pants sold separately from sweatshirts. Delivery all over Lebanon.",
     "image": "/media/optimized/49ae08c05d66cf4ff0cc.webp",
-    "available": true,
-    "originalImage": "/media/87476E09-AD8A-4CDB-924A-BF435294FB16.png"
+    "available": true
   },
   {
     "name": "ADIDAS CAMO LOGO CREWNECK SWEATSHIRT",
@@ -734,8 +653,7 @@
     "colors": "Black / Olive Green",
     "description": "Adidas crewneck sweatshirt featuring a camouflage-style square logo graphic on the chest, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Olive Green. Delivery all over Lebanon.",
     "image": "/media/optimized/9d2e74fe08a0e96b5128.webp",
-    "available": true,
-    "originalImage": "/media/328AAF5C-DDC9-488A-BC3D-839432AF930D.png"
+    "available": true
   },
   {
     "name": "ADIDAS AS ROMA HOME JERSEY",
@@ -743,8 +661,7 @@
     "colors": "Burgundy / Gold",
     "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/8960dd3f90c0dfc1f8dd.webp",
-    "available": true,
-    "originalImage": "/media/BD17997C-3263-4662-BA6E-11362A071169.png"
+    "available": true
   },
   {
     "name": "ADIDAS AS ROMA AWAY JERSEY",
@@ -752,8 +669,7 @@
     "colors": "White / Burgundy / Gold",
     "description": "Adidas AS Roma away football jersey featuring a white base with burgundy and gold chest stripes, AS Roma club crest, Adidas Trefoil logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/7a915ef3db99d4b6c89e.webp",
-    "available": true,
-    "originalImage": "/media/A55DF3E5-9888-486A-9311-AEA1C356A4E5.png"
+    "available": true
   },
   {
     "name": "ADIDAS LIVERPOOL FC HOME JERSEY",
@@ -761,8 +677,7 @@
     "colors": "Red / White",
     "description": "Adidas Liverpool FC home football jersey featuring a red base with white geometric graphics, Liverpool club crest, Adidas logo, Standard Chartered sponsor print, white shoulder stripes and short sleeves. Sporty design for football fans, match days and casual wear. Available in Red / White. Delivery all over Lebanon.",
     "image": "/media/optimized/881aeddba8b6307ddaa4.webp",
-    "available": true,
-    "originalImage": "/media/96E7639B-F2DA-42B2-8DD7-FC1AE5A43F85.png"
+    "available": true
   },
   {
     "name": "ADIDAS LIVERPOOL FC AWAY JERSEY",
@@ -770,8 +685,7 @@
     "colors": "White / Burgundy",
     "description": "Adidas Liverpool FC away football jersey featuring a white base with burgundy shoulder stripes and trim, Liverpool club crest, Adidas Trefoil logo, Standard Chartered sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy. Delivery all over Lebanon.",
     "image": "/media/optimized/5fbcb525bc831c392ec3.webp",
-    "available": true,
-    "originalImage": "/media/8D455B25-06C6-4E8E-BA16-FA7A7E0387A8.jpeg"
+    "available": true
   },
   {
     "name": "NIKE CHELSEA FC BLUE FOOTBALL JERSEY",
@@ -779,8 +693,7 @@
     "colors": "Royal Blue / Gold",
     "description": "Nike Chelsea FC football jersey featuring a royal blue base with gold accents, Chelsea lion crest, Nike Swoosh logo, subtle oversized club graphic across the front, polo collar and short sleeves. Stylish football-inspired design for match days and casual wear. Available in Royal Blue / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/2bf8325dc28f49703f26.webp",
-    "available": true,
-    "originalImage": "/media/979DE0E7-7A24-4127-9F95-9BA41EA4C957.jpeg"
+    "available": true
   },
   {
     "name": "ADIDAS TERREX HOODED TRACKSUIT SET",
@@ -788,8 +701,7 @@
     "colors": "Black",
     "description": "Adidas Terrex two-piece tracksuit set featuring a black hooded zip-up jacket and matching pants. The jacket includes a full front closure, zippered pockets, elastic cuffs, subtle shoulder detailing and Adidas Terrex branding. Matching pants feature an elastic waistband, side pockets and Adidas logo. Sporty and practical design for outdoor activities and everyday wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/optimized/df2d574306af7140b26b.webp",
-    "available": true,
-    "originalImage": "/media/F86F9A1C-75EA-4E45-952D-549608DAA55B.png"
+    "available": true
   },
   {
     "name": "ADIDAS HOODED STRIPED TRACKSUIT SET",
@@ -797,8 +709,7 @@
     "colors": "Black / Silver Grey",
     "description": "Adidas two-piece tracksuit featuring a black hooded zip-up jacket with silver-grey shoulder stripes, Adidas chest logo, zippered chest and side pockets, and elastic cuffs. Matching black pants with three silver-grey vertical stripes, zippered pocket, Adidas logo and elastic waistband. Comfortable sporty design for outdoor activities and everyday wear. Available in Black / Silver Grey. Delivery all over Lebanon.",
     "image": "/media/optimized/70d8245dde1f30b580c7.webp",
-    "available": true,
-    "originalImage": "/media/AE600725-C28C-4ECD-9DD7-45496AD837F3.png"
+    "available": true
   },
   {
     "name": "ADIDAS TWO-TONE HOODED JACKET",
@@ -806,8 +717,7 @@
     "colors": "Black / Light Olive Grey",
     "description": "Adidas two-tone hooded jacket featuring a black upper section and sleeves with a light olive-grey lower body. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Comfortable sporty style for cool weather and everyday wear. Available in Black / Light Olive Grey. Delivery all over Lebanon.",
     "image": "/media/optimized/7be36778703cf2b1e763.webp",
-    "available": true,
-    "originalImage": "/media/A36FE405-DD8C-4AF3-8B7F-A970FD72FF43.png"
+    "available": true
   },
   {
     "name": "ADIDAS TWO-TONE HOODED JACKET GREY WHITE",
@@ -815,8 +725,7 @@
     "colors": "Grey / White",
     "description": "Adidas two-tone hooded jacket featuring a grey upper section and sleeves with a white lower body and inner sleeve panels. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Sporty and comfortable style for cool weather and everyday wear. Available in Grey / White. Delivery all over Lebanon.",
     "image": "/media/optimized/97fae1edd6bbc0e8708b.webp",
-    "available": true,
-    "originalImage": "/media/14BB45B7-D1B2-4E2E-8CAA-E60B2F1529F9.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK HOODED ZIP-UP JACKET",
@@ -824,8 +733,7 @@
     "colors": "Black",
     "description": "Adidas black hooded jacket featuring a clean all-black design with white Adidas chest logo, adjustable hood, full front zip closure with protective flap, zippered side pockets and elastic cuffs. Comfortable sporty style for cool weather and everyday wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/optimized/cbbd41ebdaace994e755.webp",
-    "available": true,
-    "originalImage": "/media/B49F0EDF-6B7D-4D62-8913-D78794E12E2D.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE LIGHTWEIGHT WATERPROOF JACKET",
@@ -833,8 +741,7 @@
     "colors": "Olive Green",
     "description": "The North Face lightweight waterproof and windproof jacket. Designed with a thin, comfortable outer layer that protects against wind and rain without the bulk of a heavy winter jacket. Features an adjustable hood, full front zipper, zippered side pockets and elastic cuffs. Ideal for everyday wear and changing weather. Available in Olive Green. Delivery all over Lebanon.",
     "image": "/media/optimized/8e9b00231f2d6801f42f.webp",
-    "available": true,
-    "originalImage": "/media/50C7845C-2FB7-45E5-8ECD-7FDB8A610471.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE LIGHTWEIGHT WATERPROOF JACKET",
@@ -842,8 +749,7 @@
     "colors": " Black",
     "description": "The North Face lightweight waterproof and windproof hooded jacket. Thin and comfortable design that provides protection against wind and rain without the bulk of a heavy winter jacket. Features a full front zipper, adjustable hood, zippered side pockets and elastic cuffs. Perfect for everyday wear and changing weather. Available in Olive Green and Black. Delivery all over Lebanon.",
     "image": "/media/optimized/139b2773d0ff8edeb34e.webp",
-    "available": true,
-    "originalImage": "/media/4583D547-66C0-44EE-BCBD-F2E72EBE301B.png"
+    "available": true
   },
   {
     "name": "ADIDAS BASKETBALL BLACK HOODIE",
@@ -851,8 +757,7 @@
     "colors": "ADIDAS BASKETBALL BLACK HOODIE",
     "description": "Adidas Basketball pullover hoodie in Black, featuring a white ADIDAS BASKETBALL graphic across the chest, adjustable drawstring hood, front kangaroo pocket and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/optimized/eea1e834cca1abba8227.webp",
-    "available": true,
-    "originalImage": "/media/DCB19ED0-71F2-4970-93D3-C76A29E477FF.png"
+    "available": true
   },
   {
     "name": "ADIDAS WATERPROOF TRACK PANTS – BLACK",
@@ -860,8 +765,7 @@
     "colors": "Black",
     "description": "Adidas lightweight waterproof track pants in Black, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Delivery all over Lebanon.",
     "image": "/media/optimized/123b71fdf9585d55afa5.webp",
-    "available": true,
-    "originalImage": "/media/28B1AA41-82A2-4BAB-A2D6-693E39FBDC9F.png"
+    "available": true
   },
   {
     "name": "ADIDAS WATERPROOF TRACK PANTS",
@@ -869,8 +773,7 @@
     "colors": "Black / Olive Green",
     "description": "Adidas lightweight waterproof track pants, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Available in Black and Olive Green. Delivery all over Lebanon.",
     "image": "/media/optimized/38013e4aa67e7b74523b.webp",
-    "available": true,
-    "originalImage": "/media/CEFEDE33-07D0-4CB5-9B7F-82D04C58A610.png"
+    "available": true
   },
   {
     "name": "ADIDAS GRAPHIC COTTON JOGGER PANTS",
@@ -878,8 +781,7 @@
     "colors": "Black",
     "description": "Adidas cotton jogger pants featuring a black-on-black graphic print, contrasting white drawstrings, elastic waistband, side pockets, and ribbed ankle cuffs. Comfortable sporty fit for everyday casual wear. Available in Black. Delivery all over Lebanon.",
     "image": "/media/optimized/b30fcac296fccb6c392f.webp",
-    "available": true,
-    "originalImage": "/media/6E1C5F1E-349A-4661-BED5-8203765BF53C.png"
+    "available": true
   },
   {
     "name": "ADIDAS ORIGINALS COTTON JOGGER PANTS",
@@ -887,8 +789,7 @@
     "colors": "Light Grey",
     "description": "Adidas Originals cotton jogger pants in light grey, featuring the white Trefoil logo, elastic waistband with adjustable drawstring, side pockets, and ribbed ankle cuffs. Comfortable sporty fit, perfect for casual and everyday wear. Available in Light Grey. Delivery all over Lebanon.",
     "image": "/media/optimized/3f3de6b85fe16bd86118.webp",
-    "available": true,
-    "originalImage": "/media/1D33EE04-E31A-47BF-8A2E-46EC4211078E.png"
+    "available": true
   },
   {
     "name": "ADIDAS BLACK COTTON JOGGER PANTS WITH SIDE STRIPES",
@@ -896,8 +797,7 @@
     "colors": "Black / White Stripes",
     "description": "Adidas black cotton jogger pants featuring two white side stripes on each leg, an elastic waistband with adjustable drawstrings, side pockets, Adidas logo detail, and ribbed ankle cuffs. Comfortable sporty fit for everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/ad4b800eac0a792a11d9.webp",
-    "available": true,
-    "originalImage": "/media/EAD1C504-3B9A-42A8-956C-F424FCF87C4B.png"
+    "available": true
   },
   {
     "name": "THE NORTH FACE COTTON JOGGER PANTS",
@@ -905,8 +805,7 @@
     "colors": "Black",
     "description": "The North Face black cotton jogger pants featuring a white logo detail, elastic waistband with adjustable drawstrings, two zippered side pockets, and ribbed ankle cuffs. Comfortable sporty fit for casual and everyday wear. Delivery all over Lebanon.",
     "image": "/media/optimized/8e4b51262f48b636ca93.webp",
-    "available": true,
-    "originalImage": "/media/3C6A1E6C-A0D9-4FA1-B27F-D4F1F84DF86D.png"
+    "available": true
   },
   {
     "name": "REAL MADRID ADIDAS TRACKSUIT – WHITE & DARK GREEN",
@@ -914,8 +813,7 @@
     "colors": "White, Dark Green, Pink",
     "description": "Real Madrid tracksuit featuring a full-zip white jacket with dark green sleeves, pink Adidas stripes and club crest, paired with matching dark green pants with white panels. Sporty design with elastic cuffs and zippered pant hems. Delivery all over Lebanon.",
     "image": "/media/optimized/25e5669779e80ba2bb9a.webp",
-    "available": true,
-    "originalImage": "/media/20E32507-6E41-465C-890E-CD10952BC719.png"
+    "available": true
   },
   {
     "name": "AC MILAN RED & BLACK TRACKSUIT",
@@ -923,8 +821,7 @@
     "colors": "Red, Black",
     "description": "AC Milan tracksuit featuring a red hooded zip-up jacket and black matching pants with AC Milan and Puma logos. Comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/3550980a6ee9ac1fb256.webp",
-    "available": true,
-    "originalImage": "/media/AC5EA4F5-118D-47EF-9D29-1D154A368AE1.png"
+    "available": true
   },
   {
     "name": "BORUSSIA DORTMUND YELLOW & BLACK TRACKSUIT",
@@ -932,8 +829,7 @@
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund tracksuit featuring a yellow half-zip training top with black sleeve panels and matching black pants. BVB and Puma logos with a modern sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/7cc281bd335dccde47b5.webp",
-    "available": true,
-    "originalImage": "/media/CDE763FF-6918-45AD-A6C9-73E9931D9212.png"
+    "available": true
   },
   {
     "name": "REAL MADRID PINK TRACKSUIT",
@@ -941,8 +837,7 @@
     "colors": "Pink, White",
     "description": "Real Madrid pink tracksuit featuring a full-zip jacket with white Adidas stripes and club crest, paired with matching pink pants. Stylish sporty design with comfortable fit. Delivery all over Lebanon.",
     "image": "/media/optimized/c00b667f08579b72c16a.webp",
-    "available": true,
-    "originalImage": "/media/9FD9B59A-373E-47C5-A545-C779646F3547.png"
+    "available": true
   },
   {
     "name": "JUVENTUS WHITE & BLUE TRACKSUIT",
@@ -950,8 +845,7 @@
     "colors": "White, Blue, Gold",
     "description": "Juventus tracksuit featuring a white full-zip jacket with blue panels, Adidas stripes, and gold club crest, paired with blue pants with white lower-leg panels and side stripes. A coordinated sporty look with a stand-up collar and elastic waistband.",
     "image": "/media/optimized/3d40da54961f0ebe0dca.webp",
-    "available": true,
-    "originalImage": "/media/49AE51A4-54B5-4A4D-8782-26924019AEC2.png"
+    "available": true
   },
   {
     "name": "REAL MADRID NAVY & GOLD TRACKSUIT",
@@ -959,8 +853,7 @@
     "colors": "Navy Blue, Gold, White",
     "description": "Real Madrid navy blue tracksuit featuring a full-zip jacket with a stand-up collar, front pockets, and gold and white stripes along the sleeves. Paired with matching pants with an elastic waistband and coordinating side stripes. Both pieces feature the Real Madrid crest and white Adidas Trefoil logo for a classic sporty look.",
     "image": "/media/optimized/38b3ba67078bd6404a9f.webp",
-    "available": true,
-    "originalImage": "/media/80E1F02A-F7EA-4E31-B4B8-85D83A08B17E-1.png"
+    "available": true
   },
   {
     "name": "PSG WHITE & GREY TRAINING TRACKSUIT",
@@ -968,8 +861,7 @@
     "colors": "White, Grey, Black",
     "description": "Paris Saint-Germain training tracksuit featuring a white quarter-zip top with grey sleeves, black shoulder panels, and Qatar Airways lettering. Paired with grey pants featuring an elastic waistband and black PARIS lettering on the lower leg. PSG crests and Nike Swoosh logos complete the sporty look.",
     "image": "/media/optimized/5de44e90a764edf43d38.webp",
-    "available": true,
-    "originalImage": "/media/0B95C0D4-FAA6-497E-8C38-B2D52BF5E7C2-2.png"
+    "available": true
   },
   {
     "name": "FC BARCELONA BLUE & NEON YELLOW TRAINING TRACKSUIT",
@@ -977,8 +869,7 @@
     "colors": "Light Blue, Dark Blue, Neon Yellow",
     "description": "FC Barcelona training tracksuit featuring a light blue quarter-zip top with neon yellow shoulder panels, club crest, Nike Swoosh, and Spotify logo. Paired with dark blue pants featuring an elastic waistband, neon yellow detailing, and matching club crest and Nike Swoosh. A bold, coordinated sporty look.",
     "image": "/media/optimized/b78c0d9db38abc4c3347.webp",
-    "available": true,
-    "originalImage": "/media/2DDF4294-711B-4647-88CE-84DAB050835E.png"
+    "available": true
   },
   {
     "name": "LIVERPOOL WHITE & BLACK TRAINING TRACKSUIT",
@@ -986,8 +877,7 @@
     "colors": "White, Black, Red",
     "description": "Liverpool training tracksuit featuring a white quarter-zip top with black panels, striped sleeves, and red AXA lettering. Paired with black pants featuring an elastic waistband, white side stripes, and textured lower-leg panels. Red Liverpool crests and Adidas logos complete the coordinated sporty look.",
     "image": "/media/optimized/96b5537b5120cc554ad4.webp",
-    "available": true,
-    "originalImage": "/media/2D25B32D-3A21-45B6-A227-880641374BED.png"
+    "available": true
   },
   {
     "name": "REAL MADRID WHITE & PURPLE TRACKSUIT",
@@ -995,8 +885,7 @@
     "colors": "White, Purple, Gold",
     "description": "Real Madrid tracksuit featuring a white full-zip jacket with a purple chest band, fine gold trim, and purple sleeve stripes. The jacket includes a stand-up collar, front pockets, and purple Real Madrid crest and Adidas Trefoil logo. Paired with purple pants featuring an elastic waistband, white side stripes, and matching white logos for a coordinated sporty look.",
     "image": "/media/optimized/a81e012a0fde108b3c19.webp",
-    "available": true,
-    "originalImage": "/media/B7DB2CC4-241A-4A7F-B5F5-A6B552B8E6C7-1.png"
+    "available": true
   },
   {
     "name": "BAYERN MUNICH WHITE & NAVY TRACKSUIT",
@@ -1004,8 +893,7 @@
     "colors": "White, Navy Blue, Blue, Red, Gold",
     "description": "Bayern Munich tracksuit featuring a white full-zip jacket with navy panels, red sleeve stripes, a stand-up collar, and front pockets. Paired with navy pants featuring an elastic waistband, red side stripes, and contrasting blue lower-leg panels. Gold Bayern Munich crests and Adidas logos complete the coordinated sporty look.",
     "image": "/media/optimized/5f2c2543fc74b7dd4f79.webp",
-    "available": true,
-    "originalImage": "/media/12BF0C02-CE9D-42E1-BF25-F99AD21D5D4A.png"
+    "available": true
   },
   {
     "name": "LIVERPOOL RED & BLACK HOODED TRACKSUIT",
@@ -1013,8 +901,7 @@
     "colors": "Red, Black, White",
     "description": "Liverpool cotton tracksuit featuring a red full-zip hooded jacket with front pockets and white sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. White Liverpool crests and Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/optimized/547fee4b729ca6d20808.webp",
-    "available": true,
-    "originalImage": "/media/0F318633-19D4-4E35-A1B9-F1ED0B0C56A8.png"
+    "available": true
   },
   {
     "name": "MANCHESTER UNITED RED & BLACK HOODED TRACKSUIT",
@@ -1022,8 +909,7 @@
     "colors": "Red, Black, White, Gold",
     "description": "Manchester United cotton tracksuit featuring a red full-zip hooded jacket with front pockets and black sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Manchester United crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/optimized/0d00a72829a0bc230926.webp",
-    "available": true,
-    "originalImage": "/media/9B3C83C3-AE37-4512-83CF-971E66477975.png"
+    "available": true
   },
   {
     "name": "ARSENAL RED & BLACK HOODED TRACKSUIT",
@@ -1031,8 +917,7 @@
     "colors": "Red, White, Black",
     "description": "Arsenal cotton tracksuit featuring a red full-zip hooded jacket with white sleeves, front pockets, and red sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and red lower-leg detailing. White Arsenal crests and Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/optimized/11a2ab94cd4304f89448.webp",
-    "available": true,
-    "originalImage": "/media/339D35BA-2102-4CD8-9BA8-189C8E3E918E.png"
+    "available": true
   },
   {
     "name": "REAL MADRID BLUE HOODED TRACKSUIT",
@@ -1040,8 +925,7 @@
     "colors": "Blue, White, Gold",
     "description": "Real Madrid cotton tracksuit featuring a blue full-zip hooded jacket with front pockets and white sleeve accents. Paired with matching blue pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Real Madrid crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "image": "/media/optimized/1056e83aaf0f09cdef3e.webp",
-    "available": true,
-    "originalImage": "/media/F5EAE547-2F96-43B0-96C7-EE5173C061C6.png"
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET",
@@ -1049,8 +933,7 @@
     "colors": "Neon Yellow / Dark Navy, Orange / Dark Navy, Dark Grey",
     "description": "Winter set with a hooded zip-up jacket and matching pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
     "image": "/media/optimized/e75d675844359f848343.webp",
-    "available": true,
-    "originalImage": "/media/CF192D92-806A-4A84-8F88-D24D7452A654.png"
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET – DARK GREY",
@@ -1065,8 +948,7 @@
     "colors": "Orange / Dark Navy",
     "description": "Winter two-piece set featuring an orange hooded zip-up jacket and dark navy pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon.",
     "image": "/media/optimized/e6826fd8577803be5464.webp",
-    "available": true,
-    "originalImage": "/media/44B8AC6B-41A6-43BB-9820-3AA3D48E5E12.png"
+    "available": true
   },
   {
     "name": "NIKE / ADIDAS / JORDAN SOCKS",
@@ -1074,7 +956,14 @@
     "colors": "White, Black, Grey",
     "description": "Nike, Adidas and Jordan socks in ankle and crew styles. Available in different designs and color combinations. Select your preferred brand and style when ordering. Delivery all over Lebanon.",
     "image": "/media/optimized/b372524c03bbe468127d.webp",
-    "available": true,
-    "originalImage": "/media/2A956C4D-5D5C-432F-8BAC-A0C1554F6946.jpeg"
+    "available": true
+  },
+  {
+    "name": "GERMANY BLACK & RED TRACKSUIT",
+    "price": 70,
+    "colors": "Black, Red, Yellow, White",
+    "description": "Germany tracksuit featuring a black full-zip jacket with yellow chest panels, textured red lower sleeves, white shoulder stripes, and a stand-up collar. Paired with black pants featuring an elastic waistband, white side stripes, and textured red lower-leg panels. Germany crests with four stars and white Adidas logos complete the coordinated sporty look.",
+    "image": "/media/63967B8A-A740-490A-A180-C6F1FAC18CA9.png",
+    "available": true
   }
 ]
