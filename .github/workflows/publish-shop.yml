@@ -1,0 +1,93 @@
+name: Publish new shop with backup
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/publish-shop.yml
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: publish-shop
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Back up old shop and publish new shop
+        shell: python
+        run: |
+          import hashlib, re
+          from pathlib import Path
+
+          shop = Path('shop.html')
+          preview = Path('shop-preview.html')
+          backup = Path('shop-old.html')
+
+          old = shop.read_bytes()
+          new = preview.read_text()
+
+          required = [
+              'const categories=',
+              'Cotton Sets',
+              'Waterproof Sets',
+              'Delivery all over Lebanon',
+              '96170828465'
+          ]
+          for value in required:
+              if value not in new:
+                  raise RuntimeError('Preview check failed: ' + value)
+
+          new = new.replace(
+              '<title>FLEX ZONE | تجربة البحث</title>',
+              '<title>FLEX ZONE | Shop</title>'
+          )
+          new = re.sub(
+              r'<p class="preview-note">.*?</p>',
+              '',
+              new,
+              count=1
+          )
+
+          if old != new.encode('utf-8'):
+              expected = '7329a8636726bb3dcc2d729b4f3aaaee268415e5'
+              actual = hashlib.sha1(
+                  b'blob ' + str(len(old)).encode() + b'\0' + old
+              ).hexdigest()
+
+              if actual != expected:
+                  raise RuntimeError('Old shop changed; stopped safely')
+
+              if backup.exists() and backup.read_bytes() != old:
+                  raise RuntimeError('A different backup already exists')
+
+              backup.write_bytes(old)
+              if backup.read_bytes() != old:
+                  raise RuntimeError('Backup verification failed')
+
+              shop.write_text(new)
+
+          print('Old shop preserved. New shop ready.')
+
+      - name: Save both pages
+        run: |
+          git add shop.html shop-old.html
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Publish searchable shop and preserve old shop"
+            git push origin HEAD:main
+          fi
+
+      - name: Rebuild website
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
