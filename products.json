@@ -989,5 +989,13 @@
     "description": "Real Madrid tracksuit featuring a light green full-zip hooded jacket with black sleeves, front pockets, and light green sleeve accents. Paired with black tapered pants featuring an elastic waistband, ribbed ankle cuffs, and matching light green lower-leg detailing. Contrasting Real Madrid crests and Adidas logos complete the coordinated sporty look.",
     "image": "/media/E74D2635-4226-4E07-ADCD-E558A7905B30-1.png",
     "available": true
+  },
+  {
+    "name": "BORUSSIA DORTMUND YELLOW & BLACK HOODED TRACKSUIT",
+    "price": 70,
+    "colors": "Yellow, Black",
+    "description": "Borussia Dortmund tracksuit featuring a yellow full-zip hooded jacket with elastic cuffs and black BVB crest and Puma logo. Paired with black tapered pants featuring an elastic waistband, shaped knee panels, and matching yellow BVB crest and Puma logo. A coordinated sporty look in the club’s signature colors.",
+    "image": "/media/0A7BA2F4-C995-4433-8CEE-D4DB93DD6771.png",
+    "available": true
   }
 ]
