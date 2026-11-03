@@ -998,5 +998,13 @@
     "description": "Borussia Dortmund tracksuit featuring a yellow full-zip hooded jacket with elastic cuffs and black BVB crest and Puma logo. Paired with black tapered pants featuring an elastic waistband, shaped knee panels, and matching yellow BVB crest and Puma logo. A coordinated sporty look in the club’s signature colors.",
     "image": "/media/0A7BA2F4-C995-4433-8CEE-D4DB93DD6771.png",
     "available": true
+  },
+  {
+    "name": "ON CLOUD OLIVE & BLACK JACKET",
+    "price": 45,
+    "colors": "Olive Green / Black",
+    "description": "Olive green and black hooded jacket with a full front zip, adjustable hood and cuffs, and zippered front pocket. Comfortable sporty style for everyday wear. Delivery all over Lebanon.",
+    "image": "/media/3BC88691-022E-480E-A20E-2A47A37AD4A7.png",
+    "available": true
   }
 ]
