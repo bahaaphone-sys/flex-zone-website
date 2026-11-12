@@ -69,6 +69,8 @@ function show(index){
   const p=products[index];
   stage.replaceChildren();
   const img=document.createElement('img');
+  img.loading='eager';
+img.fetchPriority='high';
   img.src=new URL('./'+String(p.image||'').replace(/^\/+/,''),location.href).href;
   img.alt=p.name||'صورة منتج';
   img.decoding='async';
