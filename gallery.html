@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101010">
+<title>FLEX ZONE | معرض الصور</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#101010;color:#fff;font-family:system-ui,-apple-system,sans-serif}header{padding:20px;text-align:center;background:#090909;border-bottom:1px solid #292929}header strong{color:#f5c842;font-size:25px;font-weight:900}main{width:min(100%,820px);margin:auto;padding:18px 16px 36px}.title-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:6px 0 14px}h1{font-size:20px;margin:0}.count{color:#aaa;font-size:14px}.stage{display:grid;place-items:center;min-height:min(65vh,620px);background:#1a1a1a;border:1px solid #292929;border-radius:18px;overflow:hidden}.stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain}.caption{padding:14px 4px 8px;font-size:18px;font-weight:700;min-height:52px}.rail-label{color:#aaa;font-size:14px;margin:10px 2px}.rail{display:flex;gap:10px;overflow-x:auto;padding:4px 2px 12px;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:thin}.thumb{flex:0 0 112px;height:104px;padding:5px;border:1px solid #444;border-radius:12px;background:#202020;scroll-snap-align:start;cursor:pointer}.thumb img{display:block;width:100%;height:100%;object-fit:contain;border-radius:7px;background:#f5f5f5}.thumb[aria-pressed=true]{border:2px solid #f5c842}.status{color:#aaa;text-align:center;padding:28px 10px}.error{color:#ffb1a8}@media(min-width:700px){main{padding-top:28px}.stage{min-height:560px}.stage img{height:560px}.thumb{flex-basis:132px;height:120px}}
+</style>
+</head>
+<body>
+<header><strong>👑 FLEX ZONE</strong></header>
+<main>
+<div class="title-row"><h1>معرض الصور</h1><span id="count" class="count"></span></div>
+<div id="stage" class="stage" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
+<div id="caption" class="caption"></div>
+<p class="rail-label">اسحب الصور من تحت و اكبس على الصورة اللي بدك تشوفها</p>
+<div id="rail" class="rail" aria-label="صور المنتجات"></div>
+</main>
+<script>
+const stage=document.getElementById('stage'),rail=document.getElementById('rail'),caption=document.getElementById('caption'),count=document.getElementById('count');
+let products=[],active=0;
+function show(index){active=index;const p=products[index];stage.replaceChildren();const img=document.createElement('img');img.src=new URL('./'+String(p.image||'').replace(/^\/+/,''),location.href).href;img.alt=p.name||'صورة منتج';img.decoding='async';stage.append(img);caption.textContent=p.name||'';count.textContent=(index+1)+' / '+products.length;for(const [i,b]of [...rail.children].entries())b.setAttribute('aria-pressed',String(i===index));rail.children[index]?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});}
+fetch('./products.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(items=>{products=items.filter(p=>p&&p.available!==false&&p.image);if(!products.length)throw Error();const f=document.createDocumentFragment();products.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label','عرض '+(p.name||'الصورة'));b.setAttribute('aria-pressed','false');const im=document.createElement('img');im.src=new URL('./'+String(p.image).replace(/^\/+/,''),location.href).href;im.alt='';im.loading='lazy';im.decoding='async';b.append(im);b.onclick=()=>show(i);f.append(b);});rail.append(f);show(0);}).catch(()=>{stage.innerHTML='<p class="status error">ما قدرنا نحمّل الصور. جرّب تحدّث الصفحة.</p>';});
+</script>
+</body>
+</html>
