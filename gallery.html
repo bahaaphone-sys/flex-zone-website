@@ -91,7 +91,7 @@ sendOrder.onclick=event=>{
   const p=products[active],size=sizeInput.value.trim();
   if(!size){sizeInput.focus();return;}
   const message=`مرحبا، بدي ${p.name}${p.colors?` (${p.colors})`:''}. مقاسي ${size}.`;
-  window.open('https://wa.me/?text='+encodeURIComponent(message),'_blank','noopener');
+  window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
 };
 
 fetch('./products.json',{cache:'no-store'})
