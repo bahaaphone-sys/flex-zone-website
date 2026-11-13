@@ -341,7 +341,15 @@
     "colors": "White",
     "description": "Adidas hoodies in white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL, 3XL.",
     "image": "/media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   },
   {
     "name": "ADIDAS CLASSIC HOODIES",
@@ -1029,6 +1037,14 @@
     "colors": "Black",
     "description": "Adidas hoodies in black with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL, 3XL.",
     "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   }
 ]
