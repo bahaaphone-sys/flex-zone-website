@@ -165,7 +165,15 @@
     "colors": "Black / White",
     "description": "ON CLOUD running shoes in black with white Cloudtec-style sole. Delivery all over Lebanon.",
     "image": "/media/optimized/2737c7a9cb57546d5d74.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD BLACK RUNNING SHOES",
@@ -173,7 +181,15 @@
     "colors": "All Black",
     "description": "ON CLOUD running shoes in all-black design with a cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/555d491604caeef92dcd.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD WHITE NEON RUNNING SHOES",
@@ -181,7 +197,15 @@
     "colors": "White / Light Grey / Neon Yellow",
     "description": "ON CLOUD running shoes in white and light grey with a neon yellow cushioned sole and orange accents. Delivery all over Lebanon.",
     "image": "/media/optimized/4bde499478cc841e6c4b.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD BLUE RUNNING SHOES",
@@ -189,7 +213,15 @@
     "colors": "Blue / Black / White",
     "description": "ON CLOUD running shoes in blue and black with a white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/9ca8ab5c9c9b2a20402c.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD OLIVE RUNNING SHOES",
@@ -197,7 +229,15 @@
     "colors": "Olive Green / Black / Yellow",
     "description": "ON CLOUD sports shoes in olive green, black and yellow with a cream cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/aeaf579f07342348d974.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD LIGHT OLIVE RUNNING SHOES",
@@ -205,7 +245,15 @@
     "colors": "Light Olive / Brown / Yellow",
     "description": "ON CLOUD sports shoes in light olive green and brown with a yellow cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/888f2a5665b7d0f402d6.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD WHITE ORANGE RUNNING SHOES",
@@ -213,7 +261,15 @@
     "colors": "White / Orange / Black",
     "description": "ON CLOUD running shoes in white with orange accents, black laces and an orange cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/7d4aeaeb9f6e6f51d70d.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD ALL WHITE RUNNING SHOES",
@@ -221,7 +277,15 @@
     "colors": "All White",
     "description": "ON CLOUD running shoes in all-white design with a breathable mesh upper and white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/8ef4f6eb18a9aa3584df.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD GREY BLUE RUNNING SHOES",
@@ -229,7 +293,15 @@
     "colors": "45",
     "description": "ON CLOUD running shoes in grey and light blue with navy details and a white cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/533e5ec8d2b9b8d10a53.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD BLACK RED RUNNING SHOES",
@@ -237,7 +309,15 @@
     "colors": "Black / Red / White",
     "description": "Black / Red / White",
     "image": "/media/optimized/9a312b1feb9037f5e481.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "ON CLOUD FULL BLACK RUNNING SHOES",
@@ -245,7 +325,15 @@
     "colors": "Black / Dark Grey",
     "description": "ON CLOUD running shoes in full black with dark grey details, breathable mesh upper and cushioned sole. Delivery all over Lebanon.",
     "image": "/media/optimized/4c87fd0c128dc4326609.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "name": "MANCHESTER UNITED FOOTBALL JERSEY",
