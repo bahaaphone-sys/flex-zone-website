@@ -183,6 +183,16 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
   products=items.filter(p=>p&&p.available!==false&&p.image);
   if(!products.length)throw Error();
   const f=document.createDocumentFragment();
+  const thumbObserver='IntersectionObserver' in window
+    ? new IntersectionObserver(entries=>{
+        for(const entry of entries){
+          if(!entry.isIntersecting) continue;
+          const im=entry.target;
+          thumbObserver.unobserve(im);
+          setProductImage(im,im.dataset.imagePath);
+        }
+      },{root:rail,rootMargin:'0px 360px 0px 360px'})
+    : null;
   products.forEach((p,i)=>{
     const b=document.createElement('button');
     b.type='button';
@@ -191,10 +201,15 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
     b.setAttribute('aria-pressed','false');
     const im=document.createElement('img');
     im.alt='';
-    im.loading=i===0?'eager':'lazy';
-    im.fetchPriority=i===0?'low':'auto';
     im.decoding='async';
-    setProductImage(im,p.image);
+    im.dataset.imagePath=p.image;
+    if(i<5||!thumbObserver){
+      im.loading='eager';
+      setProductImage(im,p.image);
+    }else{
+      im.loading='lazy';
+      thumbObserver.observe(im);
+    }
     b.append(im);
     b.onclick=()=>show(i);
     f.append(b);
