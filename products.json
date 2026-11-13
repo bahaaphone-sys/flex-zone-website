@@ -1022,5 +1022,13 @@
     "description": "Nike hooded tracksuit with a light grey jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
     "available": true
+  },
+  {
+    "name": "ADIDAS PREMIUM HOODIES",
+    "price": 24,
+    "colors": "‏blak",
+    "description": "Adidas hoodies in blak with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available",
+    "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
+    "available": true
   }
 ]
