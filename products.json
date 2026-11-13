@@ -109,7 +109,11 @@
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "41.5",
+      "45.5"
+    ]
   },
   {
     "name": "ADIDAS RUNNING SHOES - GREY GREEN",
@@ -117,7 +121,14 @@
     "colors": "Grey, Light Green",
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
     "image": "/media/optimized/0d9b7b145e16b9791e63.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "40.5",
+      "44.5",
+      "45.5",
+      "46",
+      "48"
+    ]
   },
   {
     "name": "ADIDAS DURAMO RC RUNNING SHOES",
@@ -125,7 +136,13 @@
     "colors": "Grey, Coral Pink",
     "description": "Adidas Duramo RC running shoes with breathable mesh upper, lightweight cushioned sole and grey design with coral pink stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/aaab7d12657f1202c775.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "41.5",
+      "42.5",
+      "43.5",
+      "45"
+    ]
   },
   {
     "name": "ADIDAS NAVY BLUE RUNNING SHOES",
@@ -133,7 +150,13 @@
     "colors": "Navy Blue, Silver",
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/5478d3c5abef9c66783c.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "41.5",
+      "42",
+      "42.5",
+      "45.5"
+    ]
   },
   {
     "name": "ADIDAS CLOUDFOAM RUNNING SHOES",
@@ -141,7 +164,10 @@
     "colors": "Black, Navy Blue, White",
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/194efe19e6784d7ccd1e.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "44.5"
+    ]
   },
   {
     "name": "BORUSSIA DORTMUND FOOTBALL JERSEY",
