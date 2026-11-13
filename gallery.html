@@ -120,9 +120,7 @@ function show(index){
   }
   renderSizes(p);
   count.textContent=(index+1)+' / '+products.length;
-  const hasSizeChoices=Array.isArray(p.sizes)&&p.sizes.length>0;
-  document.getElementById('buy-now').hidden=hasSizeChoices;
-  sizePanel.classList.toggle('open',hasSizeChoices);
+  sizePanel.classList.remove('open');
   sizeInput.value='';
   for(const [i,b] of [...rail.children].entries()) b.setAttribute('aria-pressed',String(i===index));
   rail.children[index]?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
