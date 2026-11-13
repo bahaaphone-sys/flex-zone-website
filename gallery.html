@@ -183,16 +183,12 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
   products=items.filter(p=>p&&p.available!==false&&p.image);
   if(!products.length)throw Error();
   const f=document.createDocumentFragment();
-  const thumbObserver='IntersectionObserver' in window
-    ? new IntersectionObserver(entries=>{
-        for(const entry of entries){
-          if(!entry.isIntersecting) continue;
-          const im=entry.target;
-          thumbObserver.unobserve(im);
-          setProductImage(im,im.dataset.imagePath);
-        }
-      },{root:rail,rootMargin:'0px 360px 0px 360px'})
-    : null;
+  const loadThumb=im=>{
+    if(im.dataset.requested==='true') return;
+    im.dataset.requested='true';
+    im.loading='eager';
+    setProductImage(im,im.dataset.imagePath);
+  };
   products.forEach((p,i)=>{
     const b=document.createElement('button');
     b.type='button';
@@ -203,18 +199,30 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
     im.alt='';
     im.decoding='async';
     im.dataset.imagePath=p.image;
-    if(i<5||!thumbObserver){
-      im.loading='eager';
-      setProductImage(im,p.image);
-    }else{
-      im.loading='lazy';
-      thumbObserver.observe(im);
-    }
+    if(i<6) loadThumb(im);
     b.append(im);
     b.onclick=()=>show(i);
     f.append(b);
   });
   rail.append(f);
+  let thumbLoadQueued=false;
+  const loadNearbyThumbs=()=>{
+    if(thumbLoadQueued) return;
+    thumbLoadQueued=true;
+    requestAnimationFrame(()=>{
+      thumbLoadQueued=false;
+      const bounds=rail.getBoundingClientRect();
+      if(bounds.bottom<=0||bounds.top>=innerHeight) return;
+      const minX=bounds.left-420,maxX=bounds.right+420;
+      for(const b of rail.children){
+        const rect=b.getBoundingClientRect();
+        if(rect.right>=minX&&rect.left<=maxX) loadThumb(b.querySelector('img'));
+      }
+    });
+  };
+  rail.addEventListener('scroll',loadNearbyThumbs,{passive:true});
+  window.addEventListener('scroll',loadNearbyThumbs,{passive:true});
+  loadNearbyThumbs();
   show(0);
 })
 .catch(()=>{
