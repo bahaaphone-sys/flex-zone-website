@@ -150,7 +150,7 @@ function show(index){
   sizePanel.classList.remove('open');
   sizeInput.value='';
   for(const [i,b] of [...rail.children].entries()) b.setAttribute('aria-pressed',String(i===index));
-  rail.children[index]?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});
+  
 }
 
 document.getElementById('buy-now').onclick=()=>{
@@ -177,7 +177,7 @@ sendOrder.onclick=event=>{
   window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
 };
 
-fetch('./products.json',{cache:'no-store'})
+fetch('./products.json')
 .then(r=>{if(!r.ok)throw Error();return r.json();})
 .then(items=>{
   products=items.filter(p=>p&&p.available!==false&&p.image);
@@ -191,7 +191,8 @@ fetch('./products.json',{cache:'no-store'})
     b.setAttribute('aria-pressed','false');
     const im=document.createElement('img');
     im.alt='';
-    im.loading=i<6?'eager':'lazy';
+    im.loading=i===0?'eager':'lazy';
+    im.fetchPriority=i===0?'low':'auto';
     im.decoding='async';
     setProductImage(im,p.image);
     b.append(im);
