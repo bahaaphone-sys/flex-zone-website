@@ -109,7 +109,11 @@
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      41.5,
+      45.5
+    ]
   },
   {
     "name": "ADIDAS RUNNING SHOES - GREY GREEN",
