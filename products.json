@@ -1006,5 +1006,13 @@
     "description": "Olive green and black hooded jacket with a full front zip, adjustable hood and cuffs, and zippered front pocket. Comfortable sporty style for everyday wear. Delivery all over Lebanon.",
     "image": "/media/3BC88691-022E-480E-A20E-2A47A37AD4A7.png",
     "available": true
+  },
+  {
+    "name": "NIKE BLACK AND DARK GREY TRACKSUIT",
+    "price": 60,
+    "colors": "Black / Dark Grey",
+    "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants.",
+    "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
+    "available": true
   }
 ]
