@@ -77,6 +77,24 @@ const price=document.getElementById('price');
 const sendOrder=document.getElementById('send-order');
 let products=[],active=0,selectedSize='';
 
+function setProductImage(img,path,onFail=()=>{}){
+  let imagePath=String(path||'');
+  while(imagePath.startsWith('/')) imagePath=imagePath.slice(1);
+  const imageURL=new URL('./'+imagePath,location.href);
+  let retried=false;
+  img.onerror=()=>{
+    if(!retried){
+      retried=true;
+      const retryURL=new URL(imageURL.href);
+      retryURL.searchParams.set('image-retry',String(Date.now()));
+      img.src=retryURL.href;
+      return;
+    }
+    onFail();
+  };
+  img.src=imageURL.href;
+}
+
 function renderSizes(p){
   sizeOptions.replaceChildren();
   selectedSize='';
@@ -104,9 +122,12 @@ function show(index){
   const img=document.createElement('img');
   img.loading='eager';
   img.fetchPriority='high';
-  let imagePath=String(p.image||'');
-  while(imagePath.startsWith('/')) imagePath=imagePath.slice(1);
-  img.src=new URL('./'+imagePath,location.href).href;
+  setProductImage(img,p.image,()=>{
+    const message=document.createElement('p');
+    message.className='status error';
+    message.textContent='ما قدرنا نحمّل الصورة. جرّب تحدّث الصفحة.';
+    stage.replaceChildren(message);
+  });
   img.alt=p.name||'صورة منتج';
   img.decoding='async';
   stage.append(img);
@@ -155,12 +176,10 @@ fetch('./products.json',{cache:'no-store'})
     b.setAttribute('aria-label','عرض '+(p.name||'الصورة'));
     b.setAttribute('aria-pressed','false');
     const im=document.createElement('img');
-    let thumbPath=String(p.image);
-    while(thumbPath.startsWith('/')) thumbPath=thumbPath.slice(1);
-    im.src=new URL('./'+thumbPath,location.href).href;
     im.alt='';
-    im.loading='lazy';
+    im.loading=i<6?'eager':'lazy';
     im.decoding='async';
+    setProductImage(im,p.image);
     b.append(im);
     b.onclick=()=>show(i);
     f.append(b);
