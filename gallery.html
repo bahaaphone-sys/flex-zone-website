@@ -20,6 +20,9 @@ h1{font-size:20px;margin:0}
 .price{padding:0 4px 14px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
 .size-options{display:none;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
 .size-options.open{display:grid}
+.size-label{font-size:15px;color:#ddd;font-weight:800}
+.size-error[hidden]{display:none}
+.size-error{margin:0;color:#ffb1a8;font-size:13px}
 .size-choice{padding:11px 4px;border:1px solid #555;border-radius:10px;background:#101010;color:#fff;font:inherit;font-weight:800;cursor:pointer}
 .size-choice[aria-pressed=true]{border-color:#f5c842;background:#f5c842;color:#111}
 .custom-size[hidden]{display:none}
@@ -52,7 +55,9 @@ h1{font-size:20px;margin:0}
 <section class="buy" aria-label="الطلب">
 <button id="buy-now" class="buy-now" type="button">Shop Now</button>
 <div id="size-panel" class="size-panel">
+<div class="size-label">اختار المقاس / Size</div>
 <div id="size-options" class="size-options" role="group" aria-label="اختيار المقاس"></div>
+<p id="size-error" class="size-error" role="alert" hidden>اختار المقاس أولاً قبل تكملة الطلب.</p>
 <div id="custom-size" class="custom-size">
 <label for="size">المقاس المطلوب</label>
 <input id="size" type="text" autocomplete="off" placeholder="مثال: L أو 42">
@@ -109,6 +114,7 @@ function renderSizes(p){
     b.setAttribute('aria-pressed','false');
     b.onclick=()=>{
       selectedSize=String(value);
+      document.getElementById('size-error').hidden=true;
       for(const option of sizeOptions.children) option.setAttribute('aria-pressed',String(option===b));
     };
     sizeOptions.append(b);
@@ -156,7 +162,15 @@ sendOrder.onclick=event=>{
   event.preventDefault();
   const p=products[active];
   const size=Array.isArray(p.sizes)?selectedSize:sizeInput.value.trim();
-  if(!size){if(!Array.isArray(p.sizes)) sizeInput.focus();return;}
+  if(!size){
+    if(Array.isArray(p.sizes)){
+      sizePanel.classList.add('open');
+      document.getElementById('size-error').hidden=false;
+    }else{
+      sizeInput.focus();
+    }
+    return;
+  }
   const colorText=p.colors?' ('+p.colors+')':'';
   const priceText=Number(p.price)>0?' السعر '+p.price+'$':'';
   const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
