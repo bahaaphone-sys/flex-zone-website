@@ -562,6 +562,7 @@
   {
     "name": "NIKE WATERPROOF HOODED TRACKSUIT",
     "price": 60,
+    "sizes": ["xl", "2xl", "3xl", "4xl", "5xl", "6xl"],
     "colors": "Black / Dark Grey / Grey Blue",
     "description": "Nike waterproof hooded tracksuit featuring a full-zip jacket, matching dark sports pants, adjustable hood and zippered pockets. Available in Black, Dark Grey and Grey Blue. Delivery all over Lebanon.",
     "image": "/media/optimized/9cea4432340bc9ee5ee0.webp",
