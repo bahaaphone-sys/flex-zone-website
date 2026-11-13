@@ -563,7 +563,7 @@
     "name": "NIKE WATERPROOF HOODED TRACKSUIT",
     "price": 60,
     "colors": "Black ",
-    "description": "Nike hooded tracksuit with a full-zip jacket and matching black pants.",
+    "description": "Nike hooded tracksuit with a full-zip jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
     "available": true
   },
@@ -1011,7 +1011,7 @@
     "name": "NIKE BLACK AND DARK GREY TRACKSUIT",
     "price": 60,
     "colors": "Black / Dark Grey",
-    "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants.",
+    "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
     "available": true
   }
