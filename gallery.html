@@ -177,7 +177,7 @@ sendOrder.onclick=event=>{
   window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
 };
 
-fetch('./products.json')
+fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
 .then(r=>{if(!r.ok)throw Error();return r.json();})
 .then(items=>{
   products=items.filter(p=>p&&p.available!==false&&p.image);
