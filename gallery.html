@@ -16,7 +16,13 @@ h1{font-size:20px;margin:0}
 .count{color:#aaa;font-size:14px;direction:ltr;unicode-bidi:isolate}
 .stage{display:grid;place-items:center;min-height:min(65vh,620px);background:#1a1a1a;border:1px solid #292929;border-radius:18px;overflow:hidden}
 .stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain}
-.caption{padding:14px 4px 8px;font-size:18px;font-weight:700;min-height:52px}
+.caption{padding:14px 4px 4px;font-size:18px;font-weight:700;min-height:40px}
+.price{padding:0 4px 14px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
+.size-options{display:none;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
+.size-options.open{display:grid}
+.size-choice{padding:11px 4px;border:1px solid #555;border-radius:10px;background:#101010;color:#fff;font:inherit;font-weight:800;cursor:pointer}
+.size-choice[aria-pressed=true]{border-color:#f5c842;background:#f5c842;color:#111}
+.custom-size[hidden]{display:none}
 .buy{display:grid;gap:12px;margin:0 0 18px;padding:16px;background:#191919;border:1px solid #303030;border-radius:16px}
 .buy-now,.send-order{display:block;width:100%;padding:14px 18px;border:0;border-radius:12px;text-align:center;font:inherit;font-weight:800;text-decoration:none;cursor:pointer}
 .buy-now{background:#f5c842;color:#111}
@@ -42,12 +48,16 @@ h1{font-size:20px;margin:0}
 <div class="title-row"><h1>معرض الصور</h1><span id="count" class="count"></span></div>
 <div id="stage" class="stage" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
 <div id="caption" class="caption"></div>
+<div id="price" class="price" aria-live="polite"></div>
 <section class="buy" aria-label="الطلب">
 <button id="buy-now" class="buy-now" type="button">Shop Now</button>
 <div id="size-panel" class="size-panel">
+<div id="size-options" class="size-options" role="group" aria-label="اختيار المقاس"></div>
+<div id="custom-size" class="custom-size">
 <label for="size">المقاس المطلوب</label>
 <input id="size" type="text" autocomplete="off" placeholder="مثال: L أو 42">
 <p class="size-hint">اكتب المقاس المطلوب، ومنأكدلك توفره بالواتساب.</p>
+</div>
 <a id="send-order" class="send-order" href="#" target="_blank" rel="noopener">كمّل الطلب عبر واتساب</a>
 </div>
 </section>
@@ -61,8 +71,31 @@ const caption=document.getElementById('caption');
 const count=document.getElementById('count');
 const sizePanel=document.getElementById('size-panel');
 const sizeInput=document.getElementById('size');
+const sizeOptions=document.getElementById('size-options');
+const customSize=document.getElementById('custom-size');
+const price=document.getElementById('price');
 const sendOrder=document.getElementById('send-order');
-let products=[],active=0;
+let products=[],active=0,selectedSize='';
+
+function renderSizes(p){
+  sizeOptions.replaceChildren();
+  selectedSize='';
+  const sizes=Array.isArray(p.sizes)?p.sizes:[];
+  sizeOptions.classList.toggle('open',sizes.length>0);
+  customSize.hidden=sizes.length>0;
+  sizes.forEach(value=>{
+    const b=document.createElement('button');
+    b.type='button';
+    b.className='size-choice';
+    b.textContent=String(value);
+    b.setAttribute('aria-pressed','false');
+    b.onclick=()=>{
+      selectedSize=String(value);
+      for(const option of sizeOptions.children) option.setAttribute('aria-pressed',String(option===b));
+    };
+    sizeOptions.append(b);
+  });
+}
 
 function show(index){
   active=index;
@@ -70,12 +103,22 @@ function show(index){
   stage.replaceChildren();
   const img=document.createElement('img');
   img.loading='eager';
-img.fetchPriority='high';
-  img.src=new URL('./'+String(p.image||'').replace(/^\/+/,''),location.href).href;
+  img.fetchPriority='high';
+  let imagePath=String(p.image||'');
+  while(imagePath.startsWith('/')) imagePath=imagePath.slice(1);
+  img.src=new URL('./'+imagePath,location.href).href;
   img.alt=p.name||'صورة منتج';
   img.decoding='async';
   stage.append(img);
   caption.textContent=p.name||'';
+  if(Number(p.price)>0){
+    price.textContent=String(p.price)+'$';
+    price.hidden=false;
+  }else{
+    price.textContent='';
+    price.hidden=true;
+  }
+  renderSizes(p);
   count.textContent=(index+1)+' / '+products.length;
   sizePanel.classList.remove('open');
   sizeInput.value='';
@@ -85,14 +128,17 @@ img.fetchPriority='high';
 
 document.getElementById('buy-now').onclick=()=>{
   sizePanel.classList.toggle('open');
-  if(sizePanel.classList.contains('open')) sizeInput.focus();
+  if(sizePanel.classList.contains('open')&&!customSize.hidden) sizeInput.focus();
 };
 
 sendOrder.onclick=event=>{
   event.preventDefault();
-  const p=products[active],size=sizeInput.value.trim();
-  if(!size){sizeInput.focus();return;}
-  const message=`مرحبا، بدي ${p.name}${p.colors?` (${p.colors})`:''}. مقاسي ${size}.`;
+  const p=products[active];
+  const size=Array.isArray(p.sizes)?selectedSize:sizeInput.value.trim();
+  if(!size){if(!Array.isArray(p.sizes)) sizeInput.focus();return;}
+  const colorText=p.colors?' ('+p.colors+')':'';
+  const priceText=Number(p.price)>0?' السعر '+p.price+'$':'';
+  const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
   window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
 };
 
@@ -109,7 +155,9 @@ fetch('./products.json',{cache:'no-store'})
     b.setAttribute('aria-label','عرض '+(p.name||'الصورة'));
     b.setAttribute('aria-pressed','false');
     const im=document.createElement('img');
-    im.src=new URL('./'+String(p.image).replace(/^\/+/,''),location.href).href;
+    let thumbPath=String(p.image);
+    while(thumbPath.startsWith('/')) thumbPath=thumbPath.slice(1);
+    im.src=new URL('./'+thumbPath,location.href).href;
     im.alt='';
     im.loading='lazy';
     im.decoding='async';
