@@ -990,5 +990,13 @@
     "description": "Black hooded jacket with a front zipper, chest pocket, two zip pockets, and adjustable cuffs. Features the Adidas logo on the chest. Delivery available across Lebanon.",
     "image": "/media/flex-zone-waterproof-jacket-black-300.jpg",
     "available": true
+  },
+  {
+    "name": "Adidas Waterproof Jacket – White",
+    "price": 50,
+    "colors": "Light Grey",
+    "description": "White hooded waterproof and windproof jacket with a front closure, pockets, adjustable cuffs, and the Adidas logo on the chest. Delivery available across Lebanon.",
+    "image": "/media/flex-zone-grey-waterproof-jacket-300.jpg",
+    "available": true
   }
 ]
