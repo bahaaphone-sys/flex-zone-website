@@ -77,7 +77,10 @@
     "colors": "Olive Green",
     "description": "Adidas olive green tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/3BFC410E-5287-46F7-907A-7C82D6F3331E.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "3XL"
+    ]
   },
   {
     "name": "ADIDAS BEIGE COTTON TRACKSUIT SET",
@@ -85,7 +88,12 @@
     "colors": "Beige",
     "description": "Adidas beige tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
     "image": "/media/878E3B1D-315F-4CD4-A4F3-BD6525320223-1.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "2XL",
+      "3XL",
+      "4XL"
+    ]
   },
   {
     "name": "ADIDAS RUNNING SHOES",
