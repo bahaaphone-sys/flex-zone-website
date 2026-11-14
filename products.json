@@ -76,7 +76,7 @@
     "price": 45,
     "colors": "Olive Green",
     "description": "Adidas olive green tracksuit set with zip-up hooded jacket and matching pants. Comfortable sporty design for everyday wear. Delivery all over Lebanon.",
-    "image": "/media/optimized/483d11e16ffba64790fb.webp",
+    "image": "/media/3BFC410E-5287-46F7-907A-7C82D6F3331E.png",
     "available": true
   },
   {
@@ -109,11 +109,7 @@
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
-    "available": true,
-    "sizes": [
-      "41.5",
-      "45.5"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS RUNNING SHOES - GREY GREEN",
@@ -121,14 +117,7 @@
     "colors": "Grey, Light Green",
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
     "image": "/media/optimized/0d9b7b145e16b9791e63.webp",
-    "available": true,
-    "sizes": [
-      "40.5",
-      "44.5",
-      "45.5",
-      "46",
-      "48"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS DURAMO RC RUNNING SHOES",
@@ -136,13 +125,7 @@
     "colors": "Grey, Coral Pink",
     "description": "Adidas Duramo RC running shoes with breathable mesh upper, lightweight cushioned sole and grey design with coral pink stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/aaab7d12657f1202c775.webp",
-    "available": true,
-    "sizes": [
-      "41.5",
-      "42.5",
-      "43.5",
-      "45"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS NAVY BLUE RUNNING SHOES",
@@ -150,13 +133,7 @@
     "colors": "Navy Blue, Silver",
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "image": "/media/optimized/5478d3c5abef9c66783c.webp",
-    "available": true,
-    "sizes": [
-      "41.5",
-      "42",
-      "42.5",
-      "45.5"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS CLOUDFOAM RUNNING SHOES",
@@ -164,10 +141,7 @@
     "colors": "Black, Navy Blue, White",
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/194efe19e6784d7ccd1e.webp",
-    "available": true,
-    "sizes": [
-      "44.5"
-    ]
+    "available": true
   },
   {
     "name": "BORUSSIA DORTMUND FOOTBALL JERSEY",
@@ -367,15 +341,7 @@
     "colors": "White",
     "description": "Adidas hoodies in white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL, 3XL.",
     "image": "/media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
-    "available": true,
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC HOODIES",
@@ -599,15 +565,7 @@
     "colors": "Black ",
     "description": "Nike hooded tracksuit with a full-zip jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL",
-      "6XL"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS OLIVE GREY WATERPROOF TRACKSUIT",
@@ -975,14 +933,7 @@
     "colors": "Neon Yellow / Dark Navy, Orange / Dark Navy, Dark Grey",
     "description": "Winter set with a hooded zip-up jacket and matching pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
     "image": "/media/7EC87C8F-B522-4525-9AD5-091C2B833401.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-    ]
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET – DARK GREY",
@@ -990,14 +941,7 @@
     "colors": "Blac",
     "description": "Winter two-piece set with a hooded zip-up jacket and pants. Both jacket and pants are lined inside for extra warmth. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
     "image": "/media/0716BF00-8804-463C-B656-641A1D45AD69-1.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-    ]
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET – ORANGE / DARK NAVY",
@@ -1005,14 +949,7 @@
     "colors": "Orange / Dark Navy",
     "description": "Winter two-piece set featuring an orange hooded zip-up jacket and dark navy pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
     "image": "/media/37B60A94-D60C-4C3A-A4A3-E210992E441B.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-    ]
+    "available": true
   },
   {
     "name": "NIKE / ADIDAS / JORDAN SOCKS",
@@ -1068,14 +1005,7 @@
     "colors": "Olive Green / Black",
     "description": "Olive green and black hooded jacket with a full front zip, adjustable hood and cuffs, and zippered front pocket. Comfortable sporty style for everyday wear. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL.",
     "image": "/media/3BC88691-022E-480E-A20E-2A47A37AD4A7.png",
-    "available": true,
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL"
-    ]
+    "available": true
   },
   {
     "name": "NIKE BLACK AND DARK GREY TRACKSUIT",
@@ -1083,15 +1013,7 @@
     "colors": "Black / Dark Grey",
     "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL",
-      "6XL"
-    ]
+    "available": true
   },
   {
     "name": "NIKE LIGHT GREY AND BLACK TRACKSUIT",
@@ -1099,15 +1021,7 @@
     "colors": "Light Grey / Black",
     "description": "Nike hooded tracksuit with a light grey jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "image": "/media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL",
-      "6XL"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM HOODIES",
@@ -1115,14 +1029,6 @@
     "colors": "Black",
     "description": "Adidas hoodies in black with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL, 3XL.",
     "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
-    "available": true,
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-    ]
+    "available": true
   }
 ]
