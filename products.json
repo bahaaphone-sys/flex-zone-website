@@ -1334,7 +1334,12 @@
     "colors": "Black with White Logo",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a large white Adidas logo on the front.",
     "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "L",
+      "M"
+    ]
   },
   {
     "name": "Under Armour Camo Backpack",
@@ -1422,7 +1427,12 @@
     "colors": "Blak",
     "description": "Black long-sleeve crewneck sweatshirt with ribbed cuffs and hem, featuring a white Nike chest print that reads “There Is No Finish Line.”",
     "image": "/media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
-    "available": true
+    "available": true,
+    "sizes": [
+      "M",
+      "L",
+      "S"
+    ]
   },
   {
     "name": "Adidas Cotton Sweatshirt – Black",
@@ -1446,7 +1456,12 @@
     "colors": "Light Grey with Black Nike Swoosh",
     "description": "Light grey pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small black Nike Swoosh on the chest.",
     "image": "/media/nike-hoodie-grey-500px-1.jpg",
-    "available": true
+    "available": true,
+    "sizes": [
+      "M",
+      "S",
+      "L"
+    ]
   },
   {
     "name": "The North Face Waterproof Hooded Jacket – Light Grey",
