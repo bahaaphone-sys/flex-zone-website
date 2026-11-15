@@ -1126,5 +1126,13 @@
     "description": "Black long-sleeve crewneck sweatshirt with ribbed cuffs and hem, featuring a white Nike chest print that reads “There Is No Finish Line.”",
     "image": "/media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
     "available": true
+  },
+  {
+    "name": "Adidas Cotton Sweatshirt – Black",
+    "price": 25,
+    "colors": "Black with White Adidas Print",
+    "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, ribbed cuffs and hem, and a white Adidas logo print on the front.",
+    "image": "/media/flexzone-crewneck-tennis-navy-thumb.webp",
+    "available": true
   }
 ]
