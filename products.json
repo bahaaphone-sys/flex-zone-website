@@ -1155,6 +1155,9 @@
     "price": 90,
     "colors": "Red, Black, White, Gold",
     "description": "Manchester United cotton tracksuit featuring a red full-zip hooded jacket with front pockets and black sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Manchester United crests and white Adidas logos on both pieces complete the coordinated sporty look.",
+    "sizes": [
+      "s m xl 2xl "
+    ],
     "image": "/media/optimized/0d00a72829a0bc230926.webp",
     "available": true
   },
