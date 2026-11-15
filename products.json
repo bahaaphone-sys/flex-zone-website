@@ -1070,5 +1070,13 @@
     "description": "Black backpack with a vertical silver front stripe, white Nike logo, zippered front pocket, side pockets and a top carry handle.",
     "image": "/media/nike-black-backpack.webp",
     "available": true
+  },
+  {
+    "name": "Adidas Backpack – Black",
+    "price": 25,
+    "colors": "Black with White Logo",
+    "description": "Black backpack with a large white Adidas logo, front zippered pocket, side pockets and a top carry handle.",
+    "image": "/media/adidas-backpack-black.webp",
+    "available": true
   }
 ]
