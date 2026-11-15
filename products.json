@@ -1110,5 +1110,13 @@
     "description": "Black hoodie featuring a black print on the front.",
     "image": "/media/flexzone-hoodie-adidas-collegiate-black-thumb.webp",
     "available": true
+  },
+  {
+    "name": "Jordan Hoodie – Black",
+    "price": 25,
+    "colors": "Black",
+    "description": "Black Jordan hoodie with a sporty design for everyday wear.",
+    "image": "/media/flexzone-hoodie-jordan-black-thumb.webp",
+    "available": true
   }
 ]
