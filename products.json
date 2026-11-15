@@ -32,14 +32,6 @@
     "available": true
   },
   {
-    "name": "ADIDAS PREMIUM PUFFER JACKET",
-    "price": 45,
-    "colors": "Light Blue, White",
-    "description": "Warm padded puffer jacket with hood, sporty three-stripe design and comfortable fit. Available in light blue and white. Delivery all over Lebanon.",
-    "image": "/media/optimized/d3c06e1b7c5042929066.webp",
-    "available": true
-  },
-  {
     "name": "ADIDAS COTTON TRACKSUIT SET",
     "price": 45,
     "colors": "Olive Green",
@@ -1013,6 +1005,14 @@
     "colors": "Blak",
     "description": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
     "image": "/media/flex-zone-waterproof-black-300-1.jpg",
+    "available": true
+  },
+  {
+    "name": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
+    "price": 50,
+    "colors": " White with black stripes",
+    "description": "Padded hooded jacket with a front zipper, two side pockets, and three black stripes on the sleeves. Adidas logo on the chest.",
+    "image": "/media/flex-zone-white-jacket-300.jpg",
     "available": true
   }
 ]
