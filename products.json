@@ -1053,13 +1053,14 @@
     "colors": "Black with White Logo",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a large white Adidas logo on the front.",
     "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
-    "available": true,
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL"
-    ]
+    "available": true
+  },
+  {
+    "name": "Under Armour Camo Backpack",
+    "price": 25,
+    "colors": "Black, Grey and White Camouflage",
+    "description": "Backpack with a camouflage design, yellow Under Armour logo, front zippered compartments, side mesh pockets and a top carry handle.",
+    "image": "/media/under-armour-camo-backpack.webp",
+    "available": true
   }
 ]
