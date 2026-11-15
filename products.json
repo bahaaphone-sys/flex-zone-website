@@ -5,7 +5,11 @@
     "colors": "Dark Green",
     "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl xxl"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ],
     "image": "/media/optimized/b7f130c889ba554f6375.webp",
     "available": true
@@ -16,7 +20,11 @@
     "colors": "Blue, Red",
     "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl xxl"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ],
     "image": "/media/optimized/f55f02d1b018b42a7679.webp",
     "available": true
@@ -27,7 +35,11 @@
     "colors": "Black, Purple",
     "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl xxl"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ],
     "image": "/media/optimized/1e57d4ff0faca14600ea.webp",
     "available": true
