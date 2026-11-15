@@ -1045,6 +1045,9 @@
     "price": 70,
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund tracksuit featuring a yellow half-zip training top with black sleeve panels and matching black pants. BVB and Puma logos with a modern sporty design. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/7cc281bd335dccde47b5.webp",
     "available": true
   },
