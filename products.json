@@ -975,9 +975,14 @@
     "name": "Nike Men's Winter Jacket - Black",
     "price": 50,
     "colors": "Blak",
-    "description": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
+    "description": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest. Available sizes: 2XL, 3XL, 4XL.",
     "image": "/media/flex-zone-waterproof-black-300-1.jpg",
-    "available": true
+    "available": true,
+    "sizes": [
+      "2XL",
+      "3XL",
+      "4XL"
+    ]
   },
   {
     "name": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
