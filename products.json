@@ -1277,6 +1277,9 @@
     "price": 70,
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund tracksuit featuring a yellow full-zip hooded jacket with elastic cuffs and black BVB crest and Puma logo. Paired with black tapered pants featuring an elastic waistband, shaped knee panels, and matching yellow BVB crest and Puma logo. A coordinated sporty look in the club’s signature colors.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/0A7BA2F4-C995-4433-8CEE-D4DB93DD6771.png",
     "available": true
   },
