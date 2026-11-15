@@ -4,6 +4,9 @@
     "price": 25,
     "colors": "Dark Green",
     "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl xxl"
+    ],
     "image": "/media/optimized/b7f130c889ba554f6375.webp",
     "available": true
   },
@@ -84,38 +87,36 @@
     "price": 25,
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund football jersey in classic yellow and black design. Delivery all over Lebanon.",
-    "image": "/media/optimized/d0c5e55c35ae463aa6b3.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/d0c5e55c35ae463aa6b3.webp",
+    "available": true
   },
   {
     "name": "MANCHESTER CITY FOOTBALL JERSEY",
     "price": 25,
     "colors": "Sky Blue",
     "description": "Manchester City football jersey in sky blue with white details. Delivery all over Lebanon.",
-    "image": "/media/optimized/fa2aa5dfb6296c250abd.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/fa2aa5dfb6296c250abd.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD RUNNING SHOES",
     "price": 45,
     "colors": "Black / White",
     "description": "ON CLOUD running shoes in black with white Cloudtec-style sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/2737c7a9cb57546d5d74.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -123,15 +124,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/2737c7a9cb57546d5d74.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD BLACK RUNNING SHOES",
     "price": 45,
     "colors": "All Black",
     "description": "ON CLOUD running shoes in all-black design with a cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/555d491604caeef92dcd.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -139,15 +140,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/555d491604caeef92dcd.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD WHITE NEON RUNNING SHOES",
     "price": 45,
     "colors": "White / Light Grey / Neon Yellow",
     "description": "ON CLOUD running shoes in white and light grey with a neon yellow cushioned sole and orange accents. Delivery all over Lebanon.",
-    "image": "/media/optimized/4bde499478cc841e6c4b.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -155,15 +156,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/4bde499478cc841e6c4b.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD BLUE RUNNING SHOES",
     "price": 45,
     "colors": "Blue / Black / White",
     "description": "ON CLOUD running shoes in blue and black with a white cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/9ca8ab5c9c9b2a20402c.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -171,15 +172,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/9ca8ab5c9c9b2a20402c.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD OLIVE RUNNING SHOES",
     "price": 45,
     "colors": "Olive Green / Black / Yellow",
     "description": "ON CLOUD sports shoes in olive green, black and yellow with a cream cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/aeaf579f07342348d974.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -187,15 +188,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/aeaf579f07342348d974.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD LIGHT OLIVE RUNNING SHOES",
     "price": 45,
     "colors": "Light Olive / Brown / Yellow",
     "description": "ON CLOUD sports shoes in light olive green and brown with a yellow cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/888f2a5665b7d0f402d6.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -203,15 +204,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/888f2a5665b7d0f402d6.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD WHITE ORANGE RUNNING SHOES",
     "price": 45,
     "colors": "White / Orange / Black",
     "description": "ON CLOUD running shoes in white with orange accents, black laces and an orange cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/7d4aeaeb9f6e6f51d70d.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -219,15 +220,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/7d4aeaeb9f6e6f51d70d.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD ALL WHITE RUNNING SHOES",
     "price": 45,
     "colors": "All White",
     "description": "ON CLOUD running shoes in all-white design with a breathable mesh upper and white cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/8ef4f6eb18a9aa3584df.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -235,15 +236,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/8ef4f6eb18a9aa3584df.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD GREY BLUE RUNNING SHOES",
     "price": 45,
     "colors": "45",
     "description": "ON CLOUD running shoes in grey and light blue with navy details and a white cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/533e5ec8d2b9b8d10a53.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -251,15 +252,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/533e5ec8d2b9b8d10a53.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD BLACK RED RUNNING SHOES",
     "price": 45,
     "colors": "Black / Red / White",
     "description": "Black / Red / White",
-    "image": "/media/optimized/9a312b1feb9037f5e481.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -267,15 +268,15 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/9a312b1feb9037f5e481.webp",
+    "available": true
   },
   {
     "name": "ON CLOUD FULL BLACK RUNNING SHOES",
     "price": 45,
     "colors": "Black / Dark Grey",
     "description": "ON CLOUD running shoes in full black with dark grey details, breathable mesh upper and cushioned sole. Delivery all over Lebanon.",
-    "image": "/media/optimized/4c87fd0c128dc4326609.webp",
-    "available": true,
     "sizes": [
       "40",
       "41",
@@ -283,185 +284,187 @@
       "43",
       "44",
       "45"
-    ]
+    ],
+    "image": "/media/optimized/4c87fd0c128dc4326609.webp",
+    "available": true
   },
   {
     "name": "MANCHESTER UNITED FOOTBALL JERSEY",
     "price": 25,
     "colors": "Red / White / Black",
     "description": "Manchester United football jersey in classic red with white and black details. Delivery all over Lebanon.",
-    "image": "/media/optimized/5c1ba9dbeb6e2d19ea8b.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/5c1ba9dbeb6e2d19ea8b.webp",
+    "available": true
   },
   {
     "name": "MANCHESTER UNITED BLUE FOOTBALL JERSEY",
     "price": 25,
     "colors": "Blue / Red / White",
     "description": "Manchester United football jersey in blue with red and white details. Delivery all over Lebanon.",
-    "image": "/media/optimized/15633f1378bca2ffac86.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/15633f1378bca2ffac86.webp",
+    "available": true
   },
   {
     "name": "ARSENAL FOOTBALL JERSEY",
     "price": 25,
     "colors": "Red / White",
     "description": "Arsenal football jersey in classic red with white sleeves. Delivery all over Lebanon.",
-    "image": "/media/optimized/6f882eed91670f260a68.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/6f882eed91670f260a68.webp",
+    "available": true
   },
   {
     "name": "ARSENAL YELLOW FOOTBALL JERSEY",
     "price": 25,
     "colors": "Light Yellow / Navy Blue",
     "description": "Arsenal football jersey in light yellow with navy blue details. Delivery all over Lebanon.",
-    "image": "/media/optimized/a7e1120156734a331093.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/a7e1120156734a331093.webp",
+    "available": true
   },
   {
     "name": "ARSENAL NAVY FOOTBALL JERSEY",
     "price": 25,
     "colors": "Navy Blue / Yellow / Red",
     "description": "Arsenal football jersey in navy blue with yellow and red details. Delivery all over Lebanon.",
-    "image": "/media/optimized/40715e2121c3f8b3ce66.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/40715e2121c3f8b3ce66.webp",
+    "available": true
   },
   {
     "name": "JUVENTUS FOOTBALL JERSEY",
     "price": 25,
     "colors": "JUVENTUS FOOTBALL JERSEY",
     "description": "Juventus football jersey with classic black and white stripes and gold details. Delivery all over Lebanon.",
-    "image": "/media/optimized/064167e6f691050a3f36.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/064167e6f691050a3f36.webp",
+    "available": true
   },
   {
     "name": "JUVENTUS PINK FOOTBALL JERSEY",
     "price": 25,
     "colors": "Pink / Black",
     "description": "Juventus football jersey in light pink with black details. Delivery all over Lebanon.",
-    "image": "/media/optimized/28db6f7cd8c98eff55c1.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/28db6f7cd8c98eff55c1.webp",
+    "available": true
   },
   {
     "name": "BAYERN MUNICH WHITE FOOTBALL JERSEY",
     "price": 25,
     "colors": "White / Navy Blue / Red",
     "description": "Bayern Munich football jersey in white with navy blue and red details. Delivery all over Lebanon.",
-    "image": "/media/optimized/4e63be4d6fe2add3bacc.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/4e63be4d6fe2add3bacc.webp",
+    "available": true
   },
   {
     "name": "BAYERN MUNICH RED FOOTBALL JERSEY",
     "price": 25,
     "colors": "Red / White / Gold",
     "description": "Bayern Munich football jersey in red with white and gold details. Delivery all over Lebanon.",
-    "image": "/media/optimized/461102c73b96efda70d9.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/461102c73b96efda70d9.webp",
+    "available": true
   },
   {
     "name": "PARIS SAINT-GERMAIN FOOTBALL JERSEY",
     "price": 25,
     "colors": "Blue / Red / White",
     "description": "Paris Saint-Germain football jersey in blue with a red center stripe and white details. Delivery all over Lebanon.",
-    "image": "/media/optimized/a8ee674121316acca669.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/a8ee674121316acca669.webp",
+    "available": true
   },
   {
     "name": "PSG WHITE FOOTBALL JERSEY",
     "price": 25,
     "colors": "White / Red / Navy Blue",
     "description": "Paris Saint-Germain football jersey in white with red and navy blue vertical stripes. Delivery all over Lebanon.",
-    "image": "/media/optimized/fb59a8769fd5de18fde0.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/fb59a8769fd5de18fde0.webp",
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM HOODIES",
     "price": 25,
     "colors": "White",
     "description": "Adidas hoodies in white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, 3XL.",
-    "image": "/media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "3XL"
-    ]
+    ],
+    "image": "/media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC HOODIES",
@@ -508,14 +511,14 @@
     "price": 45,
     "colors": "Black / White",
     "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon. Available sizes: L, 3XL, 4XL, 5XL.",
-    "image": "/media/flexzone-nike-tracksuit-black-thumb-1.webp",
-    "available": true,
     "sizes": [
       "L",
       "3XL",
       "4XL",
       "5XL"
-    ]
+    ],
+    "image": "/media/flexzone-nike-tracksuit-black-thumb-1.webp",
+    "available": true
   },
   {
     "name": "NIKE WHITE TRACKSUIT",
@@ -666,8 +669,6 @@
     "price": 60,
     "colors": "Black ",
     "description": "Nike hooded tracksuit with a full-zip jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
-    "image": "/media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
@@ -675,7 +676,9 @@
       "4XL",
       "5XL",
       "6XL"
-    ]
+    ],
+    "image": "/media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
+    "available": true
   },
   {
     "name": "ADIDAS OLIVE GREY WATERPROOF TRACKSUIT",
@@ -738,12 +741,12 @@
     "price": 45,
     "colors": "Beige & White",
     "description": "Nike beige and white hooded puffer jacket featuring a two-tone padded design, full front zipper, zippered side pockets and elastic cuffs. Stylish and comfortable for cooler weather and everyday wear. Delivery all over Lebanon. Available sizes: L, 3XL.",
-    "image": "/media/nike-beige-white-puffer-jacket-400px.jpg",
-    "available": true,
     "sizes": [
       "L",
       "3XL"
-    ]
+    ],
+    "image": "/media/nike-beige-white-puffer-jacket-400px.jpg",
+    "available": true
   },
   {
     "name": "NIKE CREWNECK SWEATSHIRT",
@@ -806,15 +809,15 @@
     "price": 25,
     "colors": "Royal Blue / Gold",
     "description": "Nike Chelsea FC football jersey featuring a royal blue base with gold accents, Chelsea lion crest, Nike Swoosh logo, subtle oversized club graphic across the front, polo collar and short sleeves. Stylish football-inspired design for match days and casual wear. Available in Royal Blue / Gold. Delivery all over Lebanon.",
-    "image": "/media/optimized/2bf8325dc28f49703f26.webp",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/optimized/2bf8325dc28f49703f26.webp",
+    "available": true
   },
   {
     "name": "ADIDAS TERREX HOODED TRACKSUIT SET",
@@ -845,27 +848,27 @@
     "price": 40,
     "colors": "Grey / White",
     "description": "Adidas two-tone hooded jacket featuring a grey upper section and sleeves with a white lower body and inner sleeve panels. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Sporty and comfortable style for cool weather and everyday wear. Available in Grey / White. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL.",
-    "image": "/media/flexzone-jacket-gray-white-thumb-1.webp",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL",
       "4XL"
-    ]
+    ],
+    "image": "/media/flexzone-jacket-gray-white-thumb-1.webp",
+    "available": true
   },
   {
     "name": "ADIDAS BLACK HOODED ZIP-UP JACKET",
     "price": 40,
     "colors": "Black",
     "description": "Adidas black hooded jacket featuring a clean all-black design with white Adidas chest logo, adjustable hood, full front zip closure with protective flap, zippered side pockets and elastic cuffs. Comfortable sporty style for cool weather and everyday wear. Available in Black. Delivery all over Lebanon. Available sizes: 2XL, 3XL, 4XL.",
-    "image": "/media/flexzone-jacket-black-thumb.webp",
-    "available": true,
     "sizes": [
       "2XL",
       "3XL",
       "4XL"
-    ]
+    ],
+    "image": "/media/flexzone-jacket-black-thumb.webp",
+    "available": true
   },
   {
     "name": "THE NORTH FACE LIGHTWEIGHT WATERPROOF JACKET",
@@ -880,12 +883,12 @@
     "price": 35,
     "colors": " Black",
     "description": "The North Face lightweight waterproof and windproof hooded jacket. Thin and comfortable design that provides protection against wind and rain without the bulk of a heavy winter jacket. Features a full front zipper, adjustable hood, zippered side pockets and elastic cuffs. Perfect for everyday wear and changing weather. Available in Olive Green and Black. Delivery all over Lebanon. Available sizes: S, 3XL.",
-    "image": "/media/flex-zone-north-face-black-300.jpg",
-    "available": true,
     "sizes": [
       "S",
       "3XL"
-    ]
+    ],
+    "image": "/media/flex-zone-north-face-black-300.jpg",
+    "available": true
   },
   {
     "name": "ADIDAS BASKETBALL BLACK HOODIE",
@@ -1068,45 +1071,45 @@
     "price": 45,
     "colors": "Neon Yellow / Dark Navy, Orange / Dark Navy, Dark Grey",
     "description": "Winter set with a hooded zip-up jacket and matching pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
-    "image": "/media/7EC87C8F-B522-4525-9AD5-091C2B833401.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL",
       "4XL",
       "5XL"
-    ]
+    ],
+    "image": "/media/7EC87C8F-B522-4525-9AD5-091C2B833401.png",
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET – DARK GREY",
     "price": 45,
     "colors": "Blac",
     "description": "Winter two-piece set with a hooded zip-up jacket and pants. Both jacket and pants are lined inside for extra warmth. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
-    "image": "/media/0716BF00-8804-463C-B656-641A1D45AD69-1.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL",
       "4XL",
       "5XL"
-    ]
+    ],
+    "image": "/media/0716BF00-8804-463C-B656-641A1D45AD69-1.png",
+    "available": true
   },
   {
     "name": "ON CLOUD WINTER SET – ORANGE / DARK NAVY",
     "price": 45,
     "colors": "Orange / Dark Navy",
     "description": "Winter two-piece set featuring an orange hooded zip-up jacket and dark navy pants. Both pieces are lined inside for warmth and comfort. Delivery all over Lebanon. Available sizes: XL, 2XL, 3XL, 4XL, 5XL.",
-    "image": "/media/37B60A94-D60C-4C3A-A4A3-E210992E441B.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL",
       "4XL",
       "5XL"
-    ]
+    ],
+    "image": "/media/37B60A94-D60C-4C3A-A4A3-E210992E441B.png",
+    "available": true
   },
   {
     "name": "GERMANY BLACK & RED TRACKSUIT",
@@ -1153,23 +1156,21 @@
     "price": 50,
     "colors": "Olive Green / Black",
     "description": "Olive green and black hooded jacket with a full front zip, adjustable hood and cuffs, and zippered front pocket. Comfortable sporty style for everyday wear. Delivery all over Lebanon. Available sizes: S, M, L, XL, 2XL.",
-    "image": "/media/flex-zone-on-olive-black-jacket-300.jpg",
-    "available": true,
     "sizes": [
       "S",
       "M",
       "L",
       "XL",
       "2XL"
-    ]
+    ],
+    "image": "/media/flex-zone-on-olive-black-jacket-300.jpg",
+    "available": true
   },
   {
     "name": "NIKE BLACK AND DARK GREY TRACKSUIT",
     "price": 55,
     "colors": "Black / Dark Grey",
     "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
-    "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
@@ -1177,15 +1178,15 @@
       "4XL",
       "5XL",
       "6XL"
-    ]
+    ],
+    "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
+    "available": true
   },
   {
     "name": "NIKE LIGHT GREY AND BLACK TRACKSUIT",
     "price": 60,
     "colors": "Light Grey / Black",
     "description": "Nike hooded tracksuit with a light grey jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
-    "image": "/media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
@@ -1193,47 +1194,49 @@
       "4XL",
       "5XL",
       "6XL"
-    ]
+    ],
+    "image": "/media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
+    "available": true
   },
   {
     "name": "ADIDAS PREMIUM HOODIES",
     "price": 25,
     "colors": "Black",
     "description": "Adidas hoodies in black with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, L, M.",
-    "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
-    "available": true,
     "sizes": [
       "S",
       "L",
       "M"
-    ]
+    ],
+    "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
+    "available": true
   },
   {
     "name": "Adidas Hooded Jacket – Black",
     "price": 50,
     "colors": "Black",
     "description": "Black hooded waterproof and windproof jacket with a front closure, chest pocket, two zip pockets, adjustable cuffs, and the Adidas logo on the chest. Delivery available across Lebanon. Available sizes: 2XL, 3XL, 4XL.",
-    "image": "/media/flex-zone-waterproof-jacket-black-300.jpg",
-    "available": true,
     "sizes": [
       "2XL",
       "3XL",
       "4XL"
-    ]
+    ],
+    "image": "/media/flex-zone-waterproof-jacket-black-300.jpg",
+    "available": true
   },
   {
     "name": "Adidas Waterproof Jacket – Light Grey",
     "price": 50,
     "colors": "Light Grey",
     "description": "Light grey hooded waterproof and windproof jacket with a front closure, pockets, adjustable cuffs, and the Adidas logo on the chest. Delivery available across Lebanon. Available sizes: XL, 2XL, 3XL, 4XL.",
-    "image": "/media/flex-zone-grey-waterproof-jacket-300.jpg",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL",
       "4XL"
-    ]
+    ],
+    "image": "/media/flex-zone-grey-waterproof-jacket-300.jpg",
+    "available": true
   },
   {
     "name": "Nike Men’s Winter Jacket",
@@ -1248,14 +1251,14 @@
     "price": 50,
     "colors": "Blak",
     "description": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest. Available sizes: 2XL, 3XL, 4XL, 5XL.",
-    "image": "/media/flex-zone-waterproof-black-300-1.jpg",
-    "available": true,
     "sizes": [
       "2XL",
       "3XL",
       "4XL",
       "5XL"
-    ]
+    ],
+    "image": "/media/flex-zone-waterproof-black-300-1.jpg",
+    "available": true
   },
   {
     "name": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
@@ -1278,39 +1281,39 @@
     "price": 65,
     "colors": "Blak",
     "description": "Black hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
-    "image": "/media/jacket-black.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL"
-    ]
+    ],
+    "image": "/media/jacket-black.png",
+    "available": true
   },
   {
     "name": "On Cloud Hooded Jacket – Olive Green",
     "price": 65,
     "colors": "Olive Green",
     "description": "Olive green hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
-    "image": "/media/jacket-olive.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL"
-    ]
+    ],
+    "image": "/media/jacket-olive.png",
+    "available": true
   },
   {
     "name": "On Cloud Hooded Jacket – Light Grey",
     "price": 66,
     "colors": "Light Grey",
     "description": "Light grey hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
-    "image": "/media/jacket-light-gray.png",
-    "available": true,
     "sizes": [
       "XL",
       "2XL",
       "3XL"
-    ]
+    ],
+    "image": "/media/jacket-light-gray.png",
+    "available": true
   },
   {
     "name": "The North Face Hoodie – Black",
@@ -1325,13 +1328,13 @@
     "price": 30,
     "colors": "Black with White Logo",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a large white Adidas logo on the front.",
-    "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
-    "available": true,
     "sizes": [
       "S",
       "L",
       "M"
-    ]
+    ],
+    "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
+    "available": true
   },
   {
     "name": "Under Armour Camo Backpack",
@@ -1418,13 +1421,13 @@
     "price": 25,
     "colors": "Blak",
     "description": "Black long-sleeve crewneck sweatshirt with ribbed cuffs and hem, featuring a white Nike chest print that reads “There Is No Finish Line.”",
-    "image": "/media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
-    "available": true,
     "sizes": [
       "M",
       "L",
       "S"
-    ]
+    ],
+    "image": "/media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
+    "available": true
   },
   {
     "name": "Adidas Cotton Sweatshirt – Black",
@@ -1447,25 +1450,25 @@
     "price": 25,
     "colors": "Light Grey with Black Nike Swoosh",
     "description": "Light grey pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small black Nike Swoosh on the chest.",
-    "image": "/media/nike-hoodie-grey-500px-1.jpg",
-    "available": true,
     "sizes": [
       "M",
       "S",
       "L"
-    ]
+    ],
+    "image": "/media/nike-hoodie-grey-500px-1.jpg",
+    "available": true
   },
   {
     "name": "The North Face Waterproof Hooded Jacket – Light Grey",
     "price": 35,
     "colors": "Light Grey with Black Details",
     "description": "Light grey waterproof hooded jacket with a full front zip, adjustable hood and cuffs, one chest zip pocket, two side zip pockets, and a black The North Face logo on the chest. Available sizes: 2XL, 3XL.",
-    "image": "/media/north-face-light-grey-jacket-400px.jpg",
-    "available": true,
     "sizes": [
       "2XL",
       "3XL"
-    ]
+    ],
+    "image": "/media/north-face-light-grey-jacket-400px.jpg",
+    "available": true
   },
   {
     "name": "The North Face Puffer Jacket – Olive",
