@@ -1062,5 +1062,13 @@
     "description": "Backpack with a camouflage design, yellow Under Armour logo, front zippered compartments, side mesh pockets and a top carry handle.",
     "image": "/media/under-armour-camo-backpack.webp",
     "available": true
+  },
+  {
+    "name": "Nike Backpack – Black",
+    "price": 25,
+    "colors": "Black with Silver Stripe and White Logo",
+    "description": "Black backpack with a vertical silver front stripe, white Nike logo, zippered front pocket, side pockets and a top carry handle.",
+    "image": "/media/nike-black-backpack.webp",
+    "available": true
   }
 ]
