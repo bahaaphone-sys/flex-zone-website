@@ -1078,5 +1078,13 @@
     "description": "Black backpack with a large white Adidas logo, front zippered pocket, side pockets and a top carry handle.",
     "image": "/media/adidas-backpack-black.webp",
     "available": true
+  },
+  {
+    "name": "Adidas Backpack – Light Olive",
+    "price": 25,
+    "colors": "Light Olive with Black Logo",
+    "description": "Light olive backpack with a large black Adidas logo, front zippered pocket, side pockets and a top carry handle.",
+    "image": "/media/exec-1f07060b-a544-49f4-a276-d9f0c53e2ebe.png",
+    "available": true
   }
 ]
