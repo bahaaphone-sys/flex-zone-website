@@ -27,6 +27,11 @@ content:
       - name: image
         label: Product Photo
         type: image
+      - name: sizes
+        label: Available Sizes / المقاسات المتوفرة
+        type: string
+        list: true
+        description: Add each available size separately (e.g. S, M, L or 40, 41, 42).
       - name: available
         label: Available
         type: boolean
