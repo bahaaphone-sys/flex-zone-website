@@ -856,6 +856,9 @@
     "price": 25,
     "colors": "Red / White",
     "description": "Adidas Liverpool FC home football jersey featuring a red base with white geometric graphics, Liverpool club crest, Adidas logo, Standard Chartered sponsor print, white shoulder stripes and short sleeves. Sporty design for football fans, match days and casual wear. Available in Red / White. Delivery all over Lebanon.",
+    "sizes": [
+      "m l xl 2xl "
+    ],
     "image": "/media/optimized/881aeddba8b6307ddaa4.webp",
     "available": true
   },
