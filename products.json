@@ -1030,5 +1030,13 @@
     "description": "Black hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo.",
     "image": "/media/jacket-black.png",
     "available": true
+  },
+  {
+    "name": "On Cloud Hooded Jacket – Olive Green",
+    "price": 65,
+    "colors": "Olive Green",
+    "description": "Olive green hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo.",
+    "image": "/media/jacket-olive.png",
+    "available": true
   }
 ]
