@@ -732,6 +732,9 @@
     "price": 60,
     "colors": "Black",
     "description": "Adidas black hooded sports tracksuit with zip-up jacket, vertical zippered chest pocket, elastic cuffs and matching black pants with ankle zipper. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
+    "sizes": [
+      "xl 2xl 3xl 4xl 5xl 6xl"
+    ],
     "image": "/media/4E20F73A-231B-450E-8B86-D6C1877EE95F.png",
     "available": true
   },
