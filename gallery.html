@@ -20,7 +20,9 @@ main{width:min(100%,820px);margin:auto;padding:18px 16px 36px}
 h1{font-size:20px;margin:0}
 .count{color:#aaa;font-size:14px;direction:ltr;unicode-bidi:isolate}
 .stage{display:grid;place-items:center;min-height:min(65vh,620px);background:#1a1a1a;border:1px solid #292929;border-radius:18px;overflow:hidden}
-.stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain}
+.stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain;user-select:none;-webkit-user-drag:none}
+.stage{touch-action:pan-y;cursor:grab}
+.stage:focus-visible{outline:3px solid #f5c842;outline-offset:3px}
 .caption{padding:14px 4px 4px;font-size:18px;font-weight:700;min-height:40px}
 .price{padding:0 4px 8px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
 .available-sizes{display:flex;align-items:center;flex-wrap:wrap;gap:9px;margin:4px 4px 18px;color:#eee;font-size:15px;font-weight:800}
@@ -60,11 +62,11 @@ h1{font-size:20px;margin:0}
 <section class="hero" id="hero" aria-label="FLEX ZONE">
   <img src="./flex-zone-campaign.webp" alt="FLEX ZONE sport clothes - تشكيلة ملابس رياضية" loading="eager" fetchpriority="high" onerror="this.parentElement.hidden=true">
 </section>
-<h2 class="hero-caption">تصفّح البضاعة واختار القطعة اللي بتعجبك 👇</h2>
-<p class="rail-label">اسحب الصور يمين وشمال، واكبس على القطعة لعرضها وطلبها</p>
-<div id="rail" class="rail" aria-label="صور المنتجات"></div>
+<h2 class="hero-caption">اختار ستايلك من FLEX ZONE 👑</h2>
 <div class="title-row"><h1>معرض الصور</h1><span id="count" class="count"></span></div>
-<div id="stage" class="stage product-focus" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
+<div id="stage" class="stage product-focus" aria-live="polite" aria-label="اسحب يمين أو شمال لتغيير القطعة" tabindex="0"><p class="status">عم نحمّل الصور…</p></div>
+<p class="rail-label">اسحب الصورة الكبيرة أو اختار من الشريط تحتها 👇</p>
+<div id="rail" class="rail" aria-label="صور المنتجات"></div>
 <div id="caption" class="caption"></div>
 <div id="price" class="price" aria-live="polite"></div>
 <p id="available-sizes" class="available-sizes" aria-live="polite"></p>
@@ -191,8 +193,32 @@ function show(index){
   sizePanel.classList.remove('open');
   sizeInput.value='';
   for(const [i,b] of [...rail.children].entries()) b.setAttribute('aria-pressed',String(i===index));
+  const currentThumb=rail.children[index];
+  if(currentThumb)currentThumb.scrollIntoView({block:'nearest',inline:'nearest',behavior:'smooth'});
   
 }
+
+// Swipe on the large image to navigate products, while the lower rail stays in sync.
+let touchStartX=0,touchStartY=0;
+stage.addEventListener('touchstart',event=>{
+  if(event.touches.length!==1)return;
+  touchStartX=event.touches[0].clientX;
+  touchStartY=event.touches[0].clientY;
+},{passive:true});
+stage.addEventListener('touchend',event=>{
+  if(!products.length||!event.changedTouches.length)return;
+  const dx=event.changedTouches[0].clientX-touchStartX;
+  const dy=event.changedTouches[0].clientY-touchStartY;
+  if(Math.abs(dx)<45||Math.abs(dx)<Math.abs(dy)*1.25)return;
+  show((active+(dx<0?1:-1)+products.length)%products.length);
+},{passive:true});
+stage.addEventListener('keydown',event=>{
+  if(!products.length)return;
+  if(event.key==='ArrowLeft'||event.key==='ArrowRight'){
+    event.preventDefault();
+    show((active+(event.key==='ArrowLeft'?1:-1)+products.length)%products.length);
+  }
+});
 
 document.getElementById('buy-now').onclick=()=>{
   sizePanel.classList.toggle('open');
