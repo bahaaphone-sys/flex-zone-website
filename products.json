@@ -1014,5 +1014,13 @@
     "description": "Padded hooded jacket with a front zipper, two side pockets, and three black stripes on the sleeves. Adidas logo on the chest.",
     "image": "/media/flex-zone-white-jacket-300.jpg",
     "available": true
+  },
+  {
+    "name": "Adidas Hooded Puffer Jacket - Blue",
+    "price": 50,
+    "colors": "Blue with white stripes",
+    "description": "Padded hooded jacket with a front zipper, two side pockets, and three white stripes on the sleeves. Adidas logo on the chest.",
+    "image": "/media/flex-zone-blue-jacket-300.jpg",
+    "available": true
   }
 ]
