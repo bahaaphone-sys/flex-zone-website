@@ -1086,5 +1086,13 @@
     "description": "Light olive backpack with a large black Adidas logo, front zippered pocket, side pockets and a top carry handle.",
     "image": "/media/exec-1f07060b-a544-49f4-a276-d9f0c53e2ebe.png",
     "available": true
+  },
+  {
+    "name": "Black Cotton Pants",
+    "price": 25,
+    "colors": "Blak",
+    "description": "Black cotton pants designed for comfortable everyday wear.",
+    "image": "/media/nike-black-jogger-thumb.webp",
+    "available": false
   }
 ]
