@@ -1078,5 +1078,13 @@
     "description": "Black cotton pants designed for comfortable everyday wear.",
     "image": "/media/nike-black-jogger-thumb.webp",
     "available": true
+  },
+  {
+    "name": "Lightweight Hooded Tracksuit Set – All Black",
+    "price": 45,
+    "colors": "All Black",
+    "description": "Lightweight all-black tracksuit set with a hood, suitable for comfortable everyday wear.",
+    "image": "/media/nike-tracksuit-black-on-model-site.webp",
+    "available": true
   }
 ]
