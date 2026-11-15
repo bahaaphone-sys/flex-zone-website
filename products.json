@@ -1089,6 +1089,9 @@
     "price": 70,
     "colors": "White, Grey, Black",
     "description": "Paris Saint-Germain training tracksuit featuring a white quarter-zip top with grey sleeves, black shoulder panels, and Qatar Airways lettering. Paired with grey pants featuring an elastic waistband and black PARIS lettering on the lower leg. PSG crests and Nike Swoosh logos complete the sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/5de44e90a764edf43d38.webp",
     "available": true
   },
@@ -1097,6 +1100,9 @@
     "price": 70,
     "colors": "Light Blue, Dark Blue, Neon Yellow",
     "description": "FC Barcelona training tracksuit featuring a light blue quarter-zip top with neon yellow shoulder panels, club crest, Nike Swoosh, and Spotify logo. Paired with dark blue pants featuring an elastic waistband, neon yellow detailing, and matching club crest and Nike Swoosh. A bold, coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/b78c0d9db38abc4c3347.webp",
     "available": true
   },
@@ -1105,6 +1111,9 @@
     "price": 70,
     "colors": "White, Black, Red",
     "description": "Liverpool training tracksuit featuring a white quarter-zip top with black panels, striped sleeves, and red AXA lettering. Paired with black pants featuring an elastic waistband, white side stripes, and textured lower-leg panels. Red Liverpool crests and Adidas logos complete the coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/96b5537b5120cc554ad4.webp",
     "available": true
   },
