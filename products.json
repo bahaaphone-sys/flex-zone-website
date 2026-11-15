@@ -1158,5 +1158,13 @@
     "description": "Black puffer jacket with a high collar, full front zipper, two front zip pockets, and a white The North Face logo on the chest.",
     "image": "/media/north-face-olive-puffer-jacket-400px.jpg",
     "available": true
+  },
+  {
+    "name": "Nike Color-Block Puffer Jacket",
+    "price": 45,
+    "colors": "Blak",
+    "description": "Color-block puffer jacket with a hood, full front zipper, two front zip pockets, and a white Nike logo on the chest.",
+    "image": "/media/north-face-black-puffer-jacket-400px.jpg",
+    "available": true
   }
 ]
