@@ -1166,5 +1166,13 @@
     "description": "Color-block puffer jacket with a hood, full front zipper, two front zip pockets, and a white Nike logo on the chest.",
     "image": "/media/north-face-black-puffer-jacket-400px.jpg",
     "available": true
+  },
+  {
+    "name": "Black Cotton Sweatshirt",
+    "price": 25,
+    "colors": "‏ Black with White Adidas Print",
+    "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, and ribbed cuffs and hem. Features a white Adidas logo print on the front. Comfortable for everyday wear.",
+    "image": "/media/flexzone-crewneck-adidas-charcoal-thumb.webp",
+    "available": true
   }
 ]
