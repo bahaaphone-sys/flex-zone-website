@@ -328,9 +328,15 @@
     "name": "NIKE BLACK TRACKSUIT",
     "price": 45,
     "colors": "Black / White",
-    "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon.",
+    "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon. Available sizes: L, 3XL, 4XL, 5XL.",
     "image": "/media/flexzone-nike-tracksuit-black-thumb-1.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "L",
+      "3XL",
+      "4XL",
+      "5XL"
+    ]
   },
   {
     "name": "NIKE WHITE TRACKSUIT",
