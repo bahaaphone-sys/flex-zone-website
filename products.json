@@ -834,6 +834,9 @@
     "price": 25,
     "colors": "Burgundy / Gold",
     "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
+    "sizes": [
+      "m l xl 2xl"
+    ],
     "image": "/media/optimized/8960dd3f90c0dfc1f8dd.webp",
     "available": true
   },
