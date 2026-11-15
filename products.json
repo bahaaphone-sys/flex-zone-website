@@ -277,12 +277,7 @@
     "colors": "White",
     "description": "Adidas hoodies in white with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, M, 3XL.",
     "image": "/media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
-    "available": true,
-    "sizes": [
-      "S",
-      "M",
-      "3XL"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS CLASSIC HOODIES",
@@ -330,13 +325,7 @@
     "colors": "Black / White",
     "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon. Available sizes: L, 3XL, 4XL, 5XL.",
     "image": "/media/flexzone-nike-tracksuit-black-thumb-1.webp",
-    "available": true,
-    "sizes": [
-      "L",
-      "3XL",
-      "4XL",
-      "5XL"
-    ]
+    "available": true
   },
   {
     "name": "NIKE WHITE TRACKSUIT",
@@ -344,12 +333,7 @@
     "colors": "White / Black Details",
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
     "image": "/media/flexzone-nike-tracksuit-white-thumb-1.webp",
-    "available": true,
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL"
-    ]
+    "available": true
   },
   {
     "name": "ADIDAS SPORT PANTS",
@@ -957,12 +941,7 @@
     "colors": "Black",
     "description": "Adidas hoodies in black with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, L, M.",
     "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
-    "available": true,
-    "sizes": [
-      "S",
-      "L",
-      "M"
-    ]
+    "available": true
   },
   {
     "name": "Adidas Hooded Jacket – Black",
@@ -1162,6 +1141,14 @@
     "colors": "Light Grey with Black Nike Swoosh",
     "description": "Light grey pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small black Nike Swoosh on the chest.",
     "image": "/media/nike-hoodie-grey-500px-1.jpg",
+    "available": true
+  },
+  {
+    "name": "The North Face Waterproof Hooded Jacket – Light Grey",
+    "price": 35,
+    "colors": "Light Grey with Black Details",
+    "description": "Light grey waterproof hooded jacket with a full front zip, adjustable hood and cuffs, one chest zip pocket, two side zip pockets, and a black The North Face logo on the chest.",
+    "image": "/media/north-face-light-grey-jacket-400px.jpg",
     "available": true
   }
 ]
