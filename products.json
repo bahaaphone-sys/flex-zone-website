@@ -1513,6 +1513,9 @@
     "price": 45,
     "colors": "All Black",
     "description": "Lightweight all-black tracksuit set with a hood, suitable for comfortable everyday wear.",
+    "sizes": [
+      "s m l xl 2xl 3xl 4xl 5xl "
+    ],
     "image": "/media/nike-tracksuit-black-on-model-site.webp",
     "available": true
   },
