@@ -66,7 +66,8 @@
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "sizes": [
-      "41.5 44.5 "
+      "41.5",
+      "44.5"
     ],
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
     "available": true
@@ -77,7 +78,11 @@
     "colors": "Grey, Light Green",
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
     "sizes": [
-      "40.5 44.5 45.5 46 48"
+      "40.5",
+      "44.5",
+      "45.5",
+      "46",
+      "48"
     ],
     "image": "/media/optimized/0d9b7b145e16b9791e63.webp",
     "available": true
@@ -88,7 +93,10 @@
     "colors": "Grey, Coral Pink",
     "description": "Adidas Duramo RC running shoes with breathable mesh upper, lightweight cushioned sole and grey design with coral pink stripes. Delivery all over Lebanon.",
     "sizes": [
-      "41.5 42.5 43.5 45.5 "
+      "41.5",
+      "42.5",
+      "43.5",
+      "45.5"
     ],
     "image": "/media/optimized/aaab7d12657f1202c775.webp",
     "available": true
@@ -99,7 +107,10 @@
     "colors": "Navy Blue, Silver",
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
     "sizes": [
-      "41.5 42.5 42 44.5 "
+      "41.5",
+      "42.5",
+      "42",
+      "44.5"
     ],
     "image": "/media/optimized/5478d3c5abef9c66783c.webp",
     "available": true
@@ -110,7 +121,7 @@
     "colors": "Black, Navy Blue, White",
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
     "sizes": [
-      "44.5 "
+      "44.5"
     ],
     "image": "/media/optimized/194efe19e6784d7ccd1e.webp",
     "available": true
@@ -695,7 +706,12 @@
     "colors": "Black",
     "description": "Nike black waterproof sports tracksuit featuring a full-zip hooded jacket, matching black pants, zippered pockets, adjustable hood and elastic cuffs. Designed for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl 6xl"
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/nike-black-model-2-thumb.webp",
     "available": true
@@ -722,7 +738,12 @@
     "colors": "Dark Grey",
     "description": "Adidas waterproof sports tracksuit featuring an olive grey and dark navy hooded zip-up jacket, matching dark navy pants, adjustable hood, zippered chest pocket and elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl 6xl "
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/F6BB07BC-2A42-4AE9-8783-845B85DA4FBA.png",
     "available": true
@@ -733,7 +754,12 @@
     "colors": "Black",
     "description": "Adidas black hooded sports tracksuit with zip-up jacket, vertical zippered chest pocket, elastic cuffs and matching black pants with ankle zipper. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl 6xl"
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/4E20F73A-231B-450E-8B86-D6C1877EE95F.png",
     "available": true
@@ -744,7 +770,12 @@
     "colors": "Olive Grey & Dark Navy",
     "description": "Adidas hooded sports tracksuit featuring an olive grey and dark navy full-zip jacket, vertical zippered chest pocket, elastic cuffs and matching dark navy pants with ankle zipper detail. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl 6xl "
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/2D439E51-B8DF-450B-BE88-F0C4A601E244.png",
     "available": true
@@ -766,7 +797,11 @@
     "colors": "Black / Grey",
     "description": "The North Face reversible hooded jacket featuring a black side and a grey side. Lightweight design with adjustable hood, full front zipper, zippered pockets and comfortable elastic cuffs. Ideal for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl"
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/northface-black-grey-white-bg-small-1.jpg",
     "available": true
@@ -777,7 +812,11 @@
     "colors": "Black & Grey (Reversible)",
     "description": "Adidas reversible hooded jacket with two wearable sides: black and grey. Lightweight design featuring an adjustable hood, full front zipper, zippered side pockets and comfortable elastic cuffs. Suitable for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl"
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/adidas-black-grey-white-bg-small-1.jpg",
     "available": true
@@ -788,7 +827,11 @@
     "colors": "Black & Grey (Reversible)",
     "description": "ON CLOUD reversible hooded jacket with two wearable sides in black and grey. Lightweight design featuring an adjustable hood, full front zipper, side pockets and elastic cuffs. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl "
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/oncloud-black-grey-white-bg-small.jpg",
     "available": true
@@ -835,7 +878,10 @@
     "colors": "Burgundy / Gold",
     "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
     "sizes": [
-      "m l xl 2xl"
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/8960dd3f90c0dfc1f8dd.webp",
     "available": true
@@ -846,7 +892,10 @@
     "colors": "White / Burgundy / Gold",
     "description": "Adidas AS Roma away football jersey featuring a white base with burgundy and gold chest stripes, AS Roma club crest, Adidas Trefoil logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy / Gold. Delivery all over Lebanon.",
     "sizes": [
-      "m l xl 2xl "
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/7a915ef3db99d4b6c89e.webp",
     "available": true
@@ -857,7 +906,10 @@
     "colors": "Red / White",
     "description": "Adidas Liverpool FC home football jersey featuring a red base with white geometric graphics, Liverpool club crest, Adidas logo, Standard Chartered sponsor print, white shoulder stripes and short sleeves. Sporty design for football fans, match days and casual wear. Available in Red / White. Delivery all over Lebanon.",
     "sizes": [
-      "m l xl 2xl "
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/881aeddba8b6307ddaa4.webp",
     "available": true
@@ -891,7 +943,12 @@
     "colors": "Black",
     "description": "Adidas Terrex two-piece tracksuit set featuring a black hooded zip-up jacket and matching pants. The jacket includes a full front closure, zippered pockets, elastic cuffs, subtle shoulder detailing and Adidas Terrex branding. Matching pants feature an elastic waistband, side pockets and Adidas logo. Sporty and practical design for outdoor activities and everyday wear. Available in Black. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl 5xl 6xl "
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/tracksuit-black-thumb-1.webp",
     "available": true
@@ -910,7 +967,10 @@
     "colors": "Black / Light Olive Grey",
     "description": "Adidas two-tone hooded jacket featuring a black upper section and sleeves with a light olive-grey lower body. Designed with an adjustable hood, full front closure, zippered side pockets, elastic cuffs and Adidas chest logo. Comfortable sporty style for cool weather and everyday wear. Available in Black / Light Olive Grey. Delivery all over Lebanon.",
     "sizes": [
-      "xl 2xl 3xl 4xl "
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
     ],
     "image": "/media/flexzone-jacket-sage-black-thumb-1.webp",
     "available": true
@@ -1024,7 +1084,11 @@
     "colors": "White, Dark Green, Pink",
     "description": "Real Madrid tracksuit featuring a full-zip white jacket with dark green sleeves, pink Adidas stripes and club crest, paired with matching dark green pants with white panels. Sporty design with elastic cuffs and zippered pant hems. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/25e5669779e80ba2bb9a.webp",
     "available": true
@@ -1035,7 +1099,11 @@
     "colors": "Red, Black",
     "description": "AC Milan tracksuit featuring a red hooded zip-up jacket and black matching pants with AC Milan and Puma logos. Comfortable sporty design. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/3550980a6ee9ac1fb256.webp",
     "available": true
@@ -1046,7 +1114,11 @@
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund tracksuit featuring a yellow half-zip training top with black sleeve panels and matching black pants. BVB and Puma logos with a modern sporty design. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/7cc281bd335dccde47b5.webp",
     "available": true
@@ -1057,7 +1129,11 @@
     "colors": "Pink, White",
     "description": "Real Madrid pink tracksuit featuring a full-zip jacket with white Adidas stripes and club crest, paired with matching pink pants. Stylish sporty design with comfortable fit. Delivery all over Lebanon.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/c00b667f08579b72c16a.webp",
     "available": true
@@ -1068,7 +1144,11 @@
     "colors": "White, Blue, Gold",
     "description": "Juventus tracksuit featuring a white full-zip jacket with blue panels, Adidas stripes, and gold club crest, paired with blue pants with white lower-leg panels and side stripes. A coordinated sporty look with a stand-up collar and elastic waistband.",
     "sizes": [
-      "s m l xl 2xl"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/3d40da54961f0ebe0dca.webp",
     "available": true
@@ -1079,7 +1159,11 @@
     "colors": "Navy Blue, Gold, White",
     "description": "Real Madrid navy blue tracksuit featuring a full-zip jacket with a stand-up collar, front pockets, and gold and white stripes along the sleeves. Paired with matching pants with an elastic waistband and coordinating side stripes. Both pieces feature the Real Madrid crest and white Adidas Trefoil logo for a classic sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/38b3ba67078bd6404a9f.webp",
     "available": true
@@ -1090,7 +1174,11 @@
     "colors": "White, Grey, Black",
     "description": "Paris Saint-Germain training tracksuit featuring a white quarter-zip top with grey sleeves, black shoulder panels, and Qatar Airways lettering. Paired with grey pants featuring an elastic waistband and black PARIS lettering on the lower leg. PSG crests and Nike Swoosh logos complete the sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/5de44e90a764edf43d38.webp",
     "available": true
@@ -1101,7 +1189,11 @@
     "colors": "Light Blue, Dark Blue, Neon Yellow",
     "description": "FC Barcelona training tracksuit featuring a light blue quarter-zip top with neon yellow shoulder panels, club crest, Nike Swoosh, and Spotify logo. Paired with dark blue pants featuring an elastic waistband, neon yellow detailing, and matching club crest and Nike Swoosh. A bold, coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/b78c0d9db38abc4c3347.webp",
     "available": true
@@ -1112,7 +1204,11 @@
     "colors": "White, Black, Red",
     "description": "Liverpool training tracksuit featuring a white quarter-zip top with black panels, striped sleeves, and red AXA lettering. Paired with black pants featuring an elastic waistband, white side stripes, and textured lower-leg panels. Red Liverpool crests and Adidas logos complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/96b5537b5120cc554ad4.webp",
     "available": true
@@ -1123,7 +1219,10 @@
     "colors": "White, Purple, Gold",
     "description": "Real Madrid tracksuit featuring a white full-zip jacket with a purple chest band, fine gold trim, and purple sleeve stripes. The jacket includes a stand-up collar, front pockets, and purple Real Madrid crest and Adidas Trefoil logo. Paired with purple pants featuring an elastic waistband, white side stripes, and matching white logos for a coordinated sporty look.",
     "sizes": [
-      "s m xl 2xl "
+      "S",
+      "M",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/a81e012a0fde108b3c19.webp",
     "available": true
@@ -1134,7 +1233,11 @@
     "colors": "White, Navy Blue, Blue, Red, Gold",
     "description": "Bayern Munich tracksuit featuring a white full-zip jacket with navy panels, red sleeve stripes, a stand-up collar, and front pockets. Paired with navy pants featuring an elastic waistband, red side stripes, and contrasting blue lower-leg panels. Gold Bayern Munich crests and Adidas logos complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/5f2c2543fc74b7dd4f79.webp",
     "available": true
@@ -1145,7 +1248,10 @@
     "colors": "Red, Black, White",
     "description": "Liverpool cotton tracksuit featuring a red full-zip hooded jacket with front pockets and white sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. White Liverpool crests and Adidas logos on both pieces complete the coordinated sporty look.",
     "sizes": [
-      "s m xl 2xl "
+      "S",
+      "M",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/547fee4b729ca6d20808.webp",
     "available": true
@@ -1156,7 +1262,10 @@
     "colors": "Red, Black, White, Gold",
     "description": "Manchester United cotton tracksuit featuring a red full-zip hooded jacket with front pockets and black sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Manchester United crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "sizes": [
-      "s m xl 2xl "
+      "S",
+      "M",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/0d00a72829a0bc230926.webp",
     "available": true
@@ -1167,7 +1276,11 @@
     "colors": "Red, White, Black",
     "description": "Arsenal cotton tracksuit featuring a red full-zip hooded jacket with white sleeves, front pockets, and red sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and red lower-leg detailing. White Arsenal crests and Adidas logos on both pieces complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/11a2ab94cd4304f89448.webp",
     "available": true
@@ -1178,7 +1291,11 @@
     "colors": "Blue, White, Gold",
     "description": "Real Madrid cotton tracksuit featuring a blue full-zip hooded jacket with front pockets and white sleeve accents. Paired with matching blue pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Real Madrid crests and white Adidas logos on both pieces complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/optimized/1056e83aaf0f09cdef3e.webp",
     "available": true
@@ -1234,7 +1351,11 @@
     "colors": "Black, Red, Yellow, White",
     "description": "Germany tracksuit featuring a black full-zip jacket with yellow chest panels, textured red lower sleeves, white shoulder stripes, and a stand-up collar. Paired with black pants featuring an elastic waistband, white side stripes, and textured red lower-leg panels. Germany crests with four stars and white Adidas logos complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/63967B8A-A740-490A-A180-C6F1FAC18CA9.png",
     "available": true
@@ -1245,7 +1366,11 @@
     "colors": "Black, Yellow",
     "description": "Borussia Dortmund tracksuit featuring a black full-zip hooded jacket with elastic cuffs, paired with matching black pants with an elastic waistband and tapered legs. Yellow BVB crests with two stars and Puma logos on both pieces complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/C45F4F94-382C-49B4-9D53-9095CEC2041F.png",
     "available": true
@@ -1256,7 +1381,11 @@
     "colors": "Purple, Black, Gold",
     "description": "FC Barcelona training tracksuit featuring a purple quarter-zip top with a stand-up collar, black shoulder panels, and fine gold trim. Gold Barcelona crest, Kobe emblem, and Spotify logo complete the top. Paired with black tapered pants featuring an elastic waistband, purple and gold side detailing, and matching Barcelona crest and Kobe emblem.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/827A1454-D3E6-47A2-BEC6-1A4324BC48A1-1.png",
     "available": true
@@ -1267,7 +1396,11 @@
     "colors": "Light Green, Black",
     "description": "Real Madrid tracksuit featuring a light green full-zip hooded jacket with black sleeves, front pockets, and light green sleeve accents. Paired with black tapered pants featuring an elastic waistband, ribbed ankle cuffs, and matching light green lower-leg detailing. Contrasting Real Madrid crests and Adidas logos complete the coordinated sporty look.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/E74D2635-4226-4E07-ADCD-E558A7905B30-1.png",
     "available": true
@@ -1278,7 +1411,11 @@
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund tracksuit featuring a yellow full-zip hooded jacket with elastic cuffs and black BVB crest and Puma logo. Paired with black tapered pants featuring an elastic waistband, shaped knee panels, and matching yellow BVB crest and Puma logo. A coordinated sporty look in the club’s signature colors.",
     "sizes": [
-      "s m l xl 2xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/0A7BA2F4-C995-4433-8CEE-D4DB93DD6771.png",
     "available": true
@@ -1514,7 +1651,14 @@
     "colors": "All Black",
     "description": "Lightweight all-black tracksuit set with a hood, suitable for comfortable everyday wear.",
     "sizes": [
-      "s m l xl 2xl 3xl 4xl 5xl "
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/nike-tracksuit-black-on-model-site.webp",
     "available": true
