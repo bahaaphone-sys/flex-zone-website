@@ -1144,6 +1144,9 @@
     "price": 90,
     "colors": "Red, Black, White",
     "description": "Liverpool cotton tracksuit featuring a red full-zip hooded jacket with front pockets and white sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. White Liverpool crests and Adidas logos on both pieces complete the coordinated sporty look.",
+    "sizes": [
+      "s m xl 2xl "
+    ],
     "image": "/media/optimized/547fee4b729ca6d20808.webp",
     "available": true
   },
