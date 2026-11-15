@@ -1118,5 +1118,13 @@
     "description": "Black Jordan hoodie with a sporty design for everyday wear.",
     "image": "/media/flexzone-hoodie-jordan-black-thumb.webp",
     "available": true
+  },
+  {
+    "name": "Nike “There Is No Finish Line” Crewneck Sweatshirt – Black",
+    "price": 25,
+    "colors": "Blak",
+    "description": "Black long-sleeve crewneck sweatshirt with ribbed cuffs and hem, featuring a white Nike chest print that reads “There Is No Finish Line.”",
+    "image": "/media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
+    "available": true
   }
 ]
