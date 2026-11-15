@@ -24,14 +24,14 @@ content:
       - name: description
         label: Description
         type: text
+      - name: sizes
+        label: SIZES / السايزات
+        type: string
+        list: true
+        description: أضف كل مقاس بسطر منفصل مثل S و M و L أو 40 و 41 و 42
       - name: image
         label: Product Photo
         type: image
-      - name: sizes
-        label: Available Sizes / المقاسات المتوفرة
-        type: string
-        list: true
-        description: Add each available size separately (e.g. S, M, L or 40, 41, 42).
       - name: available
         label: Available
         type: boolean
