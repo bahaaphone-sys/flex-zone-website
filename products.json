@@ -1086,5 +1086,13 @@
     "description": "Lightweight all-black tracksuit set with a hood, suitable for comfortable everyday wear.",
     "image": "/media/nike-tracksuit-black-on-model-site.webp",
     "available": true
+  },
+  {
+    "name": "Black Hoodie with Purple Print",
+    "price": 25,
+    "colors": "Black with Purple Print",
+    "description": "Black hoodie featuring a purple print on the front.",
+    "image": "/media/flexzone-crewneck-adventure-black-thumb.webp",
+    "available": true
   }
 ]
