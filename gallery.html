@@ -18,7 +18,9 @@ h1{font-size:20px;margin:0}
 .stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain}
 .caption{padding:14px 4px 4px;font-size:18px;font-weight:700;min-height:40px}
 .price{padding:0 4px 8px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
-.available-sizes{margin:0 4px 14px;color:#eee;font-size:16px;font-weight:800}
+.available-sizes{display:flex;align-items:center;flex-wrap:wrap;gap:9px;margin:4px 4px 18px;color:#eee;font-size:15px;font-weight:800}
+.available-size-label{flex-basis:100%;margin-bottom:2px}
+.available-size-badge{display:inline-flex;align-items:center;justify-content:center;min-width:52px;min-height:45px;padding:8px 12px;border:1.5px solid #d6ad33;border-radius:10px;background:#202020;color:#fff;font-weight:900;font-size:16px;direction:ltr;unicode-bidi:isolate}
 .available-sizes:empty{display:none}
 .size-options{display:none;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
 .size-options.open{display:grid}
@@ -149,7 +151,20 @@ function show(index){
     price.hidden=true;
   }
   renderSizes(p);
-  document.getElementById('available-sizes').textContent=Array.isArray(p.sizes)&&p.sizes.length?'المقاسات المتوفرة: '+p.sizes.join(' · '):'';
+  const availableSizes=document.getElementById('available-sizes');
+  availableSizes.replaceChildren();
+  if(Array.isArray(p.sizes)&&p.sizes.length){
+    const label=document.createElement('span');
+    label.className='available-size-label';
+    label.textContent='المقاسات المتوفرة:';
+    availableSizes.append(label);
+    p.sizes.forEach(value=>{
+      const badge=document.createElement('span');
+      badge.className='available-size-badge';
+      badge.textContent=String(value).toUpperCase();
+      availableSizes.append(badge);
+    });
+  }
   count.textContent=(index+1)+' / '+products.length;
   sizePanel.classList.remove('open');
   sizeInput.value='';
