@@ -1147,8 +1147,12 @@
     "name": "The North Face Waterproof Hooded Jacket – Light Grey",
     "price": 35,
     "colors": "Light Grey with Black Details",
-    "description": "Light grey waterproof hooded jacket with a full front zip, adjustable hood and cuffs, one chest zip pocket, two side zip pockets, and a black The North Face logo on the chest.",
+    "description": "Light grey waterproof hooded jacket with a full front zip, adjustable hood and cuffs, one chest zip pocket, two side zip pockets, and a black The North Face logo on the chest. Available sizes: 2XL, 3XL.",
     "image": "/media/north-face-light-grey-jacket-400px.jpg",
-    "available": true
+    "available": true,
+    "sizes": [
+      "2XL",
+      "3XL"
+    ]
   }
 ]
