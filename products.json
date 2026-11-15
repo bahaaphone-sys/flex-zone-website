@@ -998,5 +998,13 @@
     "description": "Light grey hooded waterproof and windproof jacket with a front closure, pockets, adjustable cuffs, and the Adidas logo on the chest. Delivery available across Lebanon. Available sizes: XL, 2XL, 3XL, 4XL.",
     "image": "/media/flex-zone-grey-waterproof-jacket-300.jpg",
     "available": true
+  },
+  {
+    "name": "Nike Men’s Winter Jacket",
+    "price": 50,
+    "colors": "Olive Green",
+    "description": "Men’s winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest.",
+    "image": "/media/flex-zone-waterproof-olive-300.jpg",
+    "available": true
   }
 ]
