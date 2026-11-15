@@ -65,6 +65,9 @@
     "price": 65,
     "colors": "White, Blue, Black",
     "description": "Adidas original running shoes with breathable mesh upper, cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
+    "sizes": [
+      "41.5 44.5 "
+    ],
     "image": "/media/optimized/3f838ea34a99274b04e7.webp",
     "available": true
   },
