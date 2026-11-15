@@ -15,6 +15,9 @@
     "price": 25,
     "colors": "Blue, Red",
     "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl xxl"
+    ],
     "image": "/media/optimized/f55f02d1b018b42a7679.webp",
     "available": true
   },
