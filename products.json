@@ -1056,6 +1056,9 @@
     "price": 70,
     "colors": "Pink, White",
     "description": "Real Madrid pink tracksuit featuring a full-zip jacket with white Adidas stripes and club crest, paired with matching pink pants. Stylish sporty design with comfortable fit. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/c00b667f08579b72c16a.webp",
     "available": true
   },
