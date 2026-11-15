@@ -1078,6 +1078,9 @@
     "price": 70,
     "colors": "Navy Blue, Gold, White",
     "description": "Real Madrid navy blue tracksuit featuring a full-zip jacket with a stand-up collar, front pockets, and gold and white stripes along the sleeves. Paired with matching pants with an elastic waistband and coordinating side stripes. Both pieces feature the Real Madrid crest and white Adidas Trefoil logo for a classic sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/38b3ba67078bd6404a9f.webp",
     "available": true
   },
