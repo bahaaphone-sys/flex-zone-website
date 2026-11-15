@@ -1102,5 +1102,13 @@
     "description": "Black cotton sweatshirt featuring an olive green print on the front.",
     "image": "/media/flexzone-crewneck-adidas-camo-black-thumb.webp",
     "available": false
+  },
+  {
+    "name": "Black Hoodie with Black Print",
+    "price": 25,
+    "colors": "Blak",
+    "description": "Black hoodie featuring a black print on the front.",
+    "image": "/media/flexzone-hoodie-adidas-collegiate-black-thumb.webp",
+    "available": true
   }
 ]
