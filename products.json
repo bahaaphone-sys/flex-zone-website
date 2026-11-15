@@ -1034,6 +1034,9 @@
     "price": 70,
     "colors": "Red, Black",
     "description": "AC Milan tracksuit featuring a red hooded zip-up jacket and black matching pants with AC Milan and Puma logos. Comfortable sporty design. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/3550980a6ee9ac1fb256.webp",
     "available": true
   },
