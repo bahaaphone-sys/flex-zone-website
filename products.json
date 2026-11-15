@@ -76,6 +76,9 @@
     "price": 65,
     "colors": "Grey, Light Green",
     "description": "Adidas running shoes with breathable mesh upper, cushioned sole and grey and light green design. Delivery all over Lebanon.",
+    "sizes": [
+      "40.5 44.5 45.5 46 48"
+    ],
     "image": "/media/optimized/0d9b7b145e16b9791e63.webp",
     "available": true
   },
