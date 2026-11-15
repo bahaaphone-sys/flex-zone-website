@@ -26,6 +26,9 @@
     "price": 25,
     "colors": "Black, Purple",
     "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
+    "sizes": [
+      "s m l xl xxl"
+    ],
     "image": "/media/optimized/1e57d4ff0faca14600ea.webp",
     "available": true
   },
