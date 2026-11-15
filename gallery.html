@@ -11,7 +11,12 @@ body{margin:0;background:#101010;color:#fff;font-family:system-ui,-apple-system,
 header{padding:20px;text-align:center;background:#090909;border-bottom:1px solid #292929}
 header strong{color:#f5c842;font-size:25px;font-weight:900}
 main{width:min(100%,820px);margin:auto;padding:18px 16px 36px}
-.title-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:6px 0 14px}
+.title-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:12px 0 14px}
+.hero{margin:0 0 16px;background:#fff;border-radius:16px;overflow:hidden}
+.hero img{display:block;width:100%;height:auto;max-height:580px;object-fit:contain}
+.hero[hidden]{display:none!important}
+.hero-caption{padding:14px 0 10px;font-size:18px;font-weight:900;color:#f5c842}
+.product-focus{scroll-margin-top:12px}
 h1{font-size:20px;margin:0}
 .count{color:#aaa;font-size:14px;direction:ltr;unicode-bidi:isolate}
 .stage{display:grid;place-items:center;min-height:min(65vh,620px);background:#1a1a1a;border:1px solid #292929;border-radius:18px;overflow:hidden}
@@ -52,8 +57,14 @@ h1{font-size:20px;margin:0}
 <body>
 <header><strong>👑 FLEX ZONE</strong></header>
 <main>
+<section class="hero" id="hero" aria-label="FLEX ZONE">
+  <img src="./flex-zone-campaign.webp" alt="FLEX ZONE sport clothes - تشكيلة ملابس رياضية" loading="eager" fetchpriority="high" onerror="this.parentElement.hidden=true">
+</section>
+<h2 class="hero-caption">تصفّح البضاعة واختار القطعة اللي بتعجبك 👇</h2>
+<p class="rail-label">اسحب الصور يمين وشمال، واكبس على القطعة لعرضها وطلبها</p>
+<div id="rail" class="rail" aria-label="صور المنتجات"></div>
 <div class="title-row"><h1>معرض الصور</h1><span id="count" class="count"></span></div>
-<div id="stage" class="stage" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
+<div id="stage" class="stage product-focus" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
 <div id="caption" class="caption"></div>
 <div id="price" class="price" aria-live="polite"></div>
 <p id="available-sizes" class="available-sizes" aria-live="polite"></p>
@@ -71,8 +82,6 @@ h1{font-size:20px;margin:0}
 <a id="send-order" class="send-order" href="#" target="_blank" rel="noopener">كمّل الطلب عبر واتساب</a>
 </div>
 </section>
-<p class="rail-label">اسحب الصور من تحت واكبس على الصورة اللي بدك تشوفها</p>
-<div id="rail" class="rail" aria-label="صور المنتجات"></div>
 </main>
 <script>
 const stage=document.getElementById('stage');
@@ -233,7 +242,7 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
     im.dataset.imagePath=p.image;
     if(i<6) loadThumb(im);
     b.append(im);
-    b.onclick=()=>show(i);
+    b.onclick=()=>{show(i);stage.scrollIntoView({behavior:'smooth',block:'start'});};
     f.append(b);
   });
   rail.append(f);
