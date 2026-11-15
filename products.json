@@ -1005,25 +1005,40 @@
     "name": "On Cloud Hooded Jacket – Black",
     "price": 65,
     "colors": "Blak",
-    "description": "Black hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo.",
+    "description": "Black hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
     "image": "/media/jacket-black.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   },
   {
     "name": "On Cloud Hooded Jacket – Olive Green",
     "price": 65,
     "colors": "Olive Green",
-    "description": "Olive green hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo.",
+    "description": "Olive green hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
     "image": "/media/jacket-olive.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   },
   {
     "name": "On Cloud Hooded Jacket – Light Grey",
     "price": 66,
     "colors": "Light Grey",
-    "description": "Light grey hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo.",
+    "description": "Light grey hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
     "image": "/media/jacket-light-gray.png",
-    "available": true
+    "available": true,
+    "sizes": [
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   },
   {
     "name": "The North Face Hoodie – Black",
