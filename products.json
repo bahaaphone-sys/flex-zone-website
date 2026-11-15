@@ -1093,6 +1093,6 @@
     "colors": "Blak",
     "description": "Black cotton pants designed for comfortable everyday wear.",
     "image": "/media/nike-black-jogger-thumb.webp",
-    "available": false
+    "available": true
   }
 ]
