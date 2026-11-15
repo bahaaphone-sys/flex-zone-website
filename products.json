@@ -541,11 +541,7 @@
     "colors": "Beige & White",
     "description": "Nike beige and white hooded puffer jacket featuring a two-tone padded design, full front zipper, zippered side pockets and elastic cuffs. Stylish and comfortable for cooler weather and everyday wear. Delivery all over Lebanon. Available sizes: L, 3XL.",
     "image": "/media/nike-beige-white-puffer-jacket-400px.jpg",
-    "available": true,
-    "sizes": [
-      "L",
-      "3XL"
-    ]
+    "available": true
   },
   {
     "name": "NIKE CREWNECK SWEATSHIRT",
@@ -1153,6 +1149,14 @@
     "colors": "Light Grey with Black Details",
     "description": "Light grey waterproof hooded jacket with a full front zip, adjustable hood and cuffs, one chest zip pocket, two side zip pockets, and a black The North Face logo on the chest. Available sizes: 2XL, 3XL.",
     "image": "/media/north-face-light-grey-jacket-400px.jpg",
+    "available": true
+  },
+  {
+    "name": "The North Face Puffer Jacket – Olive",
+    "price": 45,
+    "colors": "Olive Green with White Logo",
+    "description": "Black puffer jacket with a high collar, full front zipper, two front zip pockets, and a white The North Face logo on the chest.",
+    "image": "/media/north-face-olive-puffer-jacket-400px.jpg",
     "available": true
   }
 ]
