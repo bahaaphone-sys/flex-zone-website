@@ -1053,6 +1053,13 @@
     "colors": "Black with White Logo",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a large white Adidas logo on the front.",
     "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   }
 ]
