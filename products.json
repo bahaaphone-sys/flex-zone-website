@@ -765,6 +765,9 @@
     "price": 35,
     "colors": "Black / Grey",
     "description": "The North Face reversible hooded jacket featuring a black side and a grey side. Lightweight design with adjustable hood, full front zipper, zippered pockets and comfortable elastic cuffs. Ideal for sports and everyday wear. Delivery all over Lebanon.",
+    "sizes": [
+      "xl 2xl 3xl 4xl 5xl"
+    ],
     "image": "/media/northface-black-grey-white-bg-small-1.jpg",
     "available": true
   },
