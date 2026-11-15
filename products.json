@@ -1134,5 +1134,13 @@
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small white Nike Swoosh on the chest.",
     "image": "/media/nike-hoodie-black-500px.jpg",
     "available": true
+  },
+  {
+    "name": "Nike Pullover Hoodie – Grey",
+    "price": 25,
+    "colors": "Light Grey with Black Nike Swoosh",
+    "description": "Light grey pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small black Nike Swoosh on the chest.",
+    "image": "/media/nike-hoodie-grey-500px-1.jpg",
+    "available": true
   }
 ]
