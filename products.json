@@ -98,6 +98,9 @@
     "price": 65,
     "colors": "Navy Blue, Silver",
     "description": "Adidas navy blue running shoes with silver stripes, lightweight cushioned sole and comfortable sporty design. Delivery all over Lebanon.",
+    "sizes": [
+      "41.5 42.5 42 44.5 "
+    ],
     "image": "/media/optimized/5478d3c5abef9c66783c.webp",
     "available": true
   },
