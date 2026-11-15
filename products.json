@@ -1166,6 +1166,9 @@
     "price": 90,
     "colors": "Red, White, Black",
     "description": "Arsenal cotton tracksuit featuring a red full-zip hooded jacket with white sleeves, front pockets, and red sleeve accents. Paired with black pants featuring an elastic waistband, cuffed ankles, and red lower-leg detailing. White Arsenal crests and Adidas logos on both pieces complete the coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/11a2ab94cd4304f89448.webp",
     "available": true
   },
@@ -1174,6 +1177,9 @@
     "price": 90,
     "colors": "Blue, White, Gold",
     "description": "Real Madrid cotton tracksuit featuring a blue full-zip hooded jacket with front pockets and white sleeve accents. Paired with matching blue pants featuring an elastic waistband, cuffed ankles, and white lower-leg detailing. Real Madrid crests and white Adidas logos on both pieces complete the coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/1056e83aaf0f09cdef3e.webp",
     "available": true
   },
