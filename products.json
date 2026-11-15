@@ -1233,6 +1233,9 @@
     "price": 70,
     "colors": "Black, Red, Yellow, White",
     "description": "Germany tracksuit featuring a black full-zip jacket with yellow chest panels, textured red lower sleeves, white shoulder stripes, and a stand-up collar. Paired with black pants featuring an elastic waistband, white side stripes, and textured red lower-leg panels. Germany crests with four stars and white Adidas logos complete the coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/63967B8A-A740-490A-A180-C6F1FAC18CA9.png",
     "available": true
   },
