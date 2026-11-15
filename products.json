@@ -1133,6 +1133,9 @@
     "price": 70,
     "colors": "White, Navy Blue, Blue, Red, Gold",
     "description": "Bayern Munich tracksuit featuring a white full-zip jacket with navy panels, red sleeve stripes, a stand-up collar, and front pockets. Paired with navy pants featuring an elastic waistband, red side stripes, and contrasting blue lower-leg panels. Gold Bayern Munich crests and Adidas logos complete the coordinated sporty look.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/optimized/5f2c2543fc74b7dd4f79.webp",
     "available": true
   },
