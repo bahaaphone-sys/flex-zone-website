@@ -105,10 +105,23 @@ function setProductImage(img,path,onFail=()=>{}){
   img.src=imageURL.href;
 }
 
+function getProductSizes(p){
+  const raw=Array.isArray(p.sizes)?p.sizes:(typeof p.sizes==='string'?[p.sizes]:[]);
+  return raw.flatMap(value=>{
+    const text=String(value||'').trim();
+    if(!text)return [];
+    // Accept both separately entered sizes and a combined size list entered in one CMS field.
+    if(/^(?:(?:[smlx]{1,3}|[2-9]xl|\d{2,3})(?:[\s,،;/|·]+|$))+$/i.test(text)){
+      return text.split(/[\s,،;/|·]+/).filter(Boolean);
+    }
+    return [text];
+  }).map(value=>value.toUpperCase()).filter((value,index,all)=>all.indexOf(value)===index);
+}
+
 function renderSizes(p){
   sizeOptions.replaceChildren();
   selectedSize='';
-  const sizes=Array.isArray(p.sizes)?p.sizes:[];
+  const sizes=getProductSizes(p);
   sizeOptions.classList.toggle('open',sizes.length>0);
   customSize.hidden=sizes.length>0;
   sizes.forEach(value=>{
@@ -153,12 +166,12 @@ function show(index){
   renderSizes(p);
   const availableSizes=document.getElementById('available-sizes');
   availableSizes.replaceChildren();
-  if(Array.isArray(p.sizes)&&p.sizes.length){
+  if(getProductSizes(p).length){
     const label=document.createElement('span');
     label.className='available-size-label';
     label.textContent='المقاسات المتوفرة:';
     availableSizes.append(label);
-    p.sizes.forEach(value=>{
+    getProductSizes(p).forEach(value=>{
       const badge=document.createElement('span');
       badge.className='available-size-badge';
       badge.textContent=String(value).toUpperCase();
@@ -180,9 +193,9 @@ document.getElementById('buy-now').onclick=()=>{
 sendOrder.onclick=event=>{
   event.preventDefault();
   const p=products[active];
-  const size=Array.isArray(p.sizes)?selectedSize:sizeInput.value.trim();
+  const size=getProductSizes(p).length?selectedSize:sizeInput.value.trim();
   if(!size){
-    if(Array.isArray(p.sizes)){
+    if(getProductSizes(p).length){
       sizePanel.classList.add('open');
       document.getElementById('size-error').hidden=false;
     }else{
