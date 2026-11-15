@@ -296,14 +296,6 @@
     "available": true
   },
   {
-    "name": "NIKE CLASSIC HOODIES",
-    "price": 25,
-    "colors": "Black / Light Grey",
-    "description": "Nike hoodies in black and light grey with a classic sporty design, drawstring hood, front pocket and small chest logo. Delivery all over Lebanon.",
-    "image": "/media/optimized/165ad05fb81dfdacd27e.webp",
-    "available": true
-  },
-  {
     "name": "JORDAN FLIGHT HOODIES",
     "price": 25,
     "colors": "Navy Blue ",
@@ -1133,6 +1125,14 @@
     "colors": "Black with White Adidas Print",
     "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, ribbed cuffs and hem, and a white Adidas logo print on the front.",
     "image": "/media/flexzone-crewneck-tennis-navy-thumb.webp",
+    "available": true
+  },
+  {
+    "name": "Nike Pullover Hoodie – Black",
+    "price": 25,
+    "colors": "Blak",
+    "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small white Nike Swoosh on the chest.",
+    "image": "/media/nike-hoodie-black-500px.jpg",
     "available": true
   }
 ]
