@@ -333,7 +333,12 @@
     "colors": "White / Black Details",
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
     "image": "/media/flexzone-nike-tracksuit-white-thumb-1.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "XL",
+      "2XL",
+      "3XL"
+    ]
   },
   {
     "name": "ADIDAS SPORT PANTS",
