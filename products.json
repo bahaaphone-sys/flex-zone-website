@@ -314,14 +314,14 @@
   {
     "name": "ADIDAS RED PRINT HOODIES",
     "price": 30,
-    "colors": "Light Grey / Black",
+    "colors": "Light Grey ",
     "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
-    "image": "/media/optimized/e88b5f71abf679805371.webp",
+    "image": "/media/flexzone-hoodie-adidas-red-logo-white-thumb-1.webp",
     "available": true
   },
   {
     "name": "THE NORTH FACE CLASSIC HOODIES",
-    "price": 30,
+    "price": 25,
     "colors": "Red ",
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/hoodie-red-600.jpg",
