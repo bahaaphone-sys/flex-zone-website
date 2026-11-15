@@ -378,17 +378,9 @@
   {
     "name": "NIKE HOODED SPORTS TRACKSUIT",
     "price": 45,
-    "colors": "All Black / Petrol Blue & Black",
+    "colors": "Petrol Blue & Black",
     "description": "Nike hooded sports tracksuit with zip-up jacket, matching black pants, zippered pockets and comfortable lightweight design. Available in all black or petrol blue and black. Delivery all over Lebanon.",
-    "image": "/media/optimized/60244a5780d3f23a7ef7.webp",
-    "available": true
-  },
-  {
-    "name": "ADIDAS BLUE GREY TRACKSUIT",
-    "price": 45,
-    "colors": "Blue Grey / White Details",
-    "description": "Adidas sports tracksuit in blue grey with white stripes, zip-up jacket, matching pants and zippered pockets. Delivery all over Lebanon.",
-    "image": "/media/optimized/42028d55a42681fdd2ab.webp",
+    "image": "/media/nike-tracksuit-teal-on-model-site.webp",
     "available": true
   },
   {
