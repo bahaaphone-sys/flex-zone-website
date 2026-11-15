@@ -13,7 +13,14 @@
     "colors": "Dark Green",
     "description": "Real Madrid dark green football jersey with club crest and Adidas design. Delivery all over Lebanon.",
     "image": "/media/optimized/b7f130c889ba554f6375.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "FC BARCELONA HOME JERSEY",
@@ -21,7 +28,14 @@
     "colors": "Blue, Red",
     "description": "FC Barcelona home football jersey with club crest, Nike design and classic blue and red stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/f55f02d1b018b42a7679.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "FC BARCELONA BLACK PURPLE JERSEY",
@@ -29,7 +43,14 @@
     "colors": "Black, Purple",
     "description": "FC Barcelona black and purple football jersey with club crest, gradient design and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/1e57d4ff0faca14600ea.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS COTTON TRACKSUIT SET",
@@ -93,7 +114,14 @@
     "colors": "Yellow, Black",
     "description": "Borussia Dortmund football jersey in classic yellow and black design. Delivery all over Lebanon.",
     "image": "/media/optimized/d0c5e55c35ae463aa6b3.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "MANCHESTER CITY FOOTBALL JERSEY",
@@ -101,7 +129,14 @@
     "colors": "Sky Blue",
     "description": "Manchester City football jersey in sky blue with white details. Delivery all over Lebanon.",
     "image": "/media/optimized/fa2aa5dfb6296c250abd.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ON CLOUD RUNNING SHOES",
@@ -197,7 +232,14 @@
     "colors": "Red / White / Black",
     "description": "Manchester United football jersey in classic red with white and black details. Delivery all over Lebanon.",
     "image": "/media/optimized/5c1ba9dbeb6e2d19ea8b.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "MANCHESTER UNITED BLUE FOOTBALL JERSEY",
@@ -205,7 +247,14 @@
     "colors": "Blue / Red / White",
     "description": "Manchester United football jersey in blue with red and white details. Delivery all over Lebanon.",
     "image": "/media/optimized/15633f1378bca2ffac86.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ARSENAL FOOTBALL JERSEY",
@@ -213,7 +262,14 @@
     "colors": "Red / White",
     "description": "Arsenal football jersey in classic red with white sleeves. Delivery all over Lebanon.",
     "image": "/media/optimized/6f882eed91670f260a68.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ARSENAL YELLOW FOOTBALL JERSEY",
@@ -221,7 +277,14 @@
     "colors": "Light Yellow / Navy Blue",
     "description": "Arsenal football jersey in light yellow with navy blue details. Delivery all over Lebanon.",
     "image": "/media/optimized/a7e1120156734a331093.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ARSENAL NAVY FOOTBALL JERSEY",
@@ -229,7 +292,14 @@
     "colors": "Navy Blue / Yellow / Red",
     "description": "Arsenal football jersey in navy blue with yellow and red details. Delivery all over Lebanon.",
     "image": "/media/optimized/40715e2121c3f8b3ce66.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "JUVENTUS FOOTBALL JERSEY",
@@ -237,7 +307,14 @@
     "colors": "JUVENTUS FOOTBALL JERSEY",
     "description": "Juventus football jersey with classic black and white stripes and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/064167e6f691050a3f36.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "JUVENTUS PINK FOOTBALL JERSEY",
@@ -245,7 +322,14 @@
     "colors": "Pink / Black",
     "description": "Juventus football jersey in light pink with black details. Delivery all over Lebanon.",
     "image": "/media/optimized/28db6f7cd8c98eff55c1.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "BAYERN MUNICH WHITE FOOTBALL JERSEY",
@@ -253,7 +337,14 @@
     "colors": "White / Navy Blue / Red",
     "description": "Bayern Munich football jersey in white with navy blue and red details. Delivery all over Lebanon.",
     "image": "/media/optimized/4e63be4d6fe2add3bacc.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "BAYERN MUNICH RED FOOTBALL JERSEY",
@@ -261,7 +352,14 @@
     "colors": "Red / White / Gold",
     "description": "Bayern Munich football jersey in red with white and gold details. Delivery all over Lebanon.",
     "image": "/media/optimized/461102c73b96efda70d9.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "PARIS SAINT-GERMAIN FOOTBALL JERSEY",
@@ -269,7 +367,14 @@
     "colors": "Blue / Red / White",
     "description": "Paris Saint-Germain football jersey in blue with a red center stripe and white details. Delivery all over Lebanon.",
     "image": "/media/optimized/a8ee674121316acca669.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "PSG WHITE FOOTBALL JERSEY",
@@ -277,7 +382,14 @@
     "colors": "White / Red / Navy Blue",
     "description": "Paris Saint-Germain football jersey in white with red and navy blue vertical stripes. Delivery all over Lebanon.",
     "image": "/media/optimized/fb59a8769fd5de18fde0.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS PREMIUM HOODIES",
@@ -605,7 +717,14 @@
     "colors": "Burgundy / Gold",
     "description": "Adidas AS Roma home football jersey featuring the classic burgundy color with gold accents, club crest, Adidas logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Comfortable sporty design for football fans and everyday wear. Available in Burgundy / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/8960dd3f90c0dfc1f8dd.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS AS ROMA AWAY JERSEY",
@@ -613,7 +732,14 @@
     "colors": "White / Burgundy / Gold",
     "description": "Adidas AS Roma away football jersey featuring a white base with burgundy and gold chest stripes, AS Roma club crest, Adidas Trefoil logo, EUROBET.live sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/7a915ef3db99d4b6c89e.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS LIVERPOOL FC HOME JERSEY",
@@ -621,7 +747,14 @@
     "colors": "Red / White",
     "description": "Adidas Liverpool FC home football jersey featuring a red base with white geometric graphics, Liverpool club crest, Adidas logo, Standard Chartered sponsor print, white shoulder stripes and short sleeves. Sporty design for football fans, match days and casual wear. Available in Red / White. Delivery all over Lebanon.",
     "image": "/media/optimized/881aeddba8b6307ddaa4.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS LIVERPOOL FC AWAY JERSEY",
@@ -629,7 +762,14 @@
     "colors": "White / Burgundy",
     "description": "Adidas Liverpool FC away football jersey featuring a white base with burgundy shoulder stripes and trim, Liverpool club crest, Adidas Trefoil logo, Standard Chartered sponsor print, V-neck collar and short sleeves. Classic football-inspired style for match days and casual wear. Available in White / Burgundy. Delivery all over Lebanon.",
     "image": "/media/optimized/5fbcb525bc831c392ec3.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "NIKE CHELSEA FC BLUE FOOTBALL JERSEY",
@@ -637,7 +777,14 @@
     "colors": "Royal Blue / Gold",
     "description": "Nike Chelsea FC football jersey featuring a royal blue base with gold accents, Chelsea lion crest, Nike Swoosh logo, subtle oversized club graphic across the front, polo collar and short sleeves. Stylish football-inspired design for match days and casual wear. Available in Royal Blue / Gold. Delivery all over Lebanon.",
     "image": "/media/optimized/2bf8325dc28f49703f26.webp",
-    "available": true
+    "available": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ]
   },
   {
     "name": "ADIDAS TERREX HOODED TRACKSUIT SET",
