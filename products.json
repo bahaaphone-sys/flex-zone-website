@@ -1255,6 +1255,9 @@
     "price": 70,
     "colors": "Purple, Black, Gold",
     "description": "FC Barcelona training tracksuit featuring a purple quarter-zip top with a stand-up collar, black shoulder panels, and fine gold trim. Gold Barcelona crest, Kobe emblem, and Spotify logo complete the top. Paired with black tapered pants featuring an elastic waistband, purple and gold side detailing, and matching Barcelona crest and Kobe emblem.",
+    "sizes": [
+      "s m l xl 2xl "
+    ],
     "image": "/media/827A1454-D3E6-47A2-BEC6-1A4324BC48A1-1.png",
     "available": true
   },
