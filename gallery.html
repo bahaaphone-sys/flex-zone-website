@@ -17,7 +17,9 @@ h1{font-size:20px;margin:0}
 .stage{display:grid;place-items:center;min-height:min(65vh,620px);background:#1a1a1a;border:1px solid #292929;border-radius:18px;overflow:hidden}
 .stage img{display:block;width:100%;height:min(65vh,620px);object-fit:contain}
 .caption{padding:14px 4px 4px;font-size:18px;font-weight:700;min-height:40px}
-.price{padding:0 4px 14px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
+.price{padding:0 4px 8px;color:#f5c842;font-size:22px;font-weight:900;direction:ltr;text-align:right}
+.available-sizes{margin:0 4px 14px;color:#eee;font-size:16px;font-weight:800}
+.available-sizes:empty{display:none}
 .size-options{display:none;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
 .size-options.open{display:grid}
 .size-label{font-size:15px;color:#ddd;font-weight:800}
@@ -52,6 +54,7 @@ h1{font-size:20px;margin:0}
 <div id="stage" class="stage" aria-live="polite"><p class="status">عم نحمّل الصور…</p></div>
 <div id="caption" class="caption"></div>
 <div id="price" class="price" aria-live="polite"></div>
+<p id="available-sizes" class="available-sizes" aria-live="polite"></p>
 <section class="buy" aria-label="الطلب">
 <button id="buy-now" class="buy-now" type="button">Shop Now</button>
 <div id="size-panel" class="size-panel">
@@ -146,6 +149,7 @@ function show(index){
     price.hidden=true;
   }
   renderSizes(p);
+  document.getElementById('available-sizes').textContent=Array.isArray(p.sizes)&&p.sizes.length?'المقاسات المتوفرة: '+p.sizes.join(' · '):'';
   count.textContent=(index+1)+' / '+products.length;
   sizePanel.classList.remove('open');
   sizeInput.value='';
