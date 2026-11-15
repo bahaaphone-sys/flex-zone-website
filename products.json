@@ -109,6 +109,9 @@
     "price": 65,
     "colors": "Black, Navy Blue, White",
     "description": "Adidas running shoes with Cloudfoam cushioning, breathable mesh upper, black and navy blue design with white stripes. Delivery all over Lebanon.",
+    "sizes": [
+      "44.5 "
+    ],
     "image": "/media/optimized/194efe19e6784d7ccd1e.webp",
     "available": true
   },
