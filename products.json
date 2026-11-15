@@ -1046,5 +1046,13 @@
     "description": "Pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a red The North Face chest logo.",
     "image": "/media/hoodie-black-400.jpg",
     "available": true
+  },
+  {
+    "name": "Adidas Logo Hoodie – Black",
+    "price": 30,
+    "colors": "Black with White Logo",
+    "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a large white Adidas logo on the front.",
+    "image": "/media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
+    "available": true
   }
 ]
