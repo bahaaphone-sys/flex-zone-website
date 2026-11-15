@@ -787,6 +787,9 @@
     "price": 35,
     "colors": "Black & Grey (Reversible)",
     "description": "ON CLOUD reversible hooded jacket with two wearable sides in black and grey. Lightweight design featuring an adjustable hood, full front zipper, side pockets and elastic cuffs. Comfortable for sports and everyday wear. Delivery all over Lebanon.",
+    "sizes": [
+      "xl 2xl 3xl 4xl 5xl "
+    ],
     "image": "/media/oncloud-black-grey-white-bg-small.jpg",
     "available": true
   },
