@@ -1067,6 +1067,9 @@
     "price": 70,
     "colors": "White, Blue, Gold",
     "description": "Juventus tracksuit featuring a white full-zip jacket with blue panels, Adidas stripes, and gold club crest, paired with blue pants with white lower-leg panels and side stripes. A coordinated sporty look with a stand-up collar and elastic waistband.",
+    "sizes": [
+      "s m l xl 2xl"
+    ],
     "image": "/media/optimized/3d40da54961f0ebe0dca.webp",
     "available": true
   },
