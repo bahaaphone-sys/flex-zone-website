@@ -545,6 +545,9 @@
     "price": 30,
     "colors": "Light Grey ",
     "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
+    "sizes": [
+      "S-m-3xl"
+    ],
     "image": "/media/flexzone-hoodie-adidas-red-logo-white-thumb-1.webp",
     "available": true
   },
