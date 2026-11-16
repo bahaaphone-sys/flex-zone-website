@@ -1645,6 +1645,9 @@
     "price": 25,
     "colors": "Black with Purple Print",
     "description": "Black hoodie featuring a purple print on the front.",
+    "sizes": [
+      "m-l-xl-2xl"
+    ],
     "image": "/media/flexzone-crewneck-adventure-black-thumb.webp",
     "available": true
   },
