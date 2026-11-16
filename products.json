@@ -861,6 +861,9 @@
     "price": 25,
     "colors": "Light Grey",
     "description": "Nike jogger pants featuring an elastic waistband with adjustable drawstring, side pockets, ribbed ankle cuffs and Nike logo detailing. Comfortable sporty fit for everyday wear. Available in Black and Light Grey. Pants sold separately from sweatshirts. Delivery all over Lebanon.",
+    "sizes": [
+      "S-m-2xl-3xl"
+    ],
     "image": "/media/nike-light-gray-jogger-thumb-1.webp",
     "available": true
   },
