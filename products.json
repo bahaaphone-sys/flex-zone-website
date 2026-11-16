@@ -1707,6 +1707,9 @@
     "price": 25,
     "colors": "Blak",
     "description": "Black hoodie featuring a black print on the front.",
+    "sizes": [
+      "l-3xl"
+    ],
     "image": "/media/flexzone-hoodie-adidas-collegiate-black-thumb.webp",
     "available": true
   },
