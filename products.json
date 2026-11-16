@@ -651,6 +651,9 @@
     "price": 25,
     "colors": "Off White ",
     "description": "Adidas crewneck sweatshirt with a classic round neckline, long sleeves, ribbed cuffs and a minimal logo design. Available in Off White and Charcoal. Perfect for casual and everyday wear. Delivery all over Lebanon.",
+    "sizes": [
+      "s-m-l-xl"
+    ],
     "image": "/media/flexzone-crewneck-adidas-white-thumb.webp",
     "available": true
   },
