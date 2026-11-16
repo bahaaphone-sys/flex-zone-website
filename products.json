@@ -958,6 +958,9 @@
     "price": 60,
     "colors": "Black / Silver Grey",
     "description": "Adidas two-piece tracksuit featuring a black hooded zip-up jacket with silver-grey shoulder stripes, Adidas chest logo, zippered chest and side pockets, and elastic cuffs. Matching black pants with three silver-grey vertical stripes, zippered pocket, Adidas logo and elastic waistband. Comfortable sporty design for outdoor activities and everyday wear. Available in Black / Silver Grey. Delivery all over Lebanon.",
+    "sizes": [
+      "‏xl-4xl-5xl"
+    ],
     "image": "/media/flex-zone-adidas-black-tracksuit-model-300.jpg",
     "available": true
   },
@@ -1091,6 +1094,9 @@
     "price": 25,
     "colors": "Black",
     "description": "The North Face black cotton jogger pants featuring a white logo detail, elastic waistband with adjustable drawstrings, two zippered side pockets, and ribbed ankle cuffs. Comfortable sporty fit for casual and everyday wear. Delivery all over Lebanon.",
+    "sizes": [
+      "l-3xl"
+    ],
     "image": "/media/northface-black-jogger-thumb.webp",
     "available": true
   },
