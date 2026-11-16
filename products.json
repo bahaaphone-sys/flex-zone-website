@@ -556,6 +556,9 @@
     "price": 25,
     "colors": "Red ",
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
+    "sizes": [
+      "s-m-xl-2xl"
+    ],
     "image": "/media/hoodie-red-600.jpg",
     "available": true
   },
