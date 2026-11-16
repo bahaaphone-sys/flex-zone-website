@@ -526,6 +526,9 @@
     "price": 30,
     "colors": "Black / Orange Print",
     "description": "Adidas basketball hoodie in black with orange front and back graphics, adjustable hood and front pocket. Delivery all over Lebanon.",
+    "sizes": [
+      "S-m-l-xl"
+    ],
     "image": "/media/flexzone-hoodie-adidas-red-logo-black-thumb.webp",
     "available": true
   },
