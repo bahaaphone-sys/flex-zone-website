@@ -864,6 +864,9 @@
     "price": 25,
     "colors": " Red",
     "description": "Nike crewneck sweatshirt featuring a bold front graphic, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Red. Sweatshirt sold separately from pants. Delivery all over Lebanon.",
+    "sizes": [
+      "m-2xl-3xl"
+    ],
     "image": "/media/exec-c3075d42-09ff-46a8-89d0-8f869c47a4b7-600px.jpg",
     "available": true
   },
