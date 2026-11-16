@@ -1047,6 +1047,9 @@
     "price": 30,
     "colors": "Black / Olive Green",
     "description": "Adidas lightweight waterproof track pants, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Available in Black and Olive Green. Delivery all over Lebanon.",
+    "sizes": [
+      "2xl-3xl-4xl-5xl-6xl"
+    ],
     "image": "/media/adidas-waterproof-olive-thumb.webp",
     "available": true
   },
