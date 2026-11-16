@@ -721,12 +721,9 @@
     "colors": "Black ",
     "description": "Nike hooded tracksuit with a full-zip jacket and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
     "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL",
-      "6XL"
+      "l",
+      "xl",
+      "2xl"
     ],
     "image": "/media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
     "available": true
