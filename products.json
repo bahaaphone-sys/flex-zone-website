@@ -1662,6 +1662,9 @@
     "price": 25,
     "colors": "Blak",
     "description": "Black cotton pants designed for comfortable everyday wear.",
+    "sizes": [
+      "S-m"
+    ],
     "image": "/media/nike-black-jogger-thumb.webp",
     "available": true
   },
