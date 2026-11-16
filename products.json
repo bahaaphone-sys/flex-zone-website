@@ -670,6 +670,9 @@
     "price": 25,
     "colors": "Off White ",
     "description": "Adidas Tennis Club crewneck sweatshirt with long sleeves, ribbed neckline and cuffs, and bold Adidas Tennis Club chest print. Available in Off White and Black. Delivery all over Lebanon.",
+    "sizes": [
+      "m-xl-2xl"
+    ],
     "image": "/media/flexzone-crewneck-tennis-offwhite-thumb.webp",
     "available": true
   },
