@@ -1782,6 +1782,9 @@
     "price": 45,
     "colors": "Olive Green with White Logo",
     "description": "Black puffer jacket with a high collar, full front zipper, two front zip pockets, and a white The North Face logo on the chest.",
+    "sizes": [
+      "s-3xl-4xl"
+    ],
     "image": "/media/north-face-olive-puffer-jacket-400px.jpg",
     "available": true
   },
