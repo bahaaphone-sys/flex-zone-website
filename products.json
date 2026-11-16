@@ -625,6 +625,9 @@
     "price": 45,
     "colors": "Dark Grey & Black",
     "description": "Adidas dark grey and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
+    "sizes": [
+      "l-3xl"
+    ],
     "image": "/media/flexzone-adidas-colorblock-slate-black-thumb-3.webp",
     "available": true
   },
