@@ -1793,6 +1793,9 @@
     "price": 45,
     "colors": "Blak",
     "description": "Color-block puffer jacket with a hood, full front zipper, two front zip pockets, and a white Nike logo on the chest.",
+    "sizes": [
+      "S-l-"
+    ],
     "image": "/media/north-face-black-puffer-jacket-400px.jpg",
     "available": true
   },
