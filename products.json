@@ -1534,6 +1534,9 @@
     "price": 50,
     "colors": "Blue with white stripes",
     "description": "Padded hooded jacket with a front zipper, two side pockets, and three white stripes on the sleeves. Adidas logo on the chest.",
+    "sizes": [
+      "m-l-2xl"
+    ],
     "image": "/media/flex-zone-blue-jacket-300.jpg",
     "available": true
   },
