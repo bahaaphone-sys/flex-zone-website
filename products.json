@@ -1457,22 +1457,6 @@
     "available": true
   },
   {
-    "name": "NIKE BLACK AND DARK GREY TRACKSUIT",
-    "price": 55,
-    "colors": "Black / Dark Grey",
-    "description": "Nike hooded tracksuit with a black jacket, dark grey upper panels, and matching black pants. Available sizes: XL, 2XL, 3XL, 4XL, 5XL, 6XL.",
-    "sizes": [
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL",
-      "6XL"
-    ],
-    "image": "/media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
-    "available": true
-  },
-  {
     "name": "NIKE LIGHT GREY AND BLACK TRACKSUIT",
     "price": 60,
     "colors": "Light Grey / Black",
@@ -1486,19 +1470,6 @@
       "6XL"
     ],
     "image": "/media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
-    "available": true
-  },
-  {
-    "name": "ADIDAS PREMIUM HOODIES",
-    "price": 25,
-    "colors": "Black",
-    "description": "Adidas hoodies in black with a sporty design, adjustable hood and front pocket. Delivery all over Lebanon. Available sizes: S, L, M.",
-    "sizes": [
-      "S",
-      "L",
-      "M"
-    ],
-    "image": "/media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
     "available": true
   },
   {
@@ -1670,24 +1641,6 @@
     "available": true
   },
   {
-    "name": "Lightweight Hooded Tracksuit Set – All Black",
-    "price": 45,
-    "colors": "All Black",
-    "description": "Lightweight all-black tracksuit set with a hood, suitable for comfortable everyday wear.",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-    ],
-    "image": "/media/nike-tracksuit-black-on-model-site.webp",
-    "available": true
-  },
-  {
     "name": "Black Hoodie with Purple Print",
     "price": 25,
     "colors": "Black with Purple Print",
@@ -1797,6 +1750,9 @@
     "price": 25,
     "colors": "‏ Black with White Adidas Print",
     "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, and ribbed cuffs and hem. Features a white Adidas logo print on the front. Comfortable for everyday wear.",
+    "sizes": [
+      "S-l"
+    ],
     "image": "/media/flexzone-crewneck-adidas-charcoal-thumb.webp",
     "available": true
   }
