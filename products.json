@@ -1693,6 +1693,9 @@
     "price": 25,
     "colors": "Black with White Adidas Print",
     "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, ribbed cuffs and hem, and a white Adidas logo print on the front.",
+    "sizes": [
+      "m-l-2xl-3xl"
+    ],
     "image": "/media/flexzone-crewneck-tennis-navy-thumb.webp",
     "available": true
   },
