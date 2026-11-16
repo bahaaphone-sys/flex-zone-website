@@ -697,6 +697,9 @@
     "price": 70,
     "colors": "Black / Dark Grey & Black",
     "description": "On Cloud sports tracksuit featuring a hooded zip-up jacket with dark patterned detailing, matching black pants, elastic cuffs and zippered pockets. Delivery all over Lebanon.",
+    "sizes": [
+      "4xl"
+    ],
     "image": "/media/optimized/af61944e8c9092b5b28c.webp",
     "available": true
   },
