@@ -886,6 +886,9 @@
     "price": 25,
     "colors": "Olive Green",
     "description": "Adidas crewneck sweatshirt featuring a camouflage-style square logo graphic on the chest, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Olive Green. Delivery all over Lebanon.",
+    "sizes": [
+      "m-l-3xl"
+    ],
     "image": "/media/flexzone-crewneck-adidas-camo-olive-thumb-1.webp",
     "available": true
   },
