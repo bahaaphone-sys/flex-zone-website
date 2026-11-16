@@ -1672,6 +1672,9 @@
     "price": 25,
     "colors": "Black",
     "description": "Black Jordan hoodie with a sporty design for everyday wear.",
+    "sizes": [
+      "S-m-l-xl-2xl"
+    ],
     "image": "/media/flexzone-hoodie-jordan-black-thumb.webp",
     "available": true
   },
