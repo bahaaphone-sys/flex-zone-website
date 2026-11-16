@@ -689,6 +689,9 @@
     "price": 25,
     "colors": "Off White ",
     "description": "Adidas Adventure crewneck sweatshirt featuring a mountain-inspired front graphic, classic round neckline, long sleeves and ribbed cuffs. Available in Off White with purple details and Black with white and red details. Delivery all over Lebanon.",
+    "sizes": [
+      "m-l-xl-2xl-3xl"
+    ],
     "image": "/media/flexzone-crewneck-adventure-offwhite-thumb.webp",
     "available": true
   },
