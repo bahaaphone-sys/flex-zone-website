@@ -601,6 +601,9 @@
     "price": 45,
     "colors": "Petrol Blue & Black",
     "description": "Nike hooded sports tracksuit with zip-up jacket, matching black pants, zippered pockets and comfortable lightweight design. Available in all black or petrol blue and black. Delivery all over Lebanon.",
+    "sizes": [
+      "l-2xl-3xl"
+    ],
     "image": "/media/nike-tracksuit-teal-on-model-site.webp",
     "available": true
   },
