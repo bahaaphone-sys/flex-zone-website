@@ -569,6 +569,9 @@
     "price": 45,
     "colors": "White / Black Details",
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
+    "sizes": [
+      "Xl-2xl-3xl"
+    ],
     "image": "/media/flexzone-nike-tracksuit-white-thumb-1.webp",
     "available": true
   },
