@@ -1,0 +1,2330 @@
+{
+  "available_products": 145,
+  "generated_images": 145,
+  "failed_products": 0,
+  "upsampled_images": 75,
+  "failures": [],
+  "products": [
+    {
+      "id": "FZ-0001",
+      "original_file": "media/optimized/b7f130c889ba554f6375.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        638,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0001.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 64369,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0002",
+      "original_file": "media/optimized/f55f02d1b018b42a7679.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        618,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0002.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 35834,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0003",
+      "original_file": "media/optimized/1e57d4ff0faca14600ea.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        628,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0003.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 43658,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0004",
+      "original_file": "media/3BFC410E-5287-46F7-907A-7C82D6F3331E.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0004.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 23813,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0005",
+      "original_file": "media/878E3B1D-315F-4CD4-A4F3-BD6525320223-1.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0005.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 23625,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0006",
+      "original_file": "media/optimized/3f838ea34a99274b04e7.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        456
+      ],
+      "catalog_image": "meta-images/FZ-0006.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 24947,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0007",
+      "original_file": "media/optimized/0d9b7b145e16b9791e63.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        484
+      ],
+      "catalog_image": "meta-images/FZ-0007.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 28595,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0008",
+      "original_file": "media/optimized/aaab7d12657f1202c775.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        493
+      ],
+      "catalog_image": "meta-images/FZ-0008.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 26546,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0009",
+      "original_file": "media/optimized/5478d3c5abef9c66783c.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        472
+      ],
+      "catalog_image": "meta-images/FZ-0009.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19302,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0010",
+      "original_file": "media/optimized/194efe19e6784d7ccd1e.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        545
+      ],
+      "catalog_image": "meta-images/FZ-0010.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 25356,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0011",
+      "original_file": "media/optimized/d0c5e55c35ae463aa6b3.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        738,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0011.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 28139,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0012",
+      "original_file": "media/optimized/fa2aa5dfb6296c250abd.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        734,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0012.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 23381,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0013",
+      "original_file": "media/optimized/2737c7a9cb57546d5d74.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        601
+      ],
+      "catalog_image": "meta-images/FZ-0013.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 43164,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0014",
+      "original_file": "media/optimized/555d491604caeef92dcd.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0014.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 32645,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0015",
+      "original_file": "media/optimized/4bde499478cc841e6c4b.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0015.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 38824,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0016",
+      "original_file": "media/optimized/9ca8ab5c9c9b2a20402c.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0016.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 48240,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0017",
+      "original_file": "media/optimized/aeaf579f07342348d974.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0017.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 47830,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0018",
+      "original_file": "media/optimized/888f2a5665b7d0f402d6.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        450
+      ],
+      "catalog_image": "meta-images/FZ-0018.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 46163,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0019",
+      "original_file": "media/optimized/7d4aeaeb9f6e6f51d70d.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0019.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 42989,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0020",
+      "original_file": "media/optimized/8ef4f6eb18a9aa3584df.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        452
+      ],
+      "catalog_image": "meta-images/FZ-0020.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 35354,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0021",
+      "original_file": "media/optimized/533e5ec8d2b9b8d10a53.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0021.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 48938,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0022",
+      "original_file": "media/optimized/9a312b1feb9037f5e481.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        452
+      ],
+      "catalog_image": "meta-images/FZ-0022.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 41202,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0023",
+      "original_file": "media/optimized/4c87fd0c128dc4326609.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        451
+      ],
+      "catalog_image": "meta-images/FZ-0023.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 38081,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0024",
+      "original_file": "media/optimized/5c1ba9dbeb6e2d19ea8b.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        621,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0024.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 24382,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0025",
+      "original_file": "media/optimized/15633f1378bca2ffac86.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        624,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0025.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 31143,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0026",
+      "original_file": "media/optimized/6f882eed91670f260a68.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        670,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0026.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 25678,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0027",
+      "original_file": "media/optimized/a7e1120156734a331093.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        637,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0027.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 27518,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0028",
+      "original_file": "media/optimized/40715e2121c3f8b3ce66.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        655,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0028.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 32472,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0029",
+      "original_file": "media/optimized/064167e6f691050a3f36.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        626,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0029.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 33367,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0030",
+      "original_file": "media/optimized/28db6f7cd8c98eff55c1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        636,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0030.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 26421,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0031",
+      "original_file": "media/optimized/4e63be4d6fe2add3bacc.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        638,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0031.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 23667,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0032",
+      "original_file": "media/optimized/461102c73b96efda70d9.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        496,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0032.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 31007,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0033",
+      "original_file": "media/optimized/a8ee674121316acca669.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        496,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0033.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 30515,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0034",
+      "original_file": "media/optimized/fb59a8769fd5de18fde0.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        497,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0034.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 29929,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0035",
+      "original_file": "media/B8758E53-B8FD-4BA1-9F2D-FC2C18F3B8D8.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0035.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 17713,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0036",
+      "original_file": "media/flexzone-hoodie-adidas-collegiate-green-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0036.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 10462,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0037",
+      "original_file": "media/flexzone-hoodie-adidas-red-logo-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0037.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8913,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0038",
+      "original_file": "media/flexzone-hoodie-jordan-navy-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0038.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9251,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0039",
+      "original_file": "media/flexzone-hoodie-adidas-red-logo-white-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0039.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8699,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0040",
+      "original_file": "media/hoodie-red-600.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        600,
+        600
+      ],
+      "catalog_image": "meta-images/FZ-0040.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 40370,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0041",
+      "original_file": "media/flexzone-nike-tracksuit-black-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0041.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7755,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0042",
+      "original_file": "media/flexzone-nike-tracksuit-white-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0042.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7180,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0043",
+      "original_file": "media/optimized/2f0d14a2756edcc91678.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        600,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0043.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 59833,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0044",
+      "original_file": "media/optimized/688a24bc09ea5d84954c.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0044.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 106774,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0045",
+      "original_file": "media/optimized/b64289b906367ef3d788.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0045.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 108816,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0046",
+      "original_file": "media/optimized/a4ba8789f29033c0eefc.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0046.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 107750,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0047",
+      "original_file": "media/nike-tracksuit-teal-on-model-site.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        300,
+        450
+      ],
+      "catalog_image": "meta-images/FZ-0047.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19633,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0048",
+      "original_file": "media/flex-zone-adidas-black-tracksuit-model-300-2.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0048.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9776,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0049",
+      "original_file": "media/adidas-cotton-set-petrol-teal-on-model-site-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        300,
+        450
+      ],
+      "catalog_image": "meta-images/FZ-0049.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 20842,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0050",
+      "original_file": "media/flexzone-adidas-colorblock-slate-black-thumb-3.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0050.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7620,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0051",
+      "original_file": "media/flexzone-adidas-colorblock-teal-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0051.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7820,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0052",
+      "original_file": "media/flexzone-crewneck-adidas-white-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0052.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 6418,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0053",
+      "original_file": "media/optimized/a51126d0777e2ce31f85.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0053.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 103618,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0054",
+      "original_file": "media/flexzone-crewneck-tennis-offwhite-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0054.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8418,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0055",
+      "original_file": "media/optimized/e1571f355addc93cc71d.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0055.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 98041,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0056",
+      "original_file": "media/flexzone-crewneck-adventure-offwhite-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0056.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8514,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0057",
+      "original_file": "media/optimized/4ac3992ecce2cfb05c18.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0057.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 114636,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0058",
+      "original_file": "media/optimized/af61944e8c9092b5b28c.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0058.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 103171,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0059",
+      "original_file": "media/nike-black-model-2-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0059.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7377,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0060",
+      "original_file": "media/F9418549-A7A3-4E32-ACA2-2DD54421C622.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0060.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 15695,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0061",
+      "original_file": "media/F6BB07BC-2A42-4AE9-8783-845B85DA4FBA.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0061.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16667,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0062",
+      "original_file": "media/4E20F73A-231B-450E-8B86-D6C1877EE95F.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0062.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16408,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0063",
+      "original_file": "media/2D439E51-B8DF-450B-BE88-F0C4A601E244.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0063.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19227,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0064",
+      "original_file": "media/flexzone-adidas-tracksuit-black-stripes-walk-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0064.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8662,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0065",
+      "original_file": "media/northface-black-grey-white-bg-small-1.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        700,
+        700
+      ],
+      "catalog_image": "meta-images/FZ-0065.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 61384,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0066",
+      "original_file": "media/adidas-black-grey-white-bg-small-1.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        700,
+        700
+      ],
+      "catalog_image": "meta-images/FZ-0066.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 60648,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0067",
+      "original_file": "media/oncloud-black-grey-white-bg-small.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        700,
+        700
+      ],
+      "catalog_image": "meta-images/FZ-0067.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 62068,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0068",
+      "original_file": "media/nike-beige-white-puffer-jacket-400px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        400,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0068.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 18254,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0069",
+      "original_file": "media/exec-c3075d42-09ff-46a8-89d0-8f869c47a4b7-600px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        600,
+        600
+      ],
+      "catalog_image": "meta-images/FZ-0069.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 34408,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0070",
+      "original_file": "media/nike-light-gray-jogger-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0070.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7732,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0071",
+      "original_file": "media/flexzone-crewneck-adidas-camo-olive-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0071.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9421,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0072",
+      "original_file": "media/optimized/8960dd3f90c0dfc1f8dd.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        612,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0072.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 27958,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0073",
+      "original_file": "media/optimized/7a915ef3db99d4b6c89e.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        670,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0073.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 27941,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0074",
+      "original_file": "media/optimized/881aeddba8b6307ddaa4.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        654,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0074.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 52419,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0075",
+      "original_file": "media/optimized/5fbcb525bc831c392ec3.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        755,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0075.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 38421,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0076",
+      "original_file": "media/optimized/2bf8325dc28f49703f26.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        628,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0076.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 28536,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0077",
+      "original_file": "media/tracksuit-black-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0077.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7531,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0078",
+      "original_file": "media/flex-zone-adidas-black-tracksuit-model-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0078.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9776,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0079",
+      "original_file": "media/flexzone-jacket-sage-black-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0079.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 11388,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0080",
+      "original_file": "media/flexzone-jacket-gray-white-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0080.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 11829,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0081",
+      "original_file": "media/flexzone-jacket-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0081.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 10119,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0082",
+      "original_file": "media/flex-zone-north-face-light-olive-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0082.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 14221,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0083",
+      "original_file": "media/flex-zone-north-face-black-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0083.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 13693,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0084",
+      "original_file": "media/flexzone-adidas-basketball-hoodie-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0084.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9019,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0085",
+      "original_file": "media/adidas-waterproof-black-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0085.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8611,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0086",
+      "original_file": "media/adidas-waterproof-olive-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0086.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9151,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0087",
+      "original_file": "media/adidas-black-cream-drawstring-thumb-1.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0087.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7709,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0088",
+      "original_file": "media/adidas-light-gray-jogger-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0088.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7967,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0089",
+      "original_file": "media/adidas-black-stripe-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0089.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7382,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0090",
+      "original_file": "media/northface-black-jogger-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0090.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7202,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0091",
+      "original_file": "media/optimized/25e5669779e80ba2bb9a.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0091.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 95626,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0092",
+      "original_file": "media/optimized/3550980a6ee9ac1fb256.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0092.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 104118,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0093",
+      "original_file": "media/optimized/7cc281bd335dccde47b5.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0093.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 122375,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0094",
+      "original_file": "media/optimized/c00b667f08579b72c16a.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0094.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 118972,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0095",
+      "original_file": "media/optimized/3d40da54961f0ebe0dca.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0095.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 93380,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0096",
+      "original_file": "media/optimized/38b3ba67078bd6404a9f.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0096.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 114955,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0097",
+      "original_file": "media/optimized/5de44e90a764edf43d38.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0097.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 100185,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0098",
+      "original_file": "media/optimized/b78c0d9db38abc4c3347.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0098.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 96972,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0099",
+      "original_file": "media/optimized/96b5537b5120cc554ad4.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0099.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 105962,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0100",
+      "original_file": "media/optimized/a81e012a0fde108b3c19.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0100.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 106664,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0101",
+      "original_file": "media/optimized/5f2c2543fc74b7dd4f79.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0101.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 94647,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0102",
+      "original_file": "media/optimized/547fee4b729ca6d20808.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0102.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 103243,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0103",
+      "original_file": "media/optimized/0d00a72829a0bc230926.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0103.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 102401,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0104",
+      "original_file": "media/optimized/11a2ab94cd4304f89448.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0104.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 106383,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0105",
+      "original_file": "media/optimized/1056e83aaf0f09cdef3e.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        800,
+        800
+      ],
+      "catalog_image": "meta-images/FZ-0105.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 118620,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0106",
+      "original_file": "media/7EC87C8F-B522-4525-9AD5-091C2B833401.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0106.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 24347,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0107",
+      "original_file": "media/0716BF00-8804-463C-B656-641A1D45AD69-1.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0107.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 22595,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0108",
+      "original_file": "media/37B60A94-D60C-4C3A-A4A3-E210992E441B.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0108.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 22242,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0109",
+      "original_file": "media/63967B8A-A740-490A-A180-C6F1FAC18CA9.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0109.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 98382,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0110",
+      "original_file": "media/C45F4F94-382C-49B4-9D53-9095CEC2041F.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0110.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 94986,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0111",
+      "original_file": "media/827A1454-D3E6-47A2-BEC6-1A4324BC48A1-1.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0111.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 114926,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0112",
+      "original_file": "media/E74D2635-4226-4E07-ADCD-E558A7905B30-1.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0112.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 104693,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0113",
+      "original_file": "media/0A7BA2F4-C995-4433-8CEE-D4DB93DD6771.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0113.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 101266,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0114",
+      "original_file": "media/flex-zone-on-olive-black-jacket-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0114.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 15437,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0115",
+      "original_file": "media/BEBAAC63-61B2-463A-81C3-AE0D74CA4244.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0115.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16284,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0116",
+      "original_file": "media/949DB3CD-1857-4351-AA57-7083CC57950C-1.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0116.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16708,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0117",
+      "original_file": "media/FFE1C177-494A-4BF9-8BDE-255917CC114F.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0117.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 17820,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0118",
+      "original_file": "media/flex-zone-waterproof-jacket-black-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0118.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 13141,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0119",
+      "original_file": "media/flex-zone-grey-waterproof-jacket-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0119.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 14146,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0120",
+      "original_file": "media/flex-zone-waterproof-olive-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0120.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16461,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0121",
+      "original_file": "media/flex-zone-waterproof-black-300-1.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0121.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 13290,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0122",
+      "original_file": "media/flex-zone-white-jacket-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0122.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 16251,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0123",
+      "original_file": "media/flex-zone-blue-jacket-300.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        300,
+        300
+      ],
+      "catalog_image": "meta-images/FZ-0123.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19803,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0124",
+      "original_file": "media/jacket-black.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0124.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 39364,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0125",
+      "original_file": "media/jacket-olive.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0125.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 49113,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0126",
+      "original_file": "media/jacket-light-gray.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0126.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 46486,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0127",
+      "original_file": "media/hoodie-black-400.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        400,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0127.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19372,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0128",
+      "original_file": "media/flexzone-hoodie-adidas-large-logo-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0128.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8974,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0129",
+      "original_file": "media/under-armour-camo-backpack.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0129.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 11869,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0130",
+      "original_file": "media/nike-black-backpack.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0130.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 10101,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0131",
+      "original_file": "media/adidas-backpack-black.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0131.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 11568,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0132",
+      "original_file": "media/exec-1f07060b-a544-49f4-a276-d9f0c53e2ebe.png",
+      "original_format": "PNG",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "catalog_image": "meta-images/FZ-0132.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 48494,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0133",
+      "original_file": "media/nike-black-jogger-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0133.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 7343,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0134",
+      "original_file": "media/nike-tracksuit-black-on-model-site.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        300,
+        450
+      ],
+      "catalog_image": "meta-images/FZ-0134.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 18338,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0135",
+      "original_file": "media/flexzone-crewneck-adventure-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0135.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8790,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0137",
+      "original_file": "media/flexzone-hoodie-adidas-collegiate-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0137.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8791,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0138",
+      "original_file": "media/flexzone-hoodie-jordan-black-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0138.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8918,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0139",
+      "original_file": "media/exec-d064a7cc-0d77-442f-a797-274ddecb3a28-600px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        600,
+        600
+      ],
+      "catalog_image": "meta-images/FZ-0139.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 26371,
+      "upscaled": false
+    },
+    {
+      "id": "FZ-0140",
+      "original_file": "media/flexzone-crewneck-tennis-navy-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0140.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 9752,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0141",
+      "original_file": "media/nike-hoodie-black-500px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        500,
+        500
+      ],
+      "catalog_image": "meta-images/FZ-0141.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 18307,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0142",
+      "original_file": "media/nike-hoodie-grey-500px-1.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        500,
+        500
+      ],
+      "catalog_image": "meta-images/FZ-0142.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 28166,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0143",
+      "original_file": "media/north-face-light-grey-jacket-400px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        400,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0143.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 15401,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0144",
+      "original_file": "media/north-face-olive-puffer-jacket-400px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        400,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0144.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 19359,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0145",
+      "original_file": "media/north-face-black-puffer-jacket-400px.jpg",
+      "original_format": "JPEG",
+      "original_dimensions": [
+        400,
+        400
+      ],
+      "catalog_image": "meta-images/FZ-0145.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 15467,
+      "upscaled": true
+    },
+    {
+      "id": "FZ-0146",
+      "original_file": "media/flexzone-crewneck-adidas-charcoal-thumb.webp",
+      "original_format": "WEBP",
+      "original_dimensions": [
+        240,
+        224
+      ],
+      "catalog_image": "meta-images/FZ-0146.jpg",
+      "catalog_dimensions": [
+        600,
+        600
+      ],
+      "catalog_bytes": 8022,
+      "upscaled": true
+    }
+  ],
+  "note": "Source images remain untouched. Upscaling cannot restore lost detail. Brand field is the store name pending owner review."
+}
