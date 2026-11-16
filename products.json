@@ -1653,6 +1653,9 @@
     "price": 25,
     "colors": "Black with Olive Green Print",
     "description": "Black cotton sweatshirt featuring an olive green print on the front.",
+    "sizes": [
+      "m-l-2xl"
+    ],
     "image": "/media/flexzone-crewneck-adidas-camo-black-thumb.webp",
     "available": false
   },
