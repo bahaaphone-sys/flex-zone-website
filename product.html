@@ -54,7 +54,7 @@ document.getElementById('order').onclick=()=>{
 const size=choices.length?selected:input.value.trim();
 if(!size){document.getElementById('error').textContent='حدّد المقاس قبل ما تكمّل الطلب.';if(!choices.length)input.focus();return;}
 const message='مرحبا، بدي '+p.name+(p.colors?' ('+p.colors+')':'')+'. السعر '+p.price+'$، مقاسي '+size+'.';
-window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
+window.location.assign('https://wa.me/96170828465?text='+encodeURIComponent(message));
 };
 status.hidden=true;card.hidden=false;
 }).catch(()=>{status.textContent='ما قدرنا نحمّل تفاصيل المنتج. جرّب تحديث الصفحة.';});
