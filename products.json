@@ -515,6 +515,9 @@
     "price": 30,
     "colors": "Green / Black",
     "description": "Adidas hoodies in green and black with a classic sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
+    "sizes": [
+      "l-xl"
+    ],
     "image": "/media/flexzone-hoodie-adidas-collegiate-green-thumb-1.webp",
     "available": true
   },
@@ -548,20 +551,6 @@
     "colors": "Red ",
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
     "image": "/media/hoodie-red-600.jpg",
-    "available": true
-  },
-  {
-    "name": "NIKE BLACK TRACKSUIT",
-    "price": 45,
-    "colors": "Black / White",
-    "description": "Nike black tracksuit set with zip-up jacket, matching jogger pants and white logo details. Delivery all over Lebanon. Available sizes: L, 3XL, 4XL, 5XL.",
-    "sizes": [
-      "L",
-      "3XL",
-      "4XL",
-      "5XL"
-    ],
-    "image": "/media/flexzone-nike-tracksuit-black-thumb-1.webp",
     "available": true
   },
   {
