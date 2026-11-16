@@ -1746,6 +1746,9 @@
     "price": 25,
     "colors": "Blak",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small white Nike Swoosh on the chest.",
+    "sizes": [
+      "S-m-l-xl"
+    ],
     "image": "/media/nike-hoodie-black-500px.jpg",
     "available": true
   },
