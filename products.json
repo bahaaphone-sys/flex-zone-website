@@ -1581,6 +1581,9 @@
     "price": 30,
     "colors": "Blak",
     "description": "Pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a red The North Face chest logo.",
+    "sizes": [
+      "m-l"
+    ],
     "image": "/media/hoodie-black-400.jpg",
     "available": true
   },
