@@ -1547,6 +1547,9 @@
     "price": 50,
     "colors": " White with black stripes",
     "description": "Padded hooded jacket with a front zipper, two side pockets, and three black stripes on the sleeves. Adidas logo on the chest.",
+    "sizes": [
+      "m-xl-2xl-3xl-4xl"
+    ],
     "image": "/media/flex-zone-white-jacket-300.jpg",
     "available": true
   },
