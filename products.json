@@ -537,6 +537,9 @@
     "price": 25,
     "colors": "Navy Blue ",
     "description": "Jordan Flight hoodies in navy blue and black with Jumpman graphics, drawstring hood and front pocket. Delivery all over Lebanon.",
+    "sizes": [
+      "s-m-xl"
+    ],
     "image": "/media/flexzone-hoodie-jordan-navy-thumb-1.webp",
     "available": true
   },
