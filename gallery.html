@@ -241,7 +241,7 @@ sendOrder.onclick=event=>{
   const colorText=p.colors?' ('+p.colors+')':'';
   const priceText=Number(p.price)>0?' السعر '+p.price+'$':'';
   const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
-  window.open('https://wa.me/96170828465?text='+encodeURIComponent(message),'_blank','noopener');
+  window.location.assign('https://wa.me/96170828465?text='+encodeURIComponent(message));
 };
 
 fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
