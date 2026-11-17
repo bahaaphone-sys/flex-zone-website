@@ -1817,5 +1817,13 @@
     "description": "Red baseball cap featuring an embroidered Chicago Bulls-inspired design, curved brim, and side logo detail. A sporty everyday accessory with a bold streetwear look.",
     "image": "/media/red_chicago_bulls_embroidered_cap.jpg",
     "available": true
+  },
+  {
+    "name": "New York Yankees White & Navy Cap",
+    "price": 15,
+    "colors": "White & Navy Blue",
+    "description": "Stylish New York Yankees baseball cap featuring a white crown, navy blue curved brim, embroidered front design, and New Era side logo. Perfect for everyday wear and sporty outfits.",
+    "image": "/media/new_york_yankees_white_cap.jpg",
+    "available": true
   }
 ]
