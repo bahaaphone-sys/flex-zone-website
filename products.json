@@ -1873,5 +1873,13 @@
     "description": "Classic blak baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
     "image": "/media/dark_charcoal_cap_with_silver_swoosh.jpg",
     "available": true
+  },
+  {
+    "name": "POW! Trucker Cap",
+    "price": 13,
+    "colors": "Black, Red & Beige",
+    "description": "Stylish trucker cap featuring a colorful POW! comic-style embroidered patch, a red curved brim, black front panel, and beige mesh back. Perfect for casual streetwear outfits.",
+    "image": "/media/stetson_moonshine_jamboree_trucker_cap-1.jpg",
+    "available": true
   }
 ]
