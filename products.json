@@ -1833,5 +1833,13 @@
     "description": "Vintage-style trucker cap featuring a green and white color combination, a curved brim, and a front graphic design. A casual and comfortable accessory for everyday outfits.",
     "image": "/media/vintage_lozere_green_trucker_cap.jpg",
     "available": true
+  },
+  {
+    "name": "New York Yankees Green Baseball Cap",
+    "price": 15,
+    "colors": "Green",
+    "description": "Stylish green baseball cap featuring an embroidered New York Yankees logo on the front, a curved brim, and a classic sporty design. Perfect for casual everyday outfits.",
+    "image": "/media/emerald_green_yankees_cap_on_white.jpg",
+    "available": true
   }
 ]
