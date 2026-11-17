@@ -1841,5 +1841,13 @@
     "description": "Stylish green baseball cap featuring an embroidered New York Yankees logo on the front, a curved brim, and a classic sporty design. Perfect for casual everyday outfits.",
     "image": "/media/emerald_green_yankees_cap_on_white.jpg",
     "available": true
+  },
+  {
+    "name": "Dark Grey Nike Baseball Cap",
+    "price": 15,
+    "colors": "Dark Grey",
+    "description": "Dark grey baseball cap featuring a silver Nike Swoosh logo, a classic curved brim, and a comfortable sporty design. Perfect for casual everyday wear.",
+    "image": "/media/stetson_moonshine_jamboree_trucker_cap.jpg",
+    "available": true
   }
 ]
