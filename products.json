@@ -1812,7 +1812,7 @@
   },
   {
     "name": "Chicago Bulls Red Baseball Cap",
-    "price": 15,
+    "price": 20,
     "colors": "Red",
     "description": "Red baseball cap featuring an embroidered Chicago Bulls-inspired design, curved brim, and side logo detail. A sporty everyday accessory with a bold streetwear look.",
     "image": "/media/red_chicago_bulls_embroidered_cap.jpg",
@@ -1820,7 +1820,7 @@
   },
   {
     "name": "New York Yankees White & Navy Cap",
-    "price": 15,
+    "price": 20,
     "colors": "White & Navy Blue",
     "description": "Stylish New York Yankees baseball cap featuring a white crown, navy blue curved brim, embroidered front design, and New Era side logo. Perfect for everyday wear and sporty outfits.",
     "image": "/media/new_york_yankees_white_cap.jpg",
@@ -1828,7 +1828,7 @@
   },
   {
     "name": "Vintage Lozère Green & White Trucker Cap",
-    "price": 12,
+    "price": 15,
     "colors": "Green & White",
     "description": "Vintage-style trucker cap featuring a green and white color combination, a curved brim, and a front graphic design. A casual and comfortable accessory for everyday outfits.",
     "image": "/media/vintage_lozere_green_trucker_cap.jpg",
@@ -1836,7 +1836,7 @@
   },
   {
     "name": "New York Yankees Green Baseball Cap",
-    "price": 15,
+    "price": 20,
     "colors": "Green",
     "description": "Stylish green baseball cap featuring an embroidered New York Yankees logo on the front, a curved brim, and a classic sporty design. Perfect for casual everyday outfits.",
     "image": "/media/emerald_green_yankees_cap_on_white.jpg",
@@ -1844,7 +1844,7 @@
   },
   {
     "name": "Dark Grey Nike Baseball Cap",
-    "price": 15,
+    "price": 20,
     "colors": "Dark Grey",
     "description": "Dark grey baseball cap featuring a silver Nike Swoosh logo, a classic curved brim, and a comfortable sporty design. Perfect for casual everyday wear.",
     "image": "/media/stetson_moonshine_jamboree_trucker_cap.jpg",
@@ -1852,7 +1852,7 @@
   },
   {
     "name": "White Nike Baseball Cap",
-    "price": 13,
+    "price": 15,
     "colors": "White",
     "description": "Classic white baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
     "image": "/media/white_nike_cap_studio_shot.jpg",
@@ -1860,7 +1860,7 @@
   },
   {
     "name": "red Baseball Cap",
-    "price": 13,
+    "price": 15,
     "colors": "Red",
     "description": "Classic red baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
     "image": "/media/red_nike_baseball_cap_on_white.jpg",
@@ -1868,7 +1868,7 @@
   },
   {
     "name": "Blak Nike Baseball Cap",
-    "price": 13,
+    "price": 15,
     "colors": "Blak",
     "description": "Classic blak baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
     "image": "/media/dark_charcoal_cap_with_silver_swoosh.jpg",
@@ -1876,7 +1876,7 @@
   },
   {
     "name": "POW! Trucker Cap",
-    "price": 13,
+    "price": 15,
     "colors": "Black, Red & Beige",
     "description": "Stylish trucker cap featuring a colorful POW! comic-style embroidered patch, a red curved brim, black front panel, and beige mesh back. Perfect for casual streetwear outfits.",
     "image": "/media/pow_comic_patch_trucker_cap-1.jpg",
