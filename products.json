@@ -1879,7 +1879,15 @@
     "price": 13,
     "colors": "Black, Red & Beige",
     "description": "Stylish trucker cap featuring a colorful POW! comic-style embroidered patch, a red curved brim, black front panel, and beige mesh back. Perfect for casual streetwear outfits.",
-    "image": "/media/stetson_moonshine_jamboree_trucker_cap-1.jpg",
+    "image": "/media/pow_comic_patch_trucker_cap-1.jpg",
+    "available": true
+  },
+  {
+    "name": "Stetson Moonshine Jamboree Trucker Cap",
+    "price": 15,
+    "colors": "Grey, Beige & Yellow",
+    "description": "Vintage-style trucker cap with a grey front panel, beige curved brim, yellow mesh back, and an embroidered Stetson Moonshine Jamboree patch. Perfect for casual everyday wear.",
+    "image": "/media/stetson_moonshine_jamboree_trucker_cap-2.jpg",
     "available": true
   }
 ]
