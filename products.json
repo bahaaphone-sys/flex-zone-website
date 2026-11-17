@@ -1857,5 +1857,13 @@
     "description": "Classic white baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
     "image": "/media/white_nike_cap_studio_shot.jpg",
     "available": true
+  },
+  {
+    "name": "red Baseball Cap",
+    "price": 13,
+    "colors": "Red",
+    "description": "Classic red baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
+    "image": "/media/red_nike_baseball_cap_on_white.jpg",
+    "available": true
   }
 ]
