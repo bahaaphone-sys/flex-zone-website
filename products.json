@@ -1849,5 +1849,13 @@
     "description": "Dark grey baseball cap featuring a silver Nike Swoosh logo, a classic curved brim, and a comfortable sporty design. Perfect for casual everyday wear.",
     "image": "/media/stetson_moonshine_jamboree_trucker_cap.jpg",
     "available": true
+  },
+  {
+    "name": "White Nike Baseball Cap",
+    "price": 13,
+    "colors": "White",
+    "description": "Classic white baseball cap featuring an embroidered Nike Swoosh logo, a curved brim, and a clean sporty design. Perfect for everyday casual wear.",
+    "image": "/media/white_nike_cap_studio_shot.jpg",
+    "available": true
   }
 ]
