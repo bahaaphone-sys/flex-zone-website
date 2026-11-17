@@ -1809,5 +1809,13 @@
     ],
     "image": "/media/flexzone-crewneck-adidas-charcoal-thumb.webp",
     "available": true
+  },
+  {
+    "name": "Chicago Bulls Red Baseball Cap",
+    "price": 15,
+    "colors": "Red",
+    "description": "Red baseball cap featuring an embroidered Chicago Bulls-inspired design, curved brim, and side logo detail. A sporty everyday accessory with a bold streetwear look.",
+    "image": "/media/red_chicago_bulls_embroidered_cap.jpg",
+    "available": true
   }
 ]
