@@ -1825,5 +1825,13 @@
     "description": "Stylish New York Yankees baseball cap featuring a white crown, navy blue curved brim, embroidered front design, and New Era side logo. Perfect for everyday wear and sporty outfits.",
     "image": "/media/new_york_yankees_white_cap.jpg",
     "available": true
+  },
+  {
+    "name": "Vintage Lozère Green & White Trucker Cap",
+    "price": 12,
+    "colors": "Green & White",
+    "description": "Vintage-style trucker cap featuring a green and white color combination, a curved brim, and a front graphic design. A casual and comfortable accessory for everyday outfits.",
+    "image": "/media/vintage_lozere_green_trucker_cap.jpg",
+    "available": true
   }
 ]
