@@ -46,7 +46,7 @@ document.getElementById('colors').textContent=p.colors?'اللون: '+p.colors:'
 const img=document.getElementById('image');img.src=new URL('./'+String(p.image).replace(/^\/+/,''),location.href).href;img.alt=p.name||'صورة المنتج';
 let selected='';
 const raw=Array.isArray(p.sizes)?p.sizes:(typeof p.sizes==='string'?[p.sizes]:[]);
-const choices=raw.flatMap(v=>{const s=String(v||'').trim();return /^(?:(?:[smlx]{1,3}|[2-9]xl|\d{2,3}(?:\.\d{1,2})?)(?:[\s,،;/|·]+|$))+$/i.test(s)?s.split(/[\s,،;/|·]+/):[s];}).map(s=>s.trim().toUpperCase()).filter((s,i,a)=>s&&a.indexOf(s)===i);
+const choices=raw.flatMap(v=>{const s=String(v||'').replace(/[\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]/g,'').trim();const parts=s.split(/[\s,،;/|·–—-]+/).filter(Boolean);return parts.length&&parts.every(part=>/^(?:XS|S|M|L|XL|XXL|XXXL|[2-9]XL|\d{2,3}(?:\.\d{1,2})?)$/i.test(part))?parts:[s];}).map(s=>s.trim().toUpperCase()).filter((s,i,a)=>s&&a.indexOf(s)===i);
 const panel=document.getElementById('sizes'),input=document.getElementById('custom-size');
 if(choices.length){choices.forEach(s=>{const b=document.createElement('button');b.type='button';b.className='size-btn';b.textContent=s;b.setAttribute('aria-pressed','false');b.onclick=()=>{selected=s;for(const c of panel.children)c.setAttribute('aria-pressed',String(c===b));document.getElementById('error').textContent='';};panel.append(b);});document.getElementById('size-heading').textContent='اختار المقاس المتوفر';}
 else{input.hidden=false;document.getElementById('size-heading').textContent='اكتب المقاس المطلوب (منأكدلك التوفر عبر واتساب)';}
