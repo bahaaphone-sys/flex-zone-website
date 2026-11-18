@@ -132,7 +132,7 @@ function setProductImage(img,path,onFail=()=>{}){
 function getProductSizes(p){
   const raw=Array.isArray(p.sizes)?p.sizes:(typeof p.sizes==='string'?[p.sizes]:[]);
   return raw.flatMap(value=>{
-    const text=String(value||'').trim();
+    const text=String(value||'').replace(/[\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]/g,'').trim();
     if(!text)return [];
     // Accept both separately entered sizes and a combined size list entered in one CMS field.
     // Some new products were entered as "S-m-l-xl-2xl" in one size field.
