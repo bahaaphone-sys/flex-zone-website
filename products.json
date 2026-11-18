@@ -1924,5 +1924,13 @@
     "description": "Adidas-style light grey crewneck sweatshirt featuring a subtle textured pattern, three black stripes along the shoulders and sleeves, and a black Adidas logo on the chest. Comfortable relaxed fit with long sleeves, ribbed cuffs and hem. A modern sporty design perfect for everyday casual wear and streetwear outfits.\n\nAvailable at FLEX ZONE.\n\nDelivery all over Lebanon.",
     "image": "/media/black-adidas.jpg",
     "available": true
+  },
+  {
+    "name": "ADIDAS 3-STRIPES ZIP-UP HOODIE",
+    "price": 30,
+    "colors": "Light Grey / Black",
+    "description": "Adidas-style men's light grey zip-up hoodie featuring a contrasting black hood, three black stripes along the shoulders and sleeves, and a black trefoil logo on the chest. Designed with a full front zipper, adjustable hood, front kangaroo pockets, ribbed cuffs, and ribbed hem. Comfortable sporty style, perfect for everyday wear, casual outings, and streetwear outfits.\n\nJacket only — pants not included.\n\nAvailable at FLEX ZONE.\n\nDelivery all over Lebanon.",
+    "image": "/media/Flex_Zone_Grey_Exact_800.jpg",
+    "available": true
   }
 ]
