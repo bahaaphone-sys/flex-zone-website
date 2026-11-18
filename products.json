@@ -516,7 +516,8 @@
     "colors": "Green / Black",
     "description": "Adidas hoodies in green and black with a classic sporty design, adjustable hood and front pocket. Delivery all over Lebanon.",
     "sizes": [
-      "l-xl"
+      "L",
+      "XL"
     ],
     "image": "/media/flexzone-hoodie-adidas-collegiate-green-thumb-1.webp",
     "available": true
@@ -527,7 +528,9 @@
     "colors": "Black / Orange Print",
     "description": "Adidas basketball hoodie in black with orange front and back graphics, adjustable hood and front pocket. Delivery all over Lebanon.",
     "sizes": [
-      "s-m-3xl"
+      "S",
+      "M",
+      "3XL"
     ],
     "image": "/media/flexzone-hoodie-adidas-red-logo-black-thumb.webp",
     "available": true
@@ -538,7 +541,9 @@
     "colors": "Navy Blue ",
     "description": "Jordan Flight hoodies in navy blue and black with Jumpman graphics, drawstring hood and front pocket. Delivery all over Lebanon.",
     "sizes": [
-      "s-m-xl"
+      "S",
+      "M",
+      "XL"
     ],
     "image": "/media/flexzone-hoodie-jordan-navy-thumb-1.webp",
     "available": true
@@ -549,7 +554,9 @@
     "colors": "Light Grey ",
     "description": "Adidas hoodies in light grey and black with red chest graphics, drawstring hood and front kangaroo pocket. Delivery all over Lebanon.",
     "sizes": [
-      "S-m-3xl"
+      "S",
+      "M",
+      "3XL"
     ],
     "image": "/media/flexzone-hoodie-adidas-red-logo-white-thumb-1.webp",
     "available": true
@@ -560,7 +567,10 @@
     "colors": "Red ",
     "description": "The North Face hoodies in red and black with front logo print, drawstring hood and kangaroo pocket. Delivery all over Lebanon.",
     "sizes": [
-      "s-m-xl-2xl"
+      "S",
+      "M",
+      "XL",
+      "2XL"
     ],
     "image": "/media/hoodie-red-600.jpg",
     "available": true
@@ -571,7 +581,9 @@
     "colors": "White / Black Details",
     "description": "Nike white tracksuit set with zip-up jacket, matching jogger pants and black logo details. Delivery all over Lebanon.",
     "sizes": [
-      "Xl-2xl-3xl"
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/flexzone-nike-tracksuit-white-thumb-1.webp",
     "available": true
@@ -614,7 +626,9 @@
     "colors": "Petrol Blue & Black",
     "description": "Nike hooded sports tracksuit with zip-up jacket, matching black pants, zippered pockets and comfortable lightweight design. Available in all black or petrol blue and black. Delivery all over Lebanon.",
     "sizes": [
-      "l-2xl-3xl"
+      "L",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/nike-tracksuit-teal-on-model-site.webp",
     "available": true
@@ -633,7 +647,8 @@
     "colors": "Dark Grey & Black",
     "description": "Adidas dark grey and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "sizes": [
-      "l-3xl"
+      "L",
+      "3XL"
     ],
     "image": "/media/flexzone-adidas-colorblock-slate-black-thumb-3.webp",
     "available": true
@@ -644,7 +659,10 @@
     "colors": "Petrol Blue & Black",
     "description": "Adidas sage green and black sports tracksuit featuring a full-zip jacket, matching black pants, white stripe details and zippered pockets. Delivery all over Lebanon.",
     "sizes": [
-      "l-2xl-3xl-4xl"
+      "L",
+      "2XL",
+      "3XL",
+      "4XL"
     ],
     "image": "/media/flexzone-adidas-colorblock-teal-black-thumb.webp",
     "available": true
@@ -655,7 +673,10 @@
     "colors": "Off White ",
     "description": "Adidas crewneck sweatshirt with a classic round neckline, long sleeves, ribbed cuffs and a minimal logo design. Available in Off White and Charcoal. Perfect for casual and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "s-m-l-xl"
+      "S",
+      "M",
+      "L",
+      "XL"
     ],
     "image": "/media/flexzone-crewneck-adidas-white-thumb.webp",
     "available": true
@@ -674,7 +695,9 @@
     "colors": "Off White ",
     "description": "Adidas Tennis Club crewneck sweatshirt with long sleeves, ribbed neckline and cuffs, and bold Adidas Tennis Club chest print. Available in Off White and Black. Delivery all over Lebanon.",
     "sizes": [
-      "m-xl-2xl"
+      "M",
+      "XL",
+      "2XL"
     ],
     "image": "/media/flexzone-crewneck-tennis-offwhite-thumb.webp",
     "available": true
@@ -693,7 +716,11 @@
     "colors": "Off White ",
     "description": "Adidas Adventure crewneck sweatshirt featuring a mountain-inspired front graphic, classic round neckline, long sleeves and ribbed cuffs. Available in Off White with purple details and Black with white and red details. Delivery all over Lebanon.",
     "sizes": [
-      "m-l-xl-2xl-3xl"
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/flexzone-crewneck-adventure-offwhite-thumb.webp",
     "available": true
@@ -868,7 +895,9 @@
     "colors": " Red",
     "description": "Nike crewneck sweatshirt featuring a bold front graphic, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Red. Sweatshirt sold separately from pants. Delivery all over Lebanon.",
     "sizes": [
-      "m-2xl-3xl"
+      "M",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/exec-c3075d42-09ff-46a8-89d0-8f869c47a4b7-600px.jpg",
     "available": true
@@ -879,7 +908,10 @@
     "colors": "Light Grey",
     "description": "Nike jogger pants featuring an elastic waistband with adjustable drawstring, side pockets, ribbed ankle cuffs and Nike logo detailing. Comfortable sporty fit for everyday wear. Available in Black and Light Grey. Pants sold separately from sweatshirts. Delivery all over Lebanon.",
     "sizes": [
-      "S-m-2xl-3xl"
+      "S",
+      "M",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/nike-light-gray-jogger-thumb-1.webp",
     "available": true
@@ -890,7 +922,9 @@
     "colors": "Olive Green",
     "description": "Adidas crewneck sweatshirt featuring a camouflage-style square logo graphic on the chest, classic round neckline, long sleeves and ribbed cuffs and hem. Comfortable relaxed fit for casual and everyday wear. Available in Black and Olive Green. Delivery all over Lebanon.",
     "sizes": [
-      "m-l-3xl"
+      "M",
+      "L",
+      "3XL"
     ],
     "image": "/media/flexzone-crewneck-adidas-camo-olive-thumb-1.webp",
     "available": true
@@ -982,7 +1016,9 @@
     "colors": "Black / Silver Grey",
     "description": "Adidas two-piece tracksuit featuring a black hooded zip-up jacket with silver-grey shoulder stripes, Adidas chest logo, zippered chest and side pockets, and elastic cuffs. Matching black pants with three silver-grey vertical stripes, zippered pocket, Adidas logo and elastic waistband. Comfortable sporty design for outdoor activities and everyday wear. Available in Black / Silver Grey. Delivery all over Lebanon.",
     "sizes": [
-      "‏xl-4xl-5xl"
+      "XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/flex-zone-adidas-black-tracksuit-model-300.jpg",
     "available": true
@@ -1045,7 +1081,11 @@
     "colors": " Black",
     "description": "The North Face lightweight waterproof and windproof hooded jacket. Thin and comfortable design that provides protection against wind and rain without the bulk of a heavy winter jacket. Features a full front zipper, adjustable hood, zippered side pockets and elastic cuffs. Perfect for everyday wear and changing weather. Available in Olive Green and Black. Delivery all over Lebanon. Available sizes: S, 3XL.",
     "sizes": [
-      "4xl-5xl-6xl-7xl-8xl"
+      "4XL",
+      "5XL",
+      "6XL",
+      "7XL",
+      "8XL"
     ],
     "available": true
   },
@@ -1063,7 +1103,11 @@
     "colors": "Black",
     "description": "Adidas lightweight waterproof track pants in Black, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Delivery all over Lebanon.",
     "sizes": [
-      "2xl-3xl-4xl-5xl-6xl"
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/adidas-waterproof-black-thumb-1.webp",
     "available": true
@@ -1074,7 +1118,11 @@
     "colors": "Black / Olive Green",
     "description": "Adidas lightweight waterproof track pants, designed for protection against wind and rain. Featuring an elastic waistband with adjustable drawstrings, side pockets, straight-leg fit, and Adidas logo detail. Comfortable for everyday wear and outdoor activities. Available in Black and Olive Green. Delivery all over Lebanon.",
     "sizes": [
-      "2xl-3xl-4xl-5xl-6xl"
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
     ],
     "image": "/media/adidas-waterproof-olive-thumb.webp",
     "available": true
@@ -1085,7 +1133,9 @@
     "colors": "Black",
     "description": "Adidas cotton jogger pants featuring a black-on-black graphic print, contrasting white drawstrings, elastic waistband, side pockets, and ribbed ankle cuffs. Comfortable sporty fit for everyday casual wear. Available in Black. Delivery all over Lebanon.",
     "sizes": [
-      "S-m-l"
+      "S",
+      "M",
+      "L"
     ],
     "image": "/media/adidas-black-cream-drawstring-thumb-1.webp",
     "available": true
@@ -1096,7 +1146,8 @@
     "colors": "Light Grey",
     "description": "Adidas Originals cotton jogger pants in light grey, featuring the white Trefoil logo, elastic waistband with adjustable drawstring, side pockets, and ribbed ankle cuffs. Comfortable sporty fit, perfect for casual and everyday wear. Available in Light Grey. Delivery all over Lebanon.",
     "sizes": [
-      "Xl-3xl"
+      "XL",
+      "3XL"
     ],
     "image": "/media/adidas-light-gray-jogger-thumb.webp",
     "available": true
@@ -1107,7 +1158,10 @@
     "colors": "Black / White Stripes",
     "description": "Adidas black cotton jogger pants featuring two white side stripes on each leg, an elastic waistband with adjustable drawstrings, side pockets, Adidas logo detail, and ribbed ankle cuffs. Comfortable sporty fit for everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "Xl-2xl-4xl-5xl"
+      "XL",
+      "2XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/adidas-black-stripe-thumb.webp",
     "available": true
@@ -1118,7 +1172,8 @@
     "colors": "Black",
     "description": "The North Face black cotton jogger pants featuring a white logo detail, elastic waistband with adjustable drawstrings, two zippered side pockets, and ribbed ankle cuffs. Comfortable sporty fit for casual and everyday wear. Delivery all over Lebanon.",
     "sizes": [
-      "l-3xl"
+      "L",
+      "3XL"
     ],
     "image": "/media/northface-black-jogger-thumb.webp",
     "available": true
@@ -1550,7 +1605,11 @@
     "colors": " White with black stripes",
     "description": "Padded hooded jacket with a front zipper, two side pockets, and three black stripes on the sleeves. Adidas logo on the chest.",
     "sizes": [
-      "m-xl-2xl-3xl-4xl"
+      "M",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
     ],
     "image": "/media/flex-zone-white-jacket-300.jpg",
     "available": true
@@ -1561,7 +1620,9 @@
     "colors": "Blue with white stripes",
     "description": "Padded hooded jacket with a front zipper, two side pockets, and three white stripes on the sleeves. Adidas logo on the chest.",
     "sizes": [
-      "m-l-2xl"
+      "M",
+      "L",
+      "2XL"
     ],
     "image": "/media/flex-zone-blue-jacket-300.jpg",
     "available": true
@@ -1611,7 +1672,8 @@
     "colors": "Blak",
     "description": "Pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a red The North Face chest logo.",
     "sizes": [
-      "m-l"
+      "M",
+      "L"
     ],
     "image": "/media/hoodie-black-400.jpg",
     "available": true
@@ -1667,7 +1729,8 @@
     "colors": "Blak",
     "description": "Black cotton pants designed for comfortable everyday wear.",
     "sizes": [
-      "S-m"
+      "S",
+      "M"
     ],
     "image": "/media/nike-black-jogger-thumb.webp",
     "available": true
@@ -1678,7 +1741,10 @@
     "colors": "Black with Purple Print",
     "description": "Black hoodie featuring a purple print on the front.",
     "sizes": [
-      "m-l-xl-2xl"
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/flexzone-crewneck-adventure-black-thumb.webp",
     "available": true
@@ -1689,7 +1755,9 @@
     "colors": "Black with Olive Green Print",
     "description": "Black cotton sweatshirt featuring an olive green print on the front.",
     "sizes": [
-      "m-l-2xl"
+      "M",
+      "L",
+      "2XL"
     ],
     "image": "/media/flexzone-crewneck-adidas-camo-black-thumb.webp",
     "available": false
@@ -1700,7 +1768,8 @@
     "colors": "Blak",
     "description": "Black hoodie featuring a black print on the front.",
     "sizes": [
-      "l-3xl"
+      "L",
+      "3XL"
     ],
     "image": "/media/flexzone-hoodie-adidas-collegiate-black-thumb.webp",
     "available": true
@@ -1711,7 +1780,11 @@
     "colors": "Black",
     "description": "Black Jordan hoodie with a sporty design for everyday wear.",
     "sizes": [
-      "S-m-l-xl-2xl"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
     ],
     "image": "/media/flexzone-hoodie-jordan-black-thumb.webp",
     "available": true
@@ -1735,7 +1808,10 @@
     "colors": "Black with White Adidas Print",
     "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, ribbed cuffs and hem, and a white Adidas logo print on the front.",
     "sizes": [
-      "m-l-2xl-3xl"
+      "M",
+      "L",
+      "2XL",
+      "3XL"
     ],
     "image": "/media/flexzone-crewneck-tennis-navy-thumb.webp",
     "available": true
@@ -1746,7 +1822,10 @@
     "colors": "Blak",
     "description": "Black pullover hoodie with an adjustable drawstring hood, front kangaroo pocket, ribbed cuffs and hem, and a small white Nike Swoosh on the chest.",
     "sizes": [
-      "S-m-l-xl"
+      "S",
+      "M",
+      "L",
+      "XL"
     ],
     "image": "/media/nike-hoodie-black-500px.jpg",
     "available": true
@@ -1782,7 +1861,9 @@
     "colors": "Olive Green with White Logo",
     "description": "Black puffer jacket with a high collar, full front zipper, two front zip pockets, and a white The North Face logo on the chest.",
     "sizes": [
-      "s-3xl-4xl"
+      "S",
+      "3XL",
+      "4XL"
     ],
     "image": "/media/north-face-olive-puffer-jacket-400px.jpg",
     "available": true
@@ -1793,7 +1874,8 @@
     "colors": "Blak",
     "description": "Color-block puffer jacket with a hood, full front zipper, two front zip pockets, and a white Nike logo on the chest.",
     "sizes": [
-      "S-l-"
+      "S",
+      "L"
     ],
     "image": "/media/north-face-black-puffer-jacket-400px.jpg",
     "available": true
@@ -1804,7 +1886,8 @@
     "colors": "‏ Black with White Adidas Print",
     "description": "Black cotton sweatshirt with a classic crew neck, long sleeves, and ribbed cuffs and hem. Features a white Adidas logo print on the front. Comfortable for everyday wear.",
     "sizes": [
-      "S-l"
+      "S",
+      "L"
     ],
     "image": "/media/flexzone-crewneck-adidas-charcoal-thumb.webp",
     "available": true
@@ -1895,7 +1978,11 @@
     "colors": "Blak",
     "description": "Adidas long black puffer winter jacket featuring a padded design, full front zipper, protective hood, high collar, and side pockets. Stylish long-length winter coat designed for warmth, comfort, and everyday wear. Perfect for cold weather, casual outfits, and sporty winter looks.\n\nAvailable at FLEX ZONE.\n\nDelivery all over Lebanon.",
     "sizes": [
-      "Xl-2xl-3xl-4xl-5xl"
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
     ],
     "image": "/media/flexzone-adidas-puffer-long-black-thumb.webp",
     "available": true
