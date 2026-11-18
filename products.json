@@ -1889,5 +1889,16 @@
     "description": "Vintage-style trucker cap with a grey front panel, beige curved brim, yellow mesh back, and an embroidered Stetson Moonshine Jamboree patch. Perfect for casual everyday wear.",
     "image": "/media/stetson_moonshine_jamboree_trucker_cap-2.jpg",
     "available": true
+  },
+  {
+    "name": "ADIDAS LONG PUFFER WINTER JACKET",
+    "price": 65,
+    "colors": "Blak",
+    "description": "Adidas long black puffer winter jacket featuring a padded design, full front zipper, protective hood, high collar, and side pockets. Stylish long-length winter coat designed for warmth, comfort, and everyday wear. Perfect for cold weather, casual outfits, and sporty winter looks.\n\nAvailable at FLEX ZONE.\n\nDelivery all over Lebanon.",
+    "sizes": [
+      "Xl-2xl-3xl-4xl-5xl"
+    ],
+    "image": "/media/flexzone-adidas-puffer-long-black-thumb.webp",
+    "available": true
   }
 ]
