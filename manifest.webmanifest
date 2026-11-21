@@ -12,7 +12,7 @@
   "theme_color": "#101010",
   "icons": [
     {
-      "src": "./flex-zone-app-icon.svg",
+      "src": "./flex-zone-app-icon.svg?v=red-logo-1",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
