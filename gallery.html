@@ -68,6 +68,13 @@ h1{font-size:20px;margin:0}
 .error{color:#ffb1a8}
 @media(min-width:700px){main{padding-top:28px}.stage{min-height:560px}.stage img{height:560px}.thumb{flex-basis:132px;height:120px}}
 </style>
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="./flex-zone-app-icon.svg">
+<link rel="apple-touch-icon" href="./flex-zone-app-icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="FLEX ZONE">
+<meta name="application-name" content="FLEX ZONE">
 </head>
 <body>
 <header><strong>👑 FLEX ZONE</strong></header>
@@ -311,6 +318,11 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
 .catch(()=>{
   stage.innerHTML='<p class="status error">ما قدرنا نحمّل الصور. جرّب تحدّث الصفحة.</p>';
 });
+</script>
+<script>
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
+}
 </script>
 </body>
 </html>
