@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="FLEX ZONE">
+<rect width="512" height="512" rx="104" fill="#101010"/>
+<path d="M149 173l31-44 41 34 35-60 35 60 41-34 31 44-19 38H168z" fill="#f5c842"/>
+<circle cx="180" cy="128" r="11" fill="#f5c842"/><circle cx="256" cy="99" r="11" fill="#f5c842"/><circle cx="332" cy="128" r="11" fill="#f5c842"/>
+<text x="256" y="326" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="152" font-weight="900" letter-spacing="-12" fill="#f5c842">FZ</text>
+<rect x="110" y="350" width="292" height="4" rx="2" fill="#f5c842"/>
+<text x="256" y="391" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="800" letter-spacing="6" fill="#ffffff">FLEX ZONE</text>
+</svg>
