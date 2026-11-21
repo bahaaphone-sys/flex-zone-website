@@ -1,5 +1,5 @@
-const CACHE_NAME='flex-zone-shell-v1';
-const SHELL=['./gallery.html','./shop.html','./flex-zone-app-icon.svg'];
+const CACHE_NAME='flex-zone-shell-v2';
+const SHELL=['./gallery.html','./shop.html','./flex-zone-app-icon.svg?v=red-logo-1'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
 });
