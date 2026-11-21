@@ -1,0 +1,21 @@
+{
+  "id": "./gallery.html",
+  "name": "FLEX ZONE",
+  "short_name": "FLEX ZONE",
+  "description": "متجر FLEX ZONE للملابس والأحذية الرياضية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./gallery.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "./flex-zone-app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
