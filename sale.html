@@ -15,7 +15,28 @@ else fetch('./products.json?refresh='+Date.now(),{cache:'no-store'}).then(r=>{if
 const grid=document.getElementById('grid');grid.replaceChildren();
 for(const p of items){if(!p||p.available===false||!p.image||!(Number(p.price)>0)||football(p.name))continue;
 const sale=cash(Math.round(Number(p.price)*75)/100),card=document.createElement('article');card.className='card';
-const img=document.createElement('img');img.src=new URL('./'+String(p.image).replace(/^\/+/,''),location.href);img.alt=p.name||'Product';img.loading='lazy';card.append(img);
+const img=document.createElement('img');
+const imageURL=new URL('./'+String(p.image).replace(/^\/+/,''),location.href);
+let tries=0;
+img.alt=p.name||'Product';img.loading='lazy';img.decoding='async';
+img.onerror=()=>{
+  if(tries++<2){
+    const retry=new URL(imageURL.href);
+    retry.searchParams.set('retry',String(Date.now())+'-'+tries);
+    img.src=retry.href;
+  }else{
+    img.onerror=null;
+    img.style.display='none';
+    const notice=document.createElement('div');
+    notice.style.cssText='aspect-ratio:1;display:grid;place-items:center;text-align:center;padding:18px;background:#222;color:#ccc';
+    const reload=document.createElement('button');
+    reload.type='button';reload.textContent='↻ Reload product image';
+    reload.style.cssText='padding:10px;border:1px solid #aaa;border-radius:8px;background:#333;color:#fff';
+    reload.onclick=()=>{tries=0;notice.remove();img.style.display='block';img.src=imageURL.href+'?reload='+Date.now();};
+    notice.append(reload);card.insertBefore(notice,img.nextSibling);
+  }
+};
+img.src=imageURL.href;card.append(img);
 const info=document.createElement('div');info.className='info',name=document.createElement('div');name.className='name';name.textContent=p.name;info.append(name);
 const prices=document.createElement('div');prices.className='prices',old=document.createElement('span');old.className='old';old.textContent=cash(p.price)+'$';
 const now=document.createElement('span');now.className='new';now.textContent=sale+'$',tag=document.createElement('span');tag.className='tag';tag.textContent='-25%';prices.append(old,now,tag);info.append(prices);
