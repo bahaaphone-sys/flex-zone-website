@@ -82,7 +82,8 @@ h1{font-size:20px;margin:0}
 <section class="hero" id="hero" aria-label="FLEX ZONE">
   <img src="./flex-zone-campaign.webp" alt="FLEX ZONE sport clothes - تشكيلة ملابس رياضية" loading="eager" fetchpriority="high" onerror="this.parentElement.hidden=true">
 </section>
-<div id="sale-banner" hidden style="margin:0 0 18px;background:linear-gradient(110deg,#a00,#d43);padding:16px;border-radius:14px;text-align:center"><a href="./sale.html" style="display:block;color:white;text-decoration:none;font-weight:900;font-size:23px">🔥 WEEKLY SALE 25% OFF 🔥<div style="font-size:13px;margin-top:5px">November 23–29 · Football clothing excluded · Shop Now</div></a></div><h2 class="hero-caption">اختار ستايلك من FLEX ZONE 👑</h2>
+<div id="weekly-sale-banner" hidden style="margin:0 0 18px;background:linear-gradient(110deg,#a00,#d43);padding:15px;border-radius:14px;text-align:center"><a href="./sale.html" style="display:block;color:white;text-decoration:none;font-weight:900;font-size:23px">🔥 WEEKLY SALE 25% OFF 🔥<div style="font-size:13px;margin-top:6px">NOV 23–29 · Football clothing excluded · Shop Now</div></a></div>
+<h2 class="hero-caption">اختار ستايلك من FLEX ZONE 👑</h2>
 <div class="title-row"><h1>معرض الصور</h1><span id="count" class="count"></span></div>
 <div id="stage" class="stage product-focus" aria-live="polite" aria-label="اسحب يمين أو شمال لتغيير القطعة" tabindex="0"><p class="status">عم نحمّل الصور…</p></div>
 <p class="rail-label">اسحب الصورة الكبيرة أو اختار من الشريط تحتها 👇</p>
@@ -118,15 +119,16 @@ const price=document.getElementById('price');
 const sendOrder=document.getElementById('send-order');
 let products=[],active=0,selectedSize='';
 
-const SALE_START='2026-11-23',SALE_END='2026-11-29';
-function dateLB(){return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Beirut',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());}
-function football(p){return /FOOTBALL|JERSEY|REAL MADRID|BARCELONA|MANCHESTER|ARSENAL|JUVENTUS|BAYERN|BORUSSIA|DORTMUND|LIVERPOOL|CHELSEA|PARIS SAINT-GERMAIN|\bPSG\b|AC MILAN|AS ROMA|GERMANY.*TRACKSUIT/.test(String(p.name||'').toUpperCase());}
-function sale(p){const d=dateLB();return d>=SALE_START&&d<=SALE_END&&!football(p);}
-function reduced(p){return Math.round(Number(p.price)*75)/100;}
-function cash(n){return Number(n).toFixed(2).replace(/\.00$/,'').replace(/(\.\d)0$/,'$1');}
+const SALE_BEGIN='2026-11-23',SALE_END='2026-11-29';
+function localDay(){return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Beirut',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());}
+function isFootball(p){return /FOOTBALL|JERSEY|REAL MADRID|BARCELONA|MANCHESTER|ARSENAL|JUVENTUS|BAYERN|BORUSSIA|DORTMUND|LIVERPOOL|CHELSEA|PARIS SAINT-GERMAIN|PSG|AC MILAN|AS ROMA|GERMANY.*TRACKSUIT/.test(String(p.name||'').toUpperCase());}
+function activeSale(){const d=localDay();return d>=SALE_BEGIN&&d<=SALE_END;}
+function eligible(p){return activeSale()&&!isFootball(p);}
+function newPrice(p){return Math.round(Number(p.price)*75)/100;}
+function priceTextValue(n){return Number(n).toFixed(2).replace(/\.00$/,'').replace(/(\.\d)0$/,'$1');}
 
 
-document.getElementById('sale-banner').hidden=!(dateLB()>=SALE_START&&dateLB()<=SALE_END);
+document.getElementById('weekly-sale-banner').hidden=!activeSale();
 function setProductImage(img,path,onFail=()=>{}){
   let imagePath=String(path||'');
   while(imagePath.startsWith('/')) imagePath=imagePath.slice(1);
@@ -200,140 +202,13 @@ function show(index){
   stage.append(img);
   caption.textContent=p.name||'';
   if(Number(p.price)>0){
-    if(sale(p)){price.innerHTML='<del style="color:#aaa;font-size:16px;margin-inline-end:10px">'+cash(p.price)+'$</del><span style="color:#f65">'+cash(reduced(p))+'$</span> <small style="background:#b22;padding:4px;border-radius:4px;color:white">-25%</small>';}else{price.textContent=cash(p.price)+'
-  }else{
-    price.textContent='';
-    price.hidden=true;
-  }
-  renderSizes(p);
-  const availableSizes=document.getElementById('available-sizes');
-  availableSizes.replaceChildren();
-  if(getProductSizes(p).length){
-    const label=document.createElement('span');
-    label.className='available-size-label';
-    label.textContent='المقاسات المتوفرة:';
-    availableSizes.append(label);
-    getProductSizes(p).forEach(value=>{
-      const badge=document.createElement('span');
-      badge.className='available-size-badge';
-      badge.textContent=String(value).toUpperCase();
-      availableSizes.append(badge);
-    });
-  }
-  count.textContent=(index+1)+' / '+products.length;
-  sizePanel.classList.remove('open');
-  sizeInput.value='';
-  for(const [i,b] of [...rail.children].entries()) b.setAttribute('aria-pressed',String(i===index));
-  const currentThumb=rail.children[index];
-  if(currentThumb)currentThumb.scrollIntoView({block:'nearest',inline:'nearest',behavior:'smooth'});
-  
-}
-
-// Swipe on the large image to navigate products, while the lower rail stays in sync.
-let touchStartX=0,touchStartY=0;
-stage.addEventListener('touchstart',event=>{
-  if(event.touches.length!==1)return;
-  touchStartX=event.touches[0].clientX;
-  touchStartY=event.touches[0].clientY;
-},{passive:true});
-stage.addEventListener('touchend',event=>{
-  if(!products.length||!event.changedTouches.length)return;
-  const dx=event.changedTouches[0].clientX-touchStartX;
-  const dy=event.changedTouches[0].clientY-touchStartY;
-  if(Math.abs(dx)<45||Math.abs(dx)<Math.abs(dy)*1.25)return;
-  show((active+(dx<0?1:-1)+products.length)%products.length);
-},{passive:true});
-stage.addEventListener('keydown',event=>{
-  if(!products.length)return;
-  if(event.key==='ArrowLeft'||event.key==='ArrowRight'){
-    event.preventDefault();
-    show((active+(event.key==='ArrowLeft'?1:-1)+products.length)%products.length);
-  }
-});
-
-document.getElementById('buy-now').onclick=()=>{
-  sizePanel.classList.toggle('open');
-  if(sizePanel.classList.contains('open')&&!customSize.hidden) sizeInput.focus();
-};
-
-sendOrder.onclick=event=>{
-  event.preventDefault();
-  const p=products[active];
-  const size=getProductSizes(p).length?selectedSize:sizeInput.value.trim();
-  if(!size){
-    if(getProductSizes(p).length){
-      sizePanel.classList.add('open');
-      document.getElementById('size-error').hidden=false;
-    }else{
-      sizeInput.focus();
-    }
-    return;
-  }
-  const colorText=p.colors?' ('+p.colors+')':'';
-  const priceText=Number(p.price)>0?' السعر '+cash(sale(p)?reduced(p):p.price)+'
-  const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
-  window.location.assign('https://wa.me/96170828465?text='+encodeURIComponent(message));
-};
-
-fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
-.then(r=>{if(!r.ok)throw Error();return r.json();})
-.then(items=>{
-  products=items.filter(p=>p&&p.available!==false&&p.image);
-  if(!products.length)throw Error();
-  const f=document.createDocumentFragment();
-  const loadThumb=im=>{
-    if(im.dataset.requested==='true') return;
-    im.dataset.requested='true';
-    im.loading='eager';
-    setProductImage(im,im.dataset.imagePath);
-  };
-  products.forEach((p,i)=>{
-    const b=document.createElement('button');
-    b.type='button';
-    b.className='thumb';
-    b.setAttribute('aria-label','عرض '+(p.name||'الصورة'));
-    b.setAttribute('aria-pressed','false');
-    const im=document.createElement('img');
-    im.alt='';
-    im.decoding='async';
-    im.dataset.imagePath=p.image;
-    if(i<6) loadThumb(im);
-    b.append(im);
-    b.onclick=()=>{show(i);stage.scrollIntoView({behavior:'smooth',block:'start'});};
-    f.append(b);
-  });
-  rail.append(f);
-  let thumbLoadQueued=false;
-  const loadNearbyThumbs=()=>{
-    if(thumbLoadQueued) return;
-    thumbLoadQueued=true;
-    requestAnimationFrame(()=>{
-      thumbLoadQueued=false;
-      const bounds=rail.getBoundingClientRect();
-      if(bounds.bottom<=0||bounds.top>=innerHeight) return;
-      const minX=bounds.left-420,maxX=bounds.right+420;
-      for(const b of rail.children){
-        const rect=b.getBoundingClientRect();
-        if(rect.right>=minX&&rect.left<=maxX) loadThumb(b.querySelector('img'));
-      }
-    });
-  };
-  rail.addEventListener('scroll',loadNearbyThumbs,{passive:true});
-  window.addEventListener('scroll',loadNearbyThumbs,{passive:true});
-  loadNearbyThumbs();
-  show(0);
-})
-.catch(()=>{
-  stage.innerHTML='<p class="status error">ما قدرنا نحمّل الصور. جرّب تحدّث الصفحة.</p>';
-});
-</script>
-<script>
-if('serviceWorker' in navigator){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
-}
-</script>
-</body>
-</html>;}
+    if(eligible(p)){
+      price.replaceChildren();
+      const old=document.createElement('del');old.textContent=priceTextValue(p.price)+'$';old.style.cssText='font-size:16px;color:#aaa;margin-inline-end:10px';
+      const now=document.createElement('span');now.textContent=priceTextValue(newPrice(p))+'$';now.style.color='#ff7777';
+      const badge=document.createElement('small');badge.textContent=' -25%';badge.style.cssText='font-size:13px;color:white;background:#a22;padding:3px 6px;border-radius:5px;margin-inline-start:8px';
+      price.append(old,now,badge);
+    }else{price.textContent=priceTextValue(p.price)+'$';}
     price.hidden=false;
   }else{
     price.textContent='';
@@ -404,7 +279,7 @@ sendOrder.onclick=event=>{
     return;
   }
   const colorText=p.colors?' ('+p.colors+')':'';
-  const priceText=Number(p.price)>0?' السعر '+cash(sale(p)?reduced(p):p.price)+'
+  const priceText=Number(p.price)>0?' السعر '+priceTextValue(eligible(p)?newPrice(p):p.price)+'$':'';
   const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
   window.location.assign('https://wa.me/96170828465?text='+encodeURIComponent(message));
 };
