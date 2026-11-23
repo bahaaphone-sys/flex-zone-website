@@ -338,7 +338,7 @@ fetch('./products.json?refresh='+Date.now(),{cache:'no-store'})
 </script>
 <script>
 if('serviceWorker' in navigator){
-  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
+  window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js?v=3-fixed-gallery').catch(()=>{}));
 }
 </script>
 </body>
