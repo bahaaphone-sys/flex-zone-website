@@ -1649,8 +1649,8 @@
     "description": "Light grey hooded jacket with a front closure, zip pockets, elastic cuffs, and a small On Cloud logo. Available sizes: XL, 2XL, 3XL.",
     "sizes": [
       "XL",
-      "2XL",
-      "3XL"
+      "3xl",
+      "4xl"
     ],
     "image": "/media/jacket-light-gray.png",
     "available": true
