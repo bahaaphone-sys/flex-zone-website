@@ -3,7 +3,7 @@
 <meta property="og:type" content="website"><meta property="og:site_name" content="FLEX ZONE"><meta property="og:title" content="FLEX ZONE | 25% OFF WEEKLY SALE">
 <meta property="og:description" content="NOV 23–29 ONLY! Sneakers, jackets, tracksuits & more. Football jerseys and football tracksuits excluded.">
 <meta property="og:url" content="https://bahaaphone-sys.github.io/flex-zone-website/sale.html"><meta property="og:image" content="https://bahaaphone-sys.github.io/flex-zone-website/flex-zone-campaign.webp"><meta name="twitter:card" content="summary_large_image">
-<style>*{box-sizing:border-box}body{margin:0;background:#101010;color:white;font-family:system-ui,-apple-system,sans-serif}header{text-align:center;padding:18px;border-bottom:1px solid #333}header a{color:white;text-decoration:none;font-size:26px;font-weight:900}main{max-width:1100px;margin:auto;padding:20px 14px 45px}.hero{text-align:center;background:linear-gradient(135deg,#901515,#e44735 65%,#561010);color:#fff;padding:32px 14px;border-radius:18px;margin-bottom:20px}.sale-photo{width:100%;height:auto;display:block;border-radius:18px;margin-bottom:20px}.hero h1{font-size:clamp(48px,12vw,90px);margin:8px 0}.hero h2{font-size:18px}.hero small{color:#fff}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}.card{background:#1e1e1e;border:1px solid #333;border-radius:14px;overflow:hidden}.card img{width:100%;aspect-ratio:1;object-fit:contain;background:white}.info{padding:12px}.name{font-weight:800;font-size:14px;min-height:40px}.prices{margin:12px 0}.old{color:#aaa;text-decoration:line-through;margin-right:9px}.new{font-size:23px;color:#f76;font-weight:900}.tag{background:#a22;border-radius:4px;padding:3px;font-size:12px;margin-left:5px}.order{display:block;text-align:center;color:white;background:#198a4d;text-decoration:none;border-radius:9px;padding:12px;font-weight:800}.note{text-align:center;color:#ddd;margin:19px}.end{text-align:center;padding:35px}</style></head><body>
+<style>*{box-sizing:border-box}body{margin:0;background:#101010;color:white;font-family:system-ui,-apple-system,sans-serif}header{text-align:center;padding:18px;border-bottom:1px solid #333}header a{color:white;text-decoration:none;font-size:26px;font-weight:900}main{max-width:1100px;margin:auto;padding:20px 14px 45px}.hero{text-align:center;background:linear-gradient(135deg,#901515,#e44735 65%,#561010);color:#fff;padding:32px 14px;border-radius:18px;margin-bottom:20px}.sale-photo{width:100%;height:auto;display:block;border-radius:18px;margin-bottom:20px}.hero h1{font-size:clamp(48px,12vw,90px);margin:8px 0}.hero h2{font-size:18px}.hero small{color:#fff}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}.card{background:#1e1e1e;border:1px solid #333;border-radius:14px;overflow:hidden}.card img{width:100%;aspect-ratio:1;object-fit:contain;background:white}.info{padding:12px}.name{font-weight:800;font-size:14px;min-height:40px}.prices{margin:12px 0}.old{color:#aaa;text-decoration:line-through;margin-right:9px}.new{font-size:23px;color:#f76;font-weight:900}.tag{background:#a22;border-radius:4px;padding:3px;font-size:12px;margin-left:5px}.order{display:block;text-align:center;color:white;background:#198a4d;text-decoration:none;border-radius:9px;padding:12px;font-weight:800}.photo-share{display:block;width:100%;margin-top:8px;padding:11px;border:1px solid #6b6b6b;border-radius:9px;background:#333;color:#fff;font:inherit;font-size:13px;font-weight:700;cursor:pointer}.photo-share:disabled{opacity:.6}.note{text-align:center;color:#ddd;margin:19px}.end{text-align:center;padding:35px}</style></head><body>
 <header><a href="./gallery.html">👑 FLEX ZONE</a></header><main><div id="active-sale"><section class="hero"><h2>WEEKLY SALE • 23–29 NOVEMBER 2026</h2><h1>25% OFF</h1><p>MEN'S SPORTSWEAR · SNEAKERS · JACKETS & MORE</p><small>Football jerseys & football tracksuits excluded</small></section><p class="note">Sale prices are shown below. While stocks last.</p><div class="grid" id="grid">Loading products…</div></div><div id="ended" class="end" hidden><h2>The weekly sale is not active now.</h2><a href="./gallery.html" style="color:#f7c949">Shop the collection</a></div></main>
 <script>
 const d=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Beirut',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
@@ -40,7 +40,47 @@ img.src=imageURL.href;card.append(img);
 const info=document.createElement('div');info.className='info',name=document.createElement('div');name.className='name';name.textContent=p.name;info.append(name);
 const prices=document.createElement('div');prices.className='prices',old=document.createElement('span');old.className='old';old.textContent=cash(p.price)+'$';
 const now=document.createElement('span');now.className='new';now.textContent=sale+'$',tag=document.createElement('span');tag.className='tag';tag.textContent='-25%';prices.append(old,now,tag);info.append(prices);
-const order=document.createElement('a');order.className='order';order.textContent='Order on WhatsApp';order.href='https://wa.me/96170828465?text='+encodeURIComponent('Hello FLEX ZONE, I want '+p.name+' ('+(p.colors||'')+'). Sale price: '+sale+'$. Please confirm available sizes.');order.target='_blank';order.rel='noopener';info.append(order);card.append(info);grid.append(card);}
+const photoURL=imageURL.href;
+const message='مرحبا FLEX ZONE، بدي هالقطعة من عرض 25%:'+
+  '\\n'+(p.name||'Product')+
+  '\\nالسعر بعد الخصم: '+sale+'$'+
+  (p.colors?'\\nاللون: '+p.colors:'')+
+  '\\nصورة القطعة: '+photoURL+
+  '\\nخبروني عن المقاسات المتوفرة.';
+const order=document.createElement('a');
+order.className='order';order.textContent='اطلب عالواتساب مع صورة القطعة';
+order.href='https://wa.me/96170828465?text='+encodeURIComponent(message);
+order.target='_blank';order.rel='noopener';info.append(order);
+const share=document.createElement('button');
+share.type='button';share.className='photo-share';
+share.textContent='إرسال صورة القطعة على واتساب';
+share.addEventListener('click',async()=>{
+  if(!navigator.share){window.open(order.href,'_blank','noopener');return;}
+  const original=share.textContent;share.disabled=true;share.textContent='عم نجهّز الصورة…';
+  try{
+    const response=await fetch(photoURL,{cache:'no-store'});
+    if(!response.ok)throw Error('image unavailable');
+    const blob=await response.blob();
+    const bitmap=await createImageBitmap(blob);
+    const canvas=document.createElement('canvas');
+    canvas.width=bitmap.width;canvas.height=bitmap.height;
+    const context=canvas.getContext('2d');
+    context.fillStyle='#fff';context.fillRect(0,0,canvas.width,canvas.height);
+    context.drawImage(bitmap,0,0);
+    if(typeof bitmap.close==='function')bitmap.close();
+    const jpeg=await new Promise(resolve=>canvas.toBlob(resolve,'image/jpeg',0.9));
+    if(!jpeg)throw Error('image conversion failed');
+    const file=new File([jpeg],'FLEX-ZONE-product.jpg',{type:'image/jpeg'});
+    if(!navigator.canShare||!navigator.canShare({files:[file]}))throw Error('file sharing unsupported');
+    await navigator.share({files:[file],text:'FLEX ZONE - '+p.name+' - '+sale+'$'});
+  }catch(error){
+    if(error.name!=='AbortError'){
+      alert('إذا مشاركة الصورة مش مدعومة عهالجهاز، رح تفتح رسالة واتساب وفيها رابط الصورة.');
+      window.open(order.href,'_blank','noopener');
+    }
+  }finally{share.disabled=false;share.textContent=original;}
+});
+info.append(share);card.append(info);grid.append(card);}
 if(!grid.children.length)grid.textContent='No sale products available.';
 }).catch(()=>document.getElementById('grid').textContent='Could not load products. Please refresh.');
 </script></body></html>
