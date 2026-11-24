@@ -42,11 +42,11 @@ const prices=document.createElement('div');prices.className='prices',old=documen
 const now=document.createElement('span');now.className='new';now.textContent=sale+'$',tag=document.createElement('span');tag.className='tag';tag.textContent='-25%';prices.append(old,now,tag);info.append(prices);
 const photoURL=imageURL.href;
 const message='مرحبا FLEX ZONE، بدي هالقطعة من عرض 25%:'+
-  '\\n'+(p.name||'Product')+
-  '\\nالسعر بعد الخصم: '+sale+'$'+
-  (p.colors?'\\nاللون: '+p.colors:'')+
-  '\\nصورة القطعة: '+photoURL+
-  '\\nخبروني عن المقاسات المتوفرة.';
+  '\n'+(p.name||'Product')+
+  '\nالسعر بعد الخصم: '+sale+'$'+
+  (p.colors?'\nاللون: '+p.colors:'')+
+  '\nصورة القطعة: '+photoURL+
+  '\nخبروني عن المقاسات المتوفرة.';
 const order=document.createElement('a');
 order.className='order';order.textContent='اطلب عالواتساب مع صورة القطعة';
 order.href='https://wa.me/96170828465?text='+encodeURIComponent(message);
