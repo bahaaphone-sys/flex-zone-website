@@ -280,7 +280,9 @@ sendOrder.onclick=event=>{
   }
   const colorText=p.colors?' ('+p.colors+')':'';
   const priceText=Number(p.price)>0?' السعر '+priceTextValue(eligible(p)?newPrice(p):p.price)+'$':'';
-  const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.';
+  const imageLink=new URL('./'+String(p.image).replace(/^\/+/,''),location.href).href;
+  const message='مرحبا، بدي '+p.name+colorText+'.'+priceText+' مقاسي '+size+'.'+
+    '\nصورة القطعة: '+imageLink;
   window.location.assign('https://wa.me/96170828465?text='+encodeURIComponent(message));
 };
 
