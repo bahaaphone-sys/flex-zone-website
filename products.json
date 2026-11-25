@@ -2000,6 +2000,9 @@
     "price": 25,
     "colors": " Black",
     "description": "Adidas-style light grey crewneck sweatshirt featuring a subtle textured pattern, three black stripes along the shoulders and sleeves, and a black Adidas logo on the chest. Comfortable relaxed fit with long sleeves, ribbed cuffs and hem. A modern sporty design perfect for everyday casual wear and streetwear outfits.\n\nAvailable at FLEX ZONE.\n\nDelivery all over Lebanon.",
+    "sizes": [
+      "L xL 3xL "
+    ],
     "image": "/media/black-adidas.jpg",
     "available": true
   },
