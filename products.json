@@ -1583,10 +1583,7 @@
     "colors": "Blak",
     "description": "Men's winter jacket with a front zipper, high collar, and side pockets. Sporty design with a Nike logo on the chest. Available sizes: 2XL, 3XL, 4XL, 5XL.",
     "sizes": [
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
+      "3XL"
     ],
     "image": "/media/flex-zone-waterproof-black-300-1.jpg",
     "available": true
@@ -1866,8 +1863,7 @@
     "colors": "Blak",
     "description": "Color-block puffer jacket with a hood, full front zipper, two front zip pockets, and a white Nike logo on the chest.",
     "sizes": [
-      "S",
-      "L"
+      "S"
     ],
     "image": "/media/north-face-black-puffer-jacket-400px.jpg",
     "available": true
