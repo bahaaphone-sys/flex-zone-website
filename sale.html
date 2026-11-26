@@ -48,38 +48,60 @@ const message='مرحبا FLEX ZONE، بدي هالقطعة من عرض 25%:'+
   '\nصورة القطعة: '+photoURL+
   '\nخبروني عن المقاسات المتوفرة.';
 const order=document.createElement('a');
-order.className='order';order.textContent='اطلب عالواتساب مع صورة القطعة';
+order.className='order';order.textContent='اطلب عالواتساب مع رابط الصورة';
 order.href='https://wa.me/96170828465?text='+encodeURIComponent(message);
 order.target='_blank';order.rel='noopener';info.append(order);
 const share=document.createElement('button');
 share.type='button';share.className='photo-share';
-share.textContent='إرسال صورة القطعة على واتساب';
-share.addEventListener('click',async()=>{
-  if(!navigator.share){window.open(order.href,'_blank','noopener');return;}
-  const original=share.textContent;share.disabled=true;share.textContent='عم نجهّز الصورة…';
-  try{
-    const response=await fetch(photoURL,{cache:'no-store'});
+share.textContent='إرسال الصورة الفعلية على واتساب';
+let photoFile=null, preparing=null;
+function preparePhoto(){
+  if(photoFile)return Promise.resolve(photoFile);
+  if(preparing)return preparing;
+  preparing=(async()=>{
+    const response=await fetch(photoURL);
     if(!response.ok)throw Error('image unavailable');
     const blob=await response.blob();
-    const bitmap=await createImageBitmap(blob);
-    const canvas=document.createElement('canvas');
-    canvas.width=bitmap.width;canvas.height=bitmap.height;
-    const context=canvas.getContext('2d');
-    context.fillStyle='#fff';context.fillRect(0,0,canvas.width,canvas.height);
-    context.drawImage(bitmap,0,0);
-    if(typeof bitmap.close==='function')bitmap.close();
-    const jpeg=await new Promise(resolve=>canvas.toBlob(resolve,'image/jpeg',0.9));
-    if(!jpeg)throw Error('image conversion failed');
-    const file=new File([jpeg],'FLEX-ZONE-product.jpg',{type:'image/jpeg'});
-    if(!navigator.canShare||!navigator.canShare({files:[file]}))throw Error('file sharing unsupported');
-    await navigator.share({files:[file],text:'FLEX ZONE - '+p.name+' - '+sale+'$'});
+    const picture=new Image();
+    const objectURL=URL.createObjectURL(blob);
+    try{
+      await new Promise((resolve,reject)=>{picture.onload=resolve;picture.onerror=reject;picture.src=objectURL;});
+      const canvas=document.createElement('canvas');
+      canvas.width=picture.naturalWidth;canvas.height=picture.naturalHeight;
+      const ctx=canvas.getContext('2d');ctx.fillStyle='#fff';ctx.fillRect(0,0,canvas.width,canvas.height);ctx.drawImage(picture,0,0);
+      const jpeg=await new Promise(resolve=>canvas.toBlob(resolve,'image/jpeg',0.9));
+      if(!jpeg)throw Error('image conversion failed');
+      photoFile=new File([jpeg],'FLEX-ZONE-product.jpg',{type:'image/jpeg'});
+      return photoFile;
+    }finally{URL.revokeObjectURL(objectURL);}
+  })().finally(()=>{preparing=null;});
+  return preparing;
+}
+share.addEventListener('click',async()=>{
+  if(!navigator.share||!navigator.canShare){
+    alert('لإرسال الصورة الفعلية، افتح الصفحة في Safari أو Chrome. يمكنك أيضاً حفظ صورة القطعة وإرفاقها في واتساب.');
+    return;
+  }
+  if(!photoFile){
+    share.disabled=true;share.textContent='عم نجهّز الصورة…';
+    try{await preparePhoto();share.textContent='الصورة جاهزة — اضغط لإرسالها';}
+    catch(e){share.textContent='إعادة تجهيز الصورة';alert('تعذّر تجهيز الصورة. جرّب مرة ثانية أو افتحها في Safari.');}
+    finally{share.disabled=false;}
+    return;
+  }
+  try{
+    if(!navigator.canShare({files:[photoFile]}))throw Error('unsupported');
+    await navigator.share({files:[photoFile],text:message});
   }catch(error){
-    if(error.name!=='AbortError'){
-      alert('إذا مشاركة الصورة مش مدعومة عهالجهاز، رح تفتح رسالة واتساب وفيها رابط الصورة.');
-      window.open(order.href,'_blank','noopener');
-    }
-  }finally{share.disabled=false;share.textContent=original;}
+    if(error.name!=='AbortError')alert('تعذّرت مشاركة الصورة. افتح الصفحة في Safari أو Chrome، أو احفظ الصورة وأرفقها في واتساب.');
+  }
 });
+if(typeof IntersectionObserver==='function'){
+  const observer=new IntersectionObserver(entries=>{
+    if(entries.some(entry=>entry.isIntersecting)){observer.disconnect();preparePhoto().catch(()=>{});}
+  },{rootMargin:'100px'});
+  observer.observe(share);
+}
 info.append(share);card.append(info);grid.append(card);}
 if(!grid.children.length)grid.textContent='No sale products available.';
 }).catch(()=>document.getElementById('grid').textContent='Could not load products. Please refresh.');
