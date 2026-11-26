@@ -53,7 +53,7 @@ order.href='https://wa.me/96170828465?text='+encodeURIComponent(message);
 order.target='_blank';order.rel='noopener';info.append(order);
 const share=document.createElement('button');
 share.type='button';share.className='photo-share';
-share.textContent='إرسال الصورة الفعلية على واتساب';
+share.textContent='اسأل عن المقاس مع صورة القطعة';
 let photoFile=null, preparing=null;
 function preparePhoto(){
   if(photoFile)return Promise.resolve(photoFile);
@@ -102,6 +102,12 @@ if(typeof IntersectionObserver==='function'){
   },{rootMargin:'100px'});
   observer.observe(share);
 }
+img.style.cursor='pointer';
+img.tabIndex=0;
+img.setAttribute('role','button');
+img.setAttribute('aria-label','اسأل عن مقاس '+p.name+' وأرسل الصورة');
+img.addEventListener('click',()=>share.click());
+img.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();share.click();}});
 info.append(share);card.append(info);grid.append(card);}
 if(!grid.children.length)grid.textContent='No sale products available.';
 }).catch(()=>document.getElementById('grid').textContent='Could not load products. Please refresh.');
